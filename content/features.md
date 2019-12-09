@@ -6,8 +6,8 @@ sections:
     content: >-
       1. Setup a free github account
 
-      2. Create an [OAuth app](https://github.com/settings/developers) and
-      submit client id and client secret
+      2. Create an <a href="https://github.com/settings/developers"
+      target="_blank">OAuth app</a> and submit client id and client secret
 
       3. We setup your cloud based platform in minutes
 
