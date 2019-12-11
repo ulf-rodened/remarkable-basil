@@ -3,16 +3,11 @@ title: Features
 sections:
   - actions: []
     bg: gray
-    content: >-
+    content: |-
       1. Setup a free github account
-
-      2. Create an <a href="https://github.com/settings/developers"
-      target="_blank">OAuth app</a> and submit client id and client secret
-
+      2. Submit your username
       3. We setup your cloud based platform in minutes
-
       4. Start building your flows 
-
       5. Deploy for production
     image: /images/yellow-hot-air-balloon-floating-1740097.jpg
     section_id: features
