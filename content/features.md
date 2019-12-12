@@ -5,7 +5,7 @@ sections:
     bg: gray
     content: |-
       1. Setup a free github account
-      2. Submit your username
+      2. Submit your email that you use for the github account
       3. We setup your cloud based platform in minutes
       4. Start building your flows 
       5. Deploy for production
