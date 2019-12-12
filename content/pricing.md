@@ -12,7 +12,7 @@ sections:
           * 5GB SDD
         highlight: false
         partiallyid: a9bc5238-ccba-4b6e-988d-d8de2bb05f27
-        amount: 168
+        amount: 14
         description: Green Hornet
         price: $14/m
         title: Green hornet
@@ -24,7 +24,7 @@ sections:
           * 10GB SSD
         highlight: false
         partiallyid: baf6c7e8-9681-49b7-bfac-6be0f9e50038
-        amount: 360
+        amount: 30
         description: Purple Super Paste 
         price: $30/m
         title: Purple Super Paste
