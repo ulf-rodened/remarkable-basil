@@ -18,12 +18,8 @@ params:
     tagline: ''
   header:
     has_nav: true
-    logo_img: /images/rodened_b.png
+    logo_img: /images/rodened_b2_300.png
     title: Rodened
-    #menu:
-    #  actions:
-    #    - label: Sign Up
-    #      url: /signup
   palette: purple
 disableKinds:
   - RSS
