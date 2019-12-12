@@ -11,7 +11,7 @@ sections:
           * 512MB RAM
           * 5GB SDD
         highlight: false
-        partiallyid: a77eebd7-a488-4ded-b05c-e4de4b3521b7
+        partiallyid: a9bc5238-ccba-4b6e-988d-d8de2bb05f27
         amount: 168
         description: Green Hornet
         price: $14/m
@@ -23,7 +23,7 @@ sections:
           * 1GB RAM
           * 10GB SSD
         highlight: false
-        partiallyid: 84f1bbdc-86f8-41a5-b4ea-6262b0000c8e
+        partiallyid: baf6c7e8-9681-49b7-bfac-6be0f9e50038
         amount: 360
         description: Purple Super Paste 
         price: $30/m
