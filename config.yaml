@@ -11,7 +11,7 @@ params:
         text: Made with Stackbit
         url: 'https://www.stackbit.com'
     logo_img: /images/rodened_vit_b.png
-    nav_title: RODENED
+    nav_title: ''
     social_title: Community
     subscribe_content: Stay up to date with our latest developments.
     subscribe_title: Subscribe
