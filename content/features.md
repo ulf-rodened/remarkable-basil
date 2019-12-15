@@ -33,8 +33,9 @@ sections:
         title: Build your own APIs
       - content: >-
           Connect to existing AI services for sentiment analysis, text to
-          speech, object detection or your own custom models and make them
-          available from a javascript application frontend.
+          speech, object detection or your own custom models using python or
+          javascript and make them available from a javascript application
+          frontend.
         image: /images/ML.png
         title: Setup a frontend for a machine learning model
       - content: >-
