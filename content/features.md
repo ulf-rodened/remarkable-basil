@@ -33,9 +33,12 @@ sections:
         title: Build your own APIs
       - content: >-
           Connect to existing AI services for sentiment analysis, text to
-          speech, object detection or your own custom models using python or
+          speech, [object
+          detection](https://nodered.rodened.io/#flow/759829d8.7796d8) or your
+          own custom models using
+          [python](https://nodered.rodened.io/#flow/5fa11f1a.5c106) or
           javascript and make them available from a javascript application
-          frontend.
+          [frontend](https://nodered.rodened.io/api/ui/#!/0?socketid=FE0u8A0NKakOSYJHAAAg).
         image: /images/ML.png
         title: Setup a frontend for a machine learning model
       - content: >-
