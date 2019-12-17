@@ -5,7 +5,7 @@ sections:
     bg: gray
     content: |-
       1. Setup a free github account
-      2. Submit your username
+      2. Submit your email that you use for the github account
       3. We setup your cloud based platform in minutes
       4. Start building your flows 
       5. Deploy for production
@@ -33,8 +33,12 @@ sections:
         title: Build your own APIs
       - content: >-
           Connect to existing AI services for sentiment analysis, text to
-          speech, object detection or your own custom models and make them
-          available from a javascript application frontend.
+          speech, [object
+          detection](https://nodered.rodened.io/#flow/759829d8.7796d8) or your
+          own custom models using
+          [python](https://nodered.rodened.io/#flow/5fa11f1a.5c106) or
+          javascript and make them available from a javascript application
+          [frontend](https://nodered.rodened.io/api/ui/#!/0?socketid=FE0u8A0NKakOSYJHAAAg).
         image: /images/ML.png
         title: Setup a frontend for a machine learning model
       - content: >-
