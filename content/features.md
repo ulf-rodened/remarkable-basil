@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Features_
 sections:
   - actions: []
     bg: gray
