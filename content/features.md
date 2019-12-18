@@ -55,6 +55,8 @@ menu:
   main:
     name: Features
     weight: 2
+  secondary:
+    identifier: features
 layout: landing
 ---
 
