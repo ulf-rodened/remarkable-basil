@@ -51,6 +51,7 @@ sections:
           4. Start building your flows 
           5. Deploy for production
         title: How it works
+    section_id: features
     title: ''
     type: section_features
   - actions:
