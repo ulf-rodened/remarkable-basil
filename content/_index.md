@@ -50,6 +50,7 @@ sections:
           3. We setup your cloud based platform in minutes
           4. Start building your flows 
           5. Deploy for production
+        image: /images/yellow-hot-air-balloon-floating-1740097.jpg
         title: How it works
     section_id: features
     title: ''
