@@ -40,7 +40,8 @@ sections:
           other devices.
         image: /images/black-flat-screen-computer-monitor-1714208.jpg
         title: Monitor network and devices
-      - {}
+      - content: "There is lot of resources to look into if you don't know how to build a flow in the Rodened editor. A good place to start is our editor that is free to try at [https://nodered.rodened.io](https://nodered.rodened.io){target=\"_blank\"}. There is a number of examples that we have put togeheter that uses no programming and also one example showing how to use and install python packages. The cloud based editor is set up in the same way as your own subscription will be. On the NODE-RED home page there is a [Discourse ](https://discourse.nodered.org/){target=\"_blank\"}forum which is an excellent place to search for answers and ask questions and also a [Slack ](https://nodered.org/slack/){target=\"_blank\"}forum. \r\nExample flows (1379) and nodes (2361) can easily be found at <https://flows.nodered.org/>\n[Stack Overflow](https://stackoverflow.com/questions/tagged/node-red){target=\"_blank\"} could also be a source for information if you have a more specific question. \r\n\nWe are also glad to help you. Use the[ contact form](https://www.rodened.com/contact/) and we will answer as soon as possible."
+        title: Support
       - {}
     title: ''
     type: section_features
