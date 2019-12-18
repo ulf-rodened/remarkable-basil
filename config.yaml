@@ -21,12 +21,12 @@ params:
     logo_img: /images/rodened_b2_300.png
     title: Rodened
   palette: purple
-menu:
-  main:
+#menu:
+  #main:
     #- identifier: featuresmenu
       #name: Features
       #url: features
-  secondary: []
+  #secondary: []
 disableKinds:
   - RSS
   - taxonomy
