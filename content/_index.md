@@ -11,7 +11,7 @@ sections:
     type: section_hero
   - bg: gray
     featureslist:
-      - content: "A tool for wiring together online services, APIs and hardware devices.\r\nYou can try the editor <a href=\"https://nodered.rodened.io/\" target=\"_blank\">here</a>.\r\n\n\n"
+      - content: "A tool for wiring together online services, APIs and hardware devices.\r\nYou can try the editor <a href=\"https://nodered.rodened.io/\" target=\"_blank\">here</a>.\r \n\n\n"
         image: /images/8.jpg
         title: Flow based editor in the cloud
       - content: >-
