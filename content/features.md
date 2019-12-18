@@ -10,7 +10,7 @@ sections:
       4. Start building your flows 
       5. Deploy for production
     image: /images/yellow-hot-air-balloon-floating-1740097.jpg
-    section_id: features
+    section_id: featuresold
     title: How it works
     type: section_content
   - bg: gray
