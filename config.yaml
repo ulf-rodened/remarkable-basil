@@ -23,9 +23,9 @@ params:
   palette: purple
 menu:
   main:
-    - identifier: featuresmenu
-      name: Features
-      url: features
+    #- identifier: featuresmenu
+      #name: Features
+      #url: features
   secondary: []
 disableKinds:
   - RSS
