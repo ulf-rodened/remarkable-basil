@@ -53,10 +53,10 @@ sections:
     type: section_features
 menu:
   main:
-    name: Features
+    name: ''
     weight: 2
   secondary:
-    identifier: features
+    identifier: ''
 layout: landing
 ---
 
