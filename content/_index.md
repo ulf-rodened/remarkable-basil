@@ -44,6 +44,10 @@ sections:
       - {}
     title: ''
     type: section_features
+  - actions:
+      - label: Start now!
+        url: pricing
+    type: section_cta
 menu:
   main:
     name: Home
