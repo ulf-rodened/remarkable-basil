@@ -1,9 +1,7 @@
 ---
 title: 'Home '
 sections:
-  - actions:
-      - label: Learn More
-        url: /features
+  - actions: []
     content: >-
       Create your workflows without coding and integrate cloud services, email,
       chat, e-commerce, ai and more.
