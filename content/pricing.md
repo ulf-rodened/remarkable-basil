@@ -13,9 +13,9 @@ sections:
         highlight: false
         partiallyid: a9bc5238-ccba-4b6e-988d-d8de2bb05f27
         amount: 14
-        description: Green Hornet
+        description: Green hornet
         price: $14/m
-        title: Green hornet
+        title: Green Hornet
       - details: |-
           * Node-red service
           * Web-based
