@@ -84,6 +84,7 @@ sections:
         url: pricing
     type: section_cta
   - bg: gray
+    section_id: posts
     type: section_posts
 menu:
   main:
