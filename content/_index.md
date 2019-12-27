@@ -11,7 +11,10 @@ sections:
     type: section_hero
   - bg: gray
     featureslist:
-      - content: "A tool for wiring together online services, APIs and hardware devices.\r\nYou can try the editor <a href=\"https://nodered.rodened.io/\" target=\"_blank\">here</a>.\r \n\n\n"
+      - content: >-
+          A tool for wiring together online services, APIs and hardware devices.
+          You can try the editor <a href="https://nodered.rodened.io/"
+          target="_blank">here</a>.
         image: /images/8.jpg
         title: Flow based editor in the cloud
       - content: >-
@@ -28,7 +31,6 @@ sections:
           Connect to existing AI services for sentiment analysis, text to
           speech, <a href="https://nodered.rodened.io/#flow/759829d8.7796d8"
           target="_blank">object detection</a> or your own custom models using 
-
           <a href="https://nodered.rodened.io/#flow/5fa11f1a.5c106"
           target="_blank">Python</a> or javascript or R and make them available
           from a javascript application <a
@@ -53,13 +55,10 @@ sections:
           href="https://discourse.nodered.org/" target="_blank">Discourse
           </a>forum which is an excellent place to search for answers and ask
           questions and also a <a href="https://nodered.org/slack/"
-          target="_blank">Slack</a> forum. 
-
-          Example flows (1379) and nodes (2361) can easily be found at <a
-          href="https://flows.nodered.org/" target="_blank">the flows menu on
-          nodered.org</a>
-
-          <a href="https://stackoverflow.com/questions/tagged/node-red"
+          target="_blank">Slack</a> forum.  Example flows (1379) and nodes
+          (2361) can easily be found at <a href="https://flows.nodered.org/"
+          target="_blank">the flows menu on nodered.org</a> <a
+          href="https://stackoverflow.com/questions/tagged/node-red"
           target="_blank">Stack Overflow</a> could also be a source for
           information if you have a more specific question. 
 
@@ -84,6 +83,10 @@ sections:
       - label: Start now!
         url: pricing
     type: section_cta
+  - bg: gray
+    section_id: posts
+    title: Latest Posts
+    type: section_posts
 menu:
   main:
     name: Home
