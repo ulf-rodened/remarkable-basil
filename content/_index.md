@@ -85,6 +85,7 @@ sections:
     type: section_cta
   - bg: gray
     section_id: posts
+    title: Latest Posts
     type: section_posts
 menu:
   main:
