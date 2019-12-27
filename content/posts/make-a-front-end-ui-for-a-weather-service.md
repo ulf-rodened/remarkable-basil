@@ -10,7 +10,7 @@ layout: post
 ---
 We start with importing the dashboard nodes. Click on the menu to the right of the Save button and select Manage palette. 
 
-![Select the menu and then Manage palette](/images/manage_palette.png =400x)
+![Select the menu and then Manage palette](/images/manage_palette_n.png)
 
 When the manage palette is opened select the Install tab and in the search window write node-red-dashboard. 
 
