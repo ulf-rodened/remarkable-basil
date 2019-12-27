@@ -12,7 +12,7 @@ We start with importing the dashboard nodes. Click on the menu to the right of t
 
 ![Select the menu and then Manage palette](/images/manage_palette_n.png)
 
-When the manage palette is opened select the Install tab and in the search window write node-red-dashboard. 
+When the manage palette is opened select the Install tab and in the search window write -dashboard or node-red-dashboard. 
 
 ![search for and select node-red-dashboard](/images/manage_palette2.png "Search for and select node-red-dashboard")
 
