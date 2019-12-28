@@ -1,11 +1,11 @@
 ---
-title: Make a front end UI for a weather service
+title: Make a front end UI for a service API
 date: 2019-12-27T15:09:52.760Z
 thumb_img_path: /images/openw_dashboard.png
 img_path: /images/burza-burza-z-piorunami-blyskawica-chmury-1118873.jpg
 excerpt: >-
   With the node-red-dashboard nodes, it is easy to create a javascript front end
-  with gauges and a submit form for a weather service without programming. 
+  with gauges and a submit form for a service API without programming.
 layout: post
 ---
 We start with importing the dashboard nodes. Click on the menu to the right of the Save button and select Manage palette. 
