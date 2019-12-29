@@ -42,6 +42,6 @@ The form node has a number of fields that can be configured. Before opening the 
 
 ![](/images/showsidebar400.png)
 
-We have 7 properties in the edit form node. The first property, group is where we create the group that the form will belong to. In this case it is called Weather. We will put all the front end widgets (temperature, pressure, humidity gauge..) to the same group.
+We have 7 properties in the edit form node. The first property, group is where we create the group that the form will belong to. In this case we give it the name Weather. We will put all the front end widgets (temperature, pressure, humidity gauge..) to the same group.
 
 ![](/images/formconfig1200.png)
