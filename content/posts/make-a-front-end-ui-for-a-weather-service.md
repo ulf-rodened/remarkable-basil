@@ -44,12 +44,12 @@ The form node has a number of fields that can be configured. Before opening the 
 
 We have 7 properties in the edit form node. The first property, 
 
-group is where we create the group that the form will belong to. In this case, we give it the name Weather. We will put all the front end widgets (temperature, pressure, humidity gauge..) to the same group. 
-
-Size, we leave it on auto so it will fill the width of the group it is in. 
-
-Label, it is optional and shown in the editor as form if nothing else is written.
-
-Form elements. Here we put in the label of the elements and the variables passed to the next node which is in the Name column.
+* group is where we create the group that the form will belong to. In this case, we give it the name Weather. We will put all the front end widgets (temperature, pressure, humidity gauge..) to the same group. 
+* Size, we leave it on auto so it will fill the width of the group it is in. 
+* Label, it is optional and shown in the editor as form if nothing else is written.
+* Form elements. Here we put in the label of the elements and the variables passed to the next node which is in the Name column.
+* Buttons. We name them Submit and cancel
+* Topic. This field is optional
+* Name. Also optional
 
 ![](/images/formconfig1200.png)
