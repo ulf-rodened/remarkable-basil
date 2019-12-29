@@ -8,7 +8,13 @@ excerpt: >-
   with gauges and a submit form for a service API without programming.
 layout: post
 ---
-With the node-red-dashboard nodes, it is easy to create a javascript front end with gauges and a submit form for a service API without programming. We start with importing the dashboard nodes. Click on the menu to the right of the Save button and select Manage palette. 
+With the node-red-dashboard nodes, it is easy to create a javascript front end with gauges and a submit form for a service API without programming. 
+
+In this flow we will create a dashboard with a submit form and gauges that will present temperature, pressure, humidity and wind speed collected from a service API at [https://openweathermap.org](https://openweathermap.org/) 
+
+![](/images/openw_dashboard.png)
+
+We start with importing the dashboard nodes. Click on the menu to the right of the Save button and select Manage palette. 
 
 ![Select the menu and then Manage palette](/images/manage_palette_n.png)
 
@@ -30,6 +36,20 @@ Click on the Save button to deploy the change to the editor.  Now we will import
 
 ![](/images/openweditor.png)
 
-Now we can see the flow in the editor. The first node in the upper left corner is the submit form where we fill in city and country for the place that we want to know the weather for. The submited information goes to the next node which is a http request node that gets information from the Openweather map API. The URL that is configured in the node (double click to open) is http://api.openweathermap.org/data/2.5/weather?q={{{payload.city}}},{{{payload.country}}}&units=metric&appid=58d2f07f980b027cc80980da27978eba
+Now we can see the flow in the editor. The first node in the upper left corner is the submit form where we fill in the city and country for the place that we want to know the weather for. The submitted information goes to the next node which is an http request node that gets information from the Openweather map API. The URL that is configured in the node (double click to open) is http://api.openweathermap.org/data/2.5/weather?q={{{payload.city}}},{{{payload.country}}}&units=metric&appid=58d2f07f980b027cc80980da27978eba The information from the form node, city and country are supplied in the payload and encapsulated in three curly brackets. The units are set to metric and an appid is used which you get when you apply for a free subscription for the current weather data at [openweathermap](https://openweathermap.org/api).
 
-The information from the form node, city and country are supplied in the payload and encapsulated in three curly brackets. The units are set to metric and an appid is used which you get when you apply for a free subscription for the current weather data at [openweathermap](https://openweathermap.org/api).
+The form node has a number of fields that can be configured. Before opening the node select the menu, view and then show sidebar if you have not done that already. From the side bar if we select the info tab we can see the node help for the selected node.
+
+![](/images/showsidebar400.png)
+
+We have 7 properties in the edit form node. The first property, 
+
+* group is where we create the group that the form will belong to. In this case, we give it the name Weather. We will put all the front end widgets (temperature, pressure, humidity gauge..) to the same group. 
+* Size, we leave it on auto so it will fill the width of the group it is in. 
+* Label, it is optional and shown in the editor as form if nothing else is written.
+* Form elements. Here we put in the label of the elements and the variables passed to the next node which is in the Name column.
+* Buttons. We name them Submit and cancel
+* Topic. This field is optional
+* Name. Also optional
+
+![](/images/formconfig1200.png)
