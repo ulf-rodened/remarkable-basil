@@ -32,8 +32,10 @@ Click on the Save button to deploy the change to the editor.  Now we will import
 
 Now we can see the flow in the editor. The first node in the upper left corner is the submit form where we fill in the city and country for the place that we want to know the weather for. The submitted information goes to the next node which is an http request node that gets information from the Openweather map API. The URL that is configured in the node (double click to open) is http://api.openweathermap.org/data/2.5/weather?q={{{payload.city}}},{{{payload.country}}}&units=metric&appid=58d2f07f980b027cc80980da27978eba The information from the form node, city and country are supplied in the payload and encapsulated in three curly brackets. The units are set to metric and an appid is used which you get when you apply for a free subscription for the current weather data at [openweathermap](https://openweathermap.org/api).
 
-The form node has a number of fields that can be configured. Before opening the node select the menu, view and then show sidebar if you have not done that already. From the side bar if we select the info tab we can see node help for the selected node.
+The form node has a number of fields that can be configured. Before opening the node select the menu, view and then show sidebar if you have not done that already. From the side bar if we select the info tab we can see the node help for the selected node.
 
 ![](/images/showsidebar400.png)
+
+We have 7 properties in the edit form node. The first property, group is where we create the group that the form will belong to. We will put all the front end widgets (temperature, pressure, humidity gauge..) to the same group.
 
 ![](/images/formconfig1200.png)
