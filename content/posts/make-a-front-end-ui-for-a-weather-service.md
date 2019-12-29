@@ -8,7 +8,13 @@ excerpt: >-
   with gauges and a submit form for a service API without programming.
 layout: post
 ---
-With the node-red-dashboard nodes, it is easy to create a javascript front end with gauges and a submit form for a service API without programming. We start with importing the dashboard nodes. Click on the menu to the right of the Save button and select Manage palette. 
+With the node-red-dashboard nodes, it is easy to create a javascript front end with gauges and a submit form for a service API without programming. 
+
+In this flow we will create a dashboard with a submit form and gauges that will present temperature, pressure, humidity and wind speed collected from a service API at [https://openweathermap.org](https://openweathermap.org/) 
+
+![](/images/openw_dashboard.png)
+
+We start with importing the dashboard nodes. Click on the menu to the right of the Save button and select Manage palette. 
 
 ![Select the menu and then Manage palette](/images/manage_palette_n.png)
 
@@ -36,6 +42,6 @@ The form node has a number of fields that can be configured. Before opening the 
 
 ![](/images/showsidebar400.png)
 
-We have 7 properties in the edit form node. The first property, group is where we create the group that the form will belong to. We will put all the front end widgets (temperature, pressure, humidity gauge..) to the same group.
+We have 7 properties in the edit form node. The first property, group is where we create the group that the form will belong to. In this case it is called Weather. We will put all the front end widgets (temperature, pressure, humidity gauge..) to the same group.
 
 ![](/images/formconfig1200.png)
