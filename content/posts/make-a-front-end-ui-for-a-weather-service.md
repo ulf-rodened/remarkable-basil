@@ -1,5 +1,5 @@
 ---
-title: Make a front end UI for a service API
+title: How to make a front end UI for a service API
 date: 2019-12-27T15:09:52.760Z
 thumb_img_path: /images/openw_dashboard.png
 img_path: /images/burza-burza-z-piorunami-blyskawica-chmury-1118873.jpg
