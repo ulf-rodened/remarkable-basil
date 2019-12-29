@@ -10,7 +10,7 @@ layout: post
 ---
 With the node-red-dashboard nodes, it is easy to create a javascript front end with gauges and a submit form for a service API without programming. We start with importing the dashboard nodes. Click on the menu to the right of the Save button and select Manage palette. 
 
-![Select the menu and then Manage palette](/images/manage_palette_n.png){{ $image := $resource.Resize "100x" }}{{ $image := $resource.Resize "100x" }}
+![Select the menu and then Manage palette](/images/manage_palette_n.png)
 
 When the manage palette is opened select the Install tab and in the search window write node-red-dashboard and select install. 
 
