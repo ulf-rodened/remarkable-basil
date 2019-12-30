@@ -44,3 +44,11 @@ To create a python script we will use the template node and save it to the data 
 ```
 
 ![](/images/pythonexe.png)
+
+![](/images/pythonexe2.png)
+
+On row 15 to 18 we read the information from the inject node and use the debug node to display the result from the execution.
+
+while True:     num = sys.stdin.readline() # read the stdin from the inject node
+    num = int(num)
+    print(absolute_value(num))
