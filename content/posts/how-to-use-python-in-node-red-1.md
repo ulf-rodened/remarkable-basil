@@ -17,7 +17,6 @@ With the node-red-contrib-pythonshell node installed we can start to execute pyt
 
 ![](/images/createpythonenv.png)
 
-Copy the flow and use the import from the menu, and then deploy it with the Save button. To create the envtest virtual environment we execute each step by clicking on the button on the timestamp nodes.
-In the debug window to the right, we can see information about the execution and if there were any errors.
+Copy the flow and use the import from the menu, and then deploy it with the Save button. To create the envtest virtual environment we execute each step by clicking on the button on the timestamp nodes. In the debug window to the right, we can see information about the execution and if there were any errors.
 
 ![](/images/createpythonenv_debug1.png)
