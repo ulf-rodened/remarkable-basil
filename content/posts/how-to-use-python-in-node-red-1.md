@@ -37,4 +37,10 @@ When we execute the timestamp nodes we can see the status from the debug nodes i
 
 Create and execute the Python script
 
-To create a python script we will use the template node and save it to the data folder. This python script is a simple function that returns the absolut number of the entered value which is inserted from the timestamp node.
+To create a python script we will use the template node and save it to the data folder. This python script is a simple function that returns the absolut number of the entered value which is inserted from the inject node.
+
+```
+[{"id":"709cc66c.0133e8","type":"template","z":"dbb46e58.4c652","name":"","field":"payload","fieldType":"msg","format":"python","syntax":"plain","template":"import sys\n\ndef absolute_value(num):\n\t\"\"\"This function returns the absolute\n\tvalue of the entered number\"\"\"\n\n\tif num >= 0:\n\t\treturn num\n\telse:\n\t\treturn -num\n\n# Output: 2\n#print(absolute_value(2))\n\nwhile True:\n    num = sys.stdin.readline() # read the stdin from the inject node\n    num = int(num)\n    print(absolute_value(num))","output":"str","x":320,"y":180,"wires":[["adae6ef4.063fa"]]}]
+```
+
+![](/images/pythonexe.png)
