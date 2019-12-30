@@ -35,7 +35,7 @@ When we execute the timestamp nodes we can see the status from the debug nodes i
 
 ![](/images/inst_package2.png)
 
-Create and execute the Python script
+## Create and execute the Python script
 
 To create a python script we will use the template node and save it to the data folder. This python script is a simple function that returns the absolut number of the entered value which is inserted from the inject node.
 
