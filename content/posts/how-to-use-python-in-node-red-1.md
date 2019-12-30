@@ -48,3 +48,5 @@ To create a python script we will use the template node and save it to the data 
 ![](/images/pythonexe3.png)
 
 On row 15 to 18 we read the information from the inject node and execute the function absolute_value which is printed and shown with the debug node.
+
+![](/images/injectnumber.png)
