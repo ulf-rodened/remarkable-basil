@@ -21,7 +21,7 @@ Copy the flow and use the import from the menu, and then deploy it with the Save
 
 ![](/images/createpythonenv_debug1.png)
 
-Install Python libraries
+## Install Python libraries
 
 In this flow we will create a bash file that executes a python script that installs the sys library. If more than one library has to be installed we can add the next one after each other with a space between. If we add the Numpy library then the last row in the template file would be: pip3 install sys numpy.
 
