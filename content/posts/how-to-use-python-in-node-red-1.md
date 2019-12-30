@@ -29,11 +29,15 @@ In this flow we will create a bash file that executes a python script that insta
 [{"id":"642e27c5.0eeb98","type":"tab","label":"install python packages","disabled":false,"info":""},{"id":"e4713981.508268","type":"inject","z":"642e27c5.0eeb98","name":"","topic":"","payload":"","payloadType":"date","repeat":"","crontab":"","once":false,"onceDelay":0.1,"x":140,"y":240,"wires":[["2ee1606c.70d3e"]]},{"id":"2ee1606c.70d3e","type":"exec","z":"642e27c5.0eeb98","command":"chmod u+x /data/install_packages.sh","addpay":false,"append":"","useSpawn":"true","timer":"","oldrc":false,"name":"make install_packages.sh file executable","x":440,"y":240,"wires":[["2cfd991.bcfa966"],["2cfd991.bcfa966"],["2cfd991.bcfa966"]]},{"id":"2cfd991.bcfa966","type":"debug","z":"642e27c5.0eeb98","name":"","active":true,"tosidebar":true,"console":false,"tostatus":false,"complete":"false","x":710,"y":240,"wires":[]},{"id":"16b7d076.1c476","type":"inject","z":"642e27c5.0eeb98","name":"","topic":"","payload":"","payloadType":"date","repeat":"","crontab":"","once":false,"onceDelay":0.1,"x":140,"y":380,"wires":[["293c547b.5f72ec"]]},{"id":"293c547b.5f72ec","type":"exec","z":"642e27c5.0eeb98","command":"bash /data/install_packages.sh","addpay":false,"append":"","useSpawn":"true","timer":"","oldrc":false,"name":"execute /install_packages.sh","x":400,"y":380,"wires":[["8084497e.9f2128"],["8084497e.9f2128"],["8084497e.9f2128"]]},{"id":"8084497e.9f2128","type":"debug","z":"642e27c5.0eeb98","name":"","active":true,"tosidebar":true,"console":false,"tostatus":false,"complete":"false","x":630,"y":380,"wires":[]},{"id":"5c0b3bec.0ad8e4","type":"comment","z":"642e27c5.0eeb98","name":"make the bash file executable","info":"","x":340,"y":180,"wires":[]},{"id":"e897aa68.48d5a8","type":"inject","z":"642e27c5.0eeb98","name":"","topic":"","payload":"","payloadType":"date","repeat":"","crontab":"","once":false,"onceDelay":0.1,"x":140,"y":120,"wires":[["7f2ed388.0d91bc"]]},{"id":"547f47c2.729918","type":"file","z":"642e27c5.0eeb98","name":"","filename":"/data/install_packages.sh","appendNewline":true,"createDir":false,"overwriteFile":"true","encoding":"none","x":650,"y":120,"wires":[[]]},{"id":"7f2ed388.0d91bc","type":"template","z":"642e27c5.0eeb98","name":"file to install packages","field":"payload","fieldType":"msg","format":"python","syntax":"plain","template":"#!/bin/bash \n\ncd /data\nsource envtest/bin/activate\nls -l\nwhich python\npip3 install sys","output":"str","x":380,"y":120,"wires":[["547f47c2.729918"]]},{"id":"ff6d8ba8.78a728","type":"comment","z":"642e27c5.0eeb98","name":"create bash file that installs packages","info":"","x":310,"y":80,"wires":[]},{"id":"1d628f3b.25cb81","type":"comment","z":"642e27c5.0eeb98","name":"execute the bash file to install packages","info":"","x":370,"y":320,"wires":[]}]
 ```
 
-![](/images/inst_package.png)
+
+
+![flow for the python libs](/images/inst_package.png)
+
+
 
 When we execute the timestamp nodes we can see the status from the debug nodes in the debug window. The information is the same as if the command line where used.
 
-![](/images/inst_package2.png)
+![debug info](/images/inst_package2.png)
 
 ## Create and execute the Python script
 
@@ -43,9 +47,9 @@ To create a python script we will use the template node and save it to the data 
 [{"id":"709cc66c.0133e8","type":"template","z":"dbb46e58.4c652","name":"","field":"payload","fieldType":"msg","format":"python","syntax":"plain","template":"import sys\n\ndef absolute_value(num):\n\t\"\"\"This function returns the absolute\n\tvalue of the entered number\"\"\"\n\n\tif num >= 0:\n\t\treturn num\n\telse:\n\t\treturn -num\n\n# Output: 2\n#print(absolute_value(2))\n\nwhile True:\n    num = sys.stdin.readline() # read the stdin from the inject node\n    num = int(num)\n    print(absolute_value(num))","output":"str","x":320,"y":180,"wires":[["adae6ef4.063fa"]]}]
 ```
 
-![](/images/pythonexe.png)
+![execute python file](/images/pythonexe.png)
 
-![](/images/pythonexe3.png)
+![template node with the python script](/images/pythonexe3.png)
 
 On row 15 to 18 we read the information from the inject node and execute the function absolute_value which is printed and shown with the debug node.
 
