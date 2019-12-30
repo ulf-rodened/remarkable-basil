@@ -33,7 +33,7 @@ In this flow we will create a bash file that executes a python script that insta
 
 When we execute the timestamp nodes we can see the status from the debug nodes in the debug window. The information is the same as if the command line where used.
 
-![](/images/pythonexe3.png)
+![](/images/inst_package2.png)
 
 ## Create and execute the Python script
 
@@ -45,9 +45,6 @@ To create a python script we will use the template node and save it to the data 
 
 ![](/images/pythonexe.png)
 
-![](/images/pythonexe2.png)
+![](/images/pythonexe3.png)
 
-On row 15 to 18 we read the information from the inject node and use the debug node to display the result from the execution.
-
-while True:     num = sys.stdin.readline() # read the stdin from the inject node     num = int(num)
-    print(absolute_value(num))
+On row 15 to 18 we read the information from the inject node and execute the function absolute_value which is printed and shown with the debug node.
