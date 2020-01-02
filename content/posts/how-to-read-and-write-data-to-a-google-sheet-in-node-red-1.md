@@ -45,9 +45,7 @@ Click Enable.
 
 # Enable the Drive API
 
-Do the smae thing to enble the Google Drive API. Make sure you are logged into the Developers Console and your project is selected as the current project.
-
-From the navigation menu, hover over APIs and Services and select Library.
+Do the same thing to enble the Google Drive API. 
 
 Search for and click the Google Drive API tile.
 
@@ -74,6 +72,22 @@ Then enter the Name and select a Role for your service account.
 Click Create to generate a certificate file and download it as json.
 
 ![](/images/10_create_key.png)
+
+Now open the downloaded json file and copy all information from the file.
+
+Go to the node-red editor and open the Google sheets node by double clicking on it. 
+
+![](/images/19_conf_gsheet.png)
+
+
+
+![](/images/20_add_cred_in_node_red.png)
+
+![](/images/21_add_cred_node_red.png)
+
+Give the configuration a name ( myproject), select Copy/Paste JSON file and in the JSON field paste the information from the downloaded credentials file. 
+
+
 
 # Copy the service account email address
 
