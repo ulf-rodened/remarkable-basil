@@ -91,13 +91,23 @@ Start with creating a blank google sheets.
 
 ![](/images/createsheetongdrive.png)
 
-Take the ID part from the https link to the spread sheet.
+Take the ID part from the https link of the spread sheet.
+
+![](/images/14_select_id_in_gsheet.png)
+
+
 
 The link looks similar to this: https://docs.google.com/spreadsheets/d/1C_F7--lWjn1Q3dzkNIcU66NoalhSXL3HPvsIxEUFXo0/edit#gid=0
 
 Here the ID is 1C_F7--lWjn1Q3dzkNIcU66NoalhSXL3HPvsIxEUFXo0 which should be copied to the ID field in the node configuration.
 
+![](/images/15_conf_gsheet_node.png)
+
+
+
 When you have the Google sheet open click on the share button in the upper right corner. In the people field put in the email address that you copied from Service account ID and click ready.
+
+
 
 Now you should be able to read and write to the Google sheet.
 
