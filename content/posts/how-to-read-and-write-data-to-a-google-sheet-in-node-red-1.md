@@ -107,10 +107,6 @@ When you have the Google sheet open click on the share button in the upper right
 
 Now you should be able to read and write to the Google sheet.
 
-There is an ERROR message "Missing VISEO Bot Maker key - Read the documentation.".  This will not stop the flow from working.# Install extra nodes
+In the node-red editor there is an error message: "Missing VISEO Bot Maker key - Read the documentation.".  This will not stop the flow from working. 
 
-From the manage palette, install node-red-contrib-viseo-google-authentication and node-red-contrib-viseo-google-spreadsheet.
-
-Now you should be able to read and write to the Google sheet.
-
-There is an ERROR message "Missing VISEO Bot Maker key - Read the documentation.".  This will not stop the flow from working.
+A key can be created at the VISEO github and activated in the editor. This is only used for collecting user statistics so they understand how is using the plugin. I have't figured out yet how to set this key as the documentation does't mentioned how to do it.
