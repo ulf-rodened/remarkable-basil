@@ -55,37 +55,23 @@ Click enable.
 
 To create credentials, from the navigation menu, hover over APIs and Services and select Credentials. 
 
-
-
 ![](/images/8_create_cred.png)
-
-
 
 On the Credentials page, click Create credentials and select the Service account key option.
 
 Set the Service account dropdown to New service account. Then enter the Name and select a Role for your service account.
 
-
-
 ![](/images/9_create_cred2.png)
 
-
-
-Copy the Service account ID which is an email address starting with your service account name.
+**Copy the Service account ID which is an email address starting with your service account name.**
 
 Click Create to generate a certificate file and download it as json.
 
-
-
 ![](/images/10_create_key.png)
-
-
 
 Click on the pen to the right of the Credentials in the node, copy and paste the information in the json file in the field for JSON.
 
 ![](/images/11_manageacc.png)
-
-
 
 # Create a new Google spread sheet from Google Drive.
 
