@@ -17,8 +17,6 @@ Go to <https://console.developers.google.com/project> and sign in to your Google
 
 Once signed in, you'll see a list of existing projects (if there are any) or you can click Create Project to create a new one.
 
-
-
 ![](/images/1_create_project.png)
 
 On the New Project page, enter a name for your project, select an organization and then click Create.On the New Project page, enter a name for your project, select an organization and then click Create.
@@ -29,9 +27,11 @@ On the New Project page, enter a name for your project, select an organization a
 
 Make sure your project is still selected as the current project.
 
-From the navigation menu, hover over APIs and Services and select Library. Search for and click the Google Sheets API tile.
+From the navigation menu, hover over APIs and Services and select Library. 
 
 ![](/images/3_gotolib.png)
+
+Search for and click the Google Sheets API tile.
 
 ![](/images/4_google_sheets.png)
 
@@ -41,7 +41,7 @@ Click Enable.
 
 # Enable the Drive API
 
-Make sure you are logged into the Developers Console and your project is selected as the current project.
+Do the smae thing to enble the Google Drive API. Make sure you are logged into the Developers Console and your project is selected as the current project.
 
 From the navigation menu, hover over APIs and Services and select Library.
 
