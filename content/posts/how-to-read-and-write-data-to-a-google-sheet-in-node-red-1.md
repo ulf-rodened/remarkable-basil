@@ -31,6 +31,16 @@ From the navigation menu, hover over APIs and Services and select Library. Searc
 
 ![](/images/3_gotolib.png)
 
+
+
+![](/images/4_google_sheets.png)
+
+
+
+![](/images/5_enable_gsheet.png)
+
+
+
 Click Enable.
 
 # Enable the Drive API
@@ -40,6 +50,16 @@ Make sure you are logged into the Developers Console and your project is selecte
 From the navigation menu, hover over APIs and Services and select Library.
 
 Search for and click the Google Drive API tile.
+
+
+
+![](/images/6_searchforgoogledrive.png)
+
+
+
+![](/images/7_enable_googledrive.png)
+
+
 
 Click enable.
 
