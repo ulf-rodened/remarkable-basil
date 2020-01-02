@@ -17,9 +17,11 @@ Go to <https://console.developers.google.com/project> and sign in to your Google
 
 Once signed in, you'll see a list of existing projects (if there are any) or you can click Create Project to create a new one.
 
-On the New Project page, enter a name for your project, select an organization and then click Create.
+
 
 ![](/images/1_create_project.png)
+
+On the New Project page, enter a name for your project, select an organization and then click Create.On the New Project page, enter a name for your project, select an organization and then click Create.
 
 ![](/images/2_new_proj.png)
 
