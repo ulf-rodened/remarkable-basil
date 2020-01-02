@@ -9,7 +9,11 @@ layout: post
 ---
 # Install extra nodes
 
-From the manage palette, install node-red-contrib-viseo-google-authentication and node-red-contrib-viseo-google-spreadsheet.
+From the manage palette, install *node-red-contrib-viseo-google-authentication* and *node-red-contrib-viseo-google-spreadsheet*.
+
+![](/images/17_select_palette.png)
+
+![](/images/18_inst_viseo.png)
 
 # Set up a Google service account
 
