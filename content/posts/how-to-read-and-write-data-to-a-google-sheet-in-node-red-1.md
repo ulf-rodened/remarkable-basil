@@ -29,7 +29,7 @@ Make sure your project is still selected as the current project.
 
 From the navigation menu, hover over APIs and Services and select Library. Search for and click the Google Sheets API tile.
 
-![](/images/1_create_project.png)
+![](/images/3_gotolib.png)
 
 Click Enable.
 
