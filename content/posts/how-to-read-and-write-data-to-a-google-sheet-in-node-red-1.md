@@ -55,29 +55,47 @@ Click enable.
 
 # Download Service Account Credentials
 
-To create credentials, from the navigation menu, hover over APIs and Services and select Credentials. 
+Now we will create credentials that we download as a json file and later add to the Google sheets node to configure it. To create credentials, from the navigation menu, hover over APIs and Services and select Credentials. 
 
 ![](/images/8_create_cred.png)
 
 On the Credentials page, click Create credentials and select the Service account key option.
 
-Set the Service account dropdown to New service account. Then enter the Name and select a Role for your service account.
+Set the Service account dropdown to New service account. 
 
 ![](/images/9_create_cred2.png)
 
-**Copy the Service account ID which is an email address starting with your service account name.**
+
+
+Then enter the Name and select a Role for your service account.
 
 Click Create to generate a certificate file and download it as json.
 
 ![](/images/10_create_key.png)
 
-Click on the pen to the right of the Credentials in the node, copy and paste the information in the json file in the field for JSON.
+# Copy the service account email address
+
+Click on Manage service account to the right.
 
 ![](/images/11_manageacc.png)
 
+Click on the email link.
+
+![](/images/12_select_email.png)
+
+And copy the email address
+
+![](/images/13_copy_email.png)
+
 # Create a new Google spread sheet from Google Drive.
 
+Start with creating a blank google sheets.
+
+![](/images/createsheetongdrive.png)
+
 Take the ID part from the https link to the spread sheet.
+
+
 
 The link looks similar to this: https://docs.google.com/spreadsheets/d/1C_F7--lWjn1Q3dzkNIcU66NoalhSXL3HPvsIxEUFXo0/edit#gid=0
 
