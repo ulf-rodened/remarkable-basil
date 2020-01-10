@@ -23,6 +23,8 @@ If the sentiment score is lower than -0.3 the email will be placed in the mail f
 
 The flow is started by clicking on the first node which is an inject node. This could be changed to have it triggered in a time interval instead and the mail node, set to only get the latest unread emails.
 
+For the setup of Google cloud nodes you can follow the excellent *[instructions](https://github.com/GoogleCloudPlatform/node-red-contrib-google-cloud)* at the github for the node-red-contrib-google-cloud node.
+
 Copy the flow below and import it to your rodened editor. 
 
 ```
