@@ -1,5 +1,5 @@
 title: Rodened
-baseURL: /
+baseURL: https://www.rodened.com/
 params:
   footer:
     content: '&copy; RODENED. All rights reserved.'
