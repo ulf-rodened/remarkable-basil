@@ -7,6 +7,8 @@ excerpt: >-
   emails.  This is possible without any coding and the right nodes installed.
 layout: post
 ---
+<meta name="description" content="This is a demonstration flow for use on Rodened.com that loads emails from a mailbox at Yandex, filters the mails on the date, translates the email if it is in Swedish to English and then does sentiment analysis with the Google language API. If the source language field is empty it will detect the language but could be unstable as you will get a warning."><meta name="description" content="This is a demonstration flow for use on Rodened.com that loads emails from a mailbox at Yandex, filters the mails on the date, translates the email if it is in Swedish to English and then does sentiment analysis with the Google language API. If the source language field is empty it will detect the language but could be unstable as you will get a warning.">
+
 ![](/images/email_sentiment.png)
 
 This is a flow that loads emails from a mailbox at yandex, filters the mails on the date, translates the email if it is in Swedish to English and then does sentiment analysis with the Google language API. If the source language field is empty it will detect the language but could be unstable as you will get a warning. 
