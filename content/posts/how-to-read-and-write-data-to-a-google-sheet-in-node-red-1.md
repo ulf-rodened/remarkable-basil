@@ -9,6 +9,8 @@ layout: post
 ---
 <meta name="description" content="Here we show you how easy it is to collect email from users through a submit form and store them in a Google sheet and read the data back in to node-red.">
 
+<meta name="keywords" content="collect email, node-red, rodened editor, demonstration flow, no coding, submit form, Google sheets,">
+
 # Install extra nodes
 
 From the manage palette, install *node-red-contrib-viseo-google-authentication* and *node-red-contrib-viseo-google-spreadsheet*.
