@@ -6,9 +6,13 @@ excerpt: >-
   With the python node (node-red-contrib-pythonshell) it is easy to use python
   in node-red. With the exec node, we can install python libraries and create
   virtual environments. The output from the python shell can be shown in the
-  javascript graph node.
+  javascript graph node or in a debug node.
 layout: post
 ---
+<meta name="description" content="With the python node (node-red-contrib-pythonshell) it is easy to use python in node-red. With the exec node, we can install python libraries and create virtual environments. The output from the python shell can be shown in the javascript graph node. With the python node (node-red-contrib-pythonshell) it is easy to use python in node-red. With the exec node, we can install python libraries and create virtual environments.">
+
+<meta name="keywords" content="run python scripts, libraries, virtual environments, node-red, rodened editor, demonstration flow">
+
 With the node-red-contrib-pythonshell node installed we can start to execute python scripts in node-red. The node is configured with the path to the python file and a path to a virtual python environment which is optional but we recommend to create a virtual environment for each project to make it easier to handle dependencies, library updates and so on. The first step is to create a virtual environment, then install extra libraries. After that, we can create a python script file and execute it and show the output in a debug node, in the dashboard or do other things like sending an email, store it in Google sheets or send it to other service APIs. The first flow here is to create a bash file that will be stored in the data folder, executed and create a virtual environment called envtest. This flow is made to work on the rodened platform and will not work on a windows machine but could be modified to create a bat file instead.
 
 ```
