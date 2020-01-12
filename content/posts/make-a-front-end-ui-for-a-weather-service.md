@@ -8,7 +8,11 @@ excerpt: >-
   with gauges and a submit form for a service API without programming.
 layout: post
 ---
-With the node-red-dashboard nodes, it is easy to create a javascript front end with gauges and a submit form for a service API without programming. 
+<meta name="description" content="With the node-red-dashboard nodes, it is easy to create a javascript front end with gauges and a submit form for a service API without programming.">
+
+
+<meta name="keywords" content="rodened, node-red, dashboard, front end, gauges, submit form, Service API, weather, no programming, low code">
+
 
 In this flow we will create a dashboard with a submit form and gauges that will present temperature, pressure, humidity and wind speed collected from a service API at [https://openweathermap.org](https://openweathermap.org/) 
 
