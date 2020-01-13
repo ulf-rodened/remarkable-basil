@@ -9,7 +9,7 @@ layout: post
 ---
 <meta name="description" content="This is a demonstration flow for use on Rodened.com that loads emails from a mailbox at Yandex, filters the mails on the date, translates the email if it is in Swedish to English and then does sentiment analysis with the Google language API.">
 
-<meta name="keywords" content="email, sentiment analysis, node-red, rodened editor,demonstration flow, no coding, Google language API">
+<meta name="keywords" content="email, sentiment analysis, node-red, rodened editor,demonstration flow, no coding, Google language API, integromat, zapier">
 
 ![](/images/email_sentiment.png)
 
