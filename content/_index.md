@@ -76,6 +76,8 @@ sections:
           5. Deploy for production
         image: /images/yellow-hot-air-balloon-floating-1740097.jpg
         title: How it works
+      - image: /images/nodes.png
+        title: More than 2000 nodes avaliable
     section_id: features
     title: ''
     type: section_features
