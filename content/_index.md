@@ -27,6 +27,8 @@ sections:
           Messenger or other services through your REST APIs.
         image: /images/chatb.png
         title: Build your own APIs
+      - image: /images/nodes.png
+        title: More than 2000 nodes avaliable
       - content: >-
           Connect to existing AI services for sentiment analysis, text to
           speech, <a href="https://nodered.rodened.io/#flow/759829d8.7796d8"
@@ -76,8 +78,6 @@ sections:
           5. Deploy for production
         image: /images/yellow-hot-air-balloon-floating-1740097.jpg
         title: How it works
-      - image: /images/nodes.png
-        title: More than 2000 nodes avaliable
     section_id: features
     title: ''
     type: section_features
