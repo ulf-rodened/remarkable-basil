@@ -35,3 +35,13 @@ Here follows a list of node types:
 ## Function nodes
 
 ![](/images/function_all.png)
+
+## UI nodes
+
+- Dashboard node, uses Angular.js
+
+- Uibuilder node, uses vue.js or other libraries
+
+- Freeboard node
+
+- http request and send nodes, use with html and javascript
