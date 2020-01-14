@@ -7,18 +7,20 @@ excerpt: >-
   popular programming languages when you build your applications
 layout: post
 ---
+![](/images/nodes.png)
+
 <meta name="description" content="With the node-red editor you can use all types of api´s, functions, devices or popular programming languages when you build your applications.">
 
 <meta name="keywords" content="thousands of nodes available, node-red, rodened editor, flows, no coding, visual programming, integromat, zapier, productivity, integration, secure, save time, aoutomate processes, rapid development">
 
 The Node-RED palette includes a default set of nodes that are the basic building blocks for creating flows.
 
-- Inject 
-- Debug 
-- Function
-- Change
-- Switch
-- Template
+* Inject 
+* Debug 
+* Function
+* Change
+* Switch
+* Template
 
 Read more about the nodes at https://nodered.org/docs/user-guide/nodes
 
