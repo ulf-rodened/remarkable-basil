@@ -17,6 +17,8 @@ sections:
           target="_blank">here</a>.
         image: /images/8.jpg
         title: Flow based editor in the cloud
+      - image: /images/nodes.png
+        title: More than 2000 nodes avaliable
       - content: >-
           Manage your flows as projects backed by a Git repository. The flows
           are version controlled and securely encrypted in the Git repository.
