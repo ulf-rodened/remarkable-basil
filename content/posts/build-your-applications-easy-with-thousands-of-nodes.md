@@ -38,10 +38,11 @@ Here follows a list of node types:
 
 ## UI nodes
 
-- Dashboard node, uses Angular.js
+* Dashboard node, uses Angular.js
+* Uibuilder node, uses vue.js or other libraries
+* Freeboard node
+* http request and send nodes, use with html and javascript
 
-- Uibuilder node, uses vue.js or other libraries
+## Storage
 
-- Freeboard node
-
-- http request and send nodes, use with html and javascript
+![](/images/storage_a.png)
