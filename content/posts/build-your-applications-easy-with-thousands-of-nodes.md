@@ -3,8 +3,8 @@ title: Build your applications easy with thousands of nodes
 date: 2020-01-14T20:04:36.389Z
 thumb_img_path: /images/nodes.png
 excerpt: >-
-  With the node-red editor you can use all types of api´s, functions, devices or
-  popular programming languages when you build your applications
+  With the node-red editor, you can use all types of API's, functions, devices
+  or popular programming languages when you build your applications
 layout: post
 ---
 ![](/images/nodes.png)
