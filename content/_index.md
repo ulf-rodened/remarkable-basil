@@ -17,6 +17,8 @@ sections:
           target="_blank">here</a>.
         image: /images/8.jpg
         title: Flow based editor in the cloud
+      - image: /images/nodes.png
+        title: More than 2000 nodes avaliable
       - content: >-
           Manage your flows as projects backed by a Git repository. The flows
           are version controlled and securely encrypted in the Git repository.
@@ -27,8 +29,6 @@ sections:
           Messenger or other services through your REST APIs.
         image: /images/chatb.png
         title: Build your own APIs
-      - image: /images/nodes.png
-        title: More than 2000 nodes avaliable
       - content: >-
           Connect to existing AI services for sentiment analysis, text to
           speech, <a href="https://nodered.rodened.io/#flow/759829d8.7796d8"
