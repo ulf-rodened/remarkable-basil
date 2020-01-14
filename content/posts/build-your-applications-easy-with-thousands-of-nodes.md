@@ -31,3 +31,7 @@ Here follows a list of node types:
 ## Social nodes
 
 ![](/images/social_all.png)
+
+## Function nodes
+
+![](/images/function_all.png)
