@@ -13,12 +13,13 @@ layout: post
 
 The Node-RED palette includes a default set of nodes that are the basic building blocks for creating flows.
 
-Inject Debug
-Function
-Change
-Switch
-Template
+- Inject 
+- Debug 
+- Function
+- Change
+- Switch
+- Template
 
 Read more about the nodes at https://nodered.org/docs/user-guide/nodes
 
-There are many more available from both the Node-red project and the community. You can search for available nodes in the [Node-red library] (https://flows.nodered.org/search?type=node&type=flow&type=collection) or directly in the editor by open the Palette Manager from the menu.
+There are many more available from both the Node-red project and the community. You can search for available nodes in the [Node-red library](https://flows.nodered.org/search?type=node&type=flow&type=collection) or directly in the editor by open the Palette Manager from the menu.
