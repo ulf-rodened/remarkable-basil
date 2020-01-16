@@ -4,28 +4,30 @@ sections:
   - bg: gray
     pricingplans:
       - actions: []
-        details: |-
+        amount: 14
+        description: Green hornet
+        details: |
           * Node-red service
           * Web-based
           * 1 Shared CPU
           * 512MB RAM
           * 5GB SDD
+          * 100 GB/month network bandwidth (usage above $0.20/GB)
         highlight: false
         partiallyid: a9bc5238-ccba-4b6e-988d-d8de2bb05f27
-        amount: 14
-        description: Green hornet
         price: $14/m
         title: Green Hornet
-      - details: |-
+      - amount: 30
+        description: Purple Super Paste
+        details: |-
           * Node-red service
           * Web-based
           * 1 CPU
           * 1GB RAM
           * 10GB SSD
+          * 100 GB/month network bandwidth (usage above $0.20/GB)
         highlight: false
         partiallyid: baf6c7e8-9681-49b7-bfac-6be0f9e50038
-        amount: 30
-        description: Purple Super Paste 
         price: $30/m
         title: Purple Super Paste
     section_id: pricing
