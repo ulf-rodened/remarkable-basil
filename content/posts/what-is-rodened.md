@@ -29,8 +29,9 @@ In the Rodened cloud editor, we are using the project setting as default.  The f
 
 ## Frontend
 
-Node-RED excels in building backend services, but building a simple web page could be a little more challenging. This article gives some tips and tricks: 
+Node-RED excels in building backend services, but building a simple web page could be a little more challenging. This article gives some tips and tricks:  
 <a href="https://flows.nodered.org/flow/1bffe6808d37bd96cce283939983e758" target="_blank">Front-end Website with Node-RED using CSS/JS/HTML : Example Form</a>
+
 ##### Uibuilder
 
 With the uibuilder node we can create a responsive UI. See the following example: [UIbuilder with MoonJS - simple, responsive UI quick example](https://flows.nodered.org/flow/e909c3fa700b68abe94cd822e46c084f)
