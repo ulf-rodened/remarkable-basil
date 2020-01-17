@@ -5,13 +5,13 @@ layout: post
 ---
 The Rodened cloud-based editor is based on Node-RED which is open-source and maintained by JS Foundation with primary contributors coming from IBM and Hitachi.  According to the Github project README, Node-RED is “a visual tool for wiring the Internet of Things.”
 
-## Not just for IoT 
+## Not just for IoT
 
 Node-RED is not just for IoT, but any kind of application involving workflows and/or event processing.  Developers can integrate data sources, APIs, and services with ease. Node-RED “code” is created in a flow, which is easily visualized by both expert and beginner developers alike. 
 
 ## Built on node.js
 
-Node-RED is built on Node.js, taking full advantage of its event-driven, non-blocking model. This makes it incredibly lightweight and ideal to run at the edge of the network on low-cost hardware such as the Raspberry Pi as well as in the cloud. In Node-RED, flows are visual, so you can effectively draw your code as flows with drag and drop functionality.  Each box is referred to as a node. Node-RED nodes are connected together to create a Node-RED flow.\
+Node-RED is built on Node.js, taking full advantage of its event-driven, non-blocking model. This makes it incredibly lightweight and ideal to run at the edge of the network on low-cost hardware such as the Raspberry Pi as well as in the cloud. In Node-RED, flows are visual, so you can effectively draw your code as flows with drag and drop functionality.  Each box is referred to as a node. Node-RED nodes are connected together to create a Node-RED flow.
 
 ## Widely adopted
 
@@ -19,29 +19,27 @@ There are plenty of nodes prepackaged into Node-RED as well as thousands of addi
 Because of this, there are tons of examples available online. 
 
 ## Cookbook and example flows
- 
-The Node-RED website features both a cookbook full of recipes that solve common programming issues and over 1000 community sourced example flows.  Tasks like edge analytics, data ingestion, and server-side data migration can be handled with ease with a relatively simple flow. 
-More complex flows can be made manageable by using subflows.
+
+The Node-RED website features both a cookbook full of recipes that solve common programming issues and over 1000 community sourced example flows.  Tasks like edge analytics, data ingestion, and server-side data migration can be handled with ease with a relatively simple flow.  More complex flows can be made manageable by using subflows.
 
 ## Version control
 
-In the Rodened cloud editor, we are using the project setting as default. 
-The flows created are backed by a Git repository, meaning all of the files are fully version controlled and allow developers to use familiar workflows to collaborate with others.
+In the Rodened cloud editor, we are using the project setting as default.  The flows created are backed by a Git repository, meaning all of the files are fully version controlled and allow developers to use familiar workflows to collaborate with others.
 
 ## Frontend
 
-Node-RED excels in building backend services, but building a simple web page could be a little more challenging. This article gives some tips and tricks:
-Front-end Website with Node-RED using CSS/JS/HTML : Example Form
-https://flows.nodered.org/flow/1bffe6808d37bd96cce283939983e758
-Uibuilder
+Node-RED excels in building backend services, but building a simple web page could be a little more challenging. This article gives some tips and tricks: [Front-end Website with Node-RED using CSS/JS/HTML : Example Form](https://flows.nodered.org/flow/1bffe6808d37bd96cce283939983e758)
+
+### Uibuilder
 With the uibuilder node we can create a responsive UI. See the following example:
-UIbuilder with MoonJS - simple, responsive UI quick example
-https://flows.nodered.org/flow/e909c3fa700b68abe94cd822e46c084f
-Dashboard
-With the dashboard  https://flows.nodered.org/node/node-red-dashboard node it is easy to make a dashboard to show input from IoT devices by using nodes for different gauges, tables, forms or graphs for time series. 
-Freeboard
+[UIbuilder with MoonJS - simple, responsive UI quick example](https://flows.nodered.org/flow/e909c3fa700b68abe94cd822e46c084f)
+
+### Dashboard
+With the [dashboard](https://flows.nodered.org/node/node-red-dashboard) node it is easy to make a dashboard to show input from IoT devices by using nodes for different gauges, tables, forms or graphs for time series. 
+
+### Freeboard
 The freeboard node https://flows.nodered.org/node/node-red-contrib-freeboard also useful to create a dashboard. Follow the link to read more about it and see examples.
-Use cases
+## Use cases
 Connect IoT devices is an obvious use case. Here follows some other cases:
 -Create a service API based on input from other service APIs.
 -Continuous integration and development (CI/CD)
