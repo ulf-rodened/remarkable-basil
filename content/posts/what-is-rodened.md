@@ -30,11 +30,11 @@ In the Rodened cloud editor, we are using the project setting as default.  The f
 
 Node-RED excels in building backend services, but building a simple web page could be a little more challenging. This article gives some tips and tricks: [Front-end Website with Node-RED using CSS/JS/HTML : Example Form](https://flows.nodered.org/flow/1bffe6808d37bd96cce283939983e758)
 
-#### Uibuilder
+##### Uibuilder
 With the uibuilder node we can create a responsive UI. See the following example:
 [UIbuilder with MoonJS - simple, responsive UI quick example](https://flows.nodered.org/flow/e909c3fa700b68abe94cd822e46c084f)
 
-#### Dashboard
+##### Dashboard
 With the [dashboard](https://flows.nodered.org/node/node-red-dashboard) node it is easy to make a dashboard to show input from IoT devices by using nodes for different gauges, tables, forms or graphs for time series. 
 
 ##### Freeboard
