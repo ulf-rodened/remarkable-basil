@@ -41,7 +41,8 @@ Here follows a list of node types:
 * Dashboard node, uses Angular.js
 * Uibuilder node, uses vue.js or other libraries
 * Freeboard node
-* http request and send nodes, use with html and javascript
+* http request and send nodes, use with html and javascript. See example <a href="https://gist.github.com/dexterlabora/1bffe6808d37bd96cce283939983e758" target="_blank">here </a>
+
 
 ## Storage
 
