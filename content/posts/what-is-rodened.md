@@ -4,6 +4,10 @@ date: 2020-01-16T19:29:21.867Z
 thumb_img_path: /images/asphalt-blur-car-290470.jpg
 layout: post
 ---
+<meta name="description" content="Learn more why the Rodened cloud editor is great for fast IT automation, MVP development, backend services, front-end testing, and service API creation. It is a visual programming tool built on Node.js and Node-RED making it incredibly lightweight. It is widely adopted and supported by a large community. Because of this, there are tons of example available online. Read the full story. ">
+
+<meta name="keywords" content="fast IT automation, MVP development, backend services, front-end testing, service API creation, rodened editor, visual programming, no coding, integromat alternative, zapier alternative, activechat alternative">
+
 The Rodened cloud-based editor is based on Node-RED which is open-source and maintained by JS Foundation with primary contributors coming from IBM and Hitachi.  According to the Github project README, Node-RED is “a visual tool for wiring the Internet of Things.”
 
 ## Not just for IoT
