@@ -48,3 +48,5 @@ Under function we have a number of basic function nodes: function, switch, chnag
 ## Storage
 
 ![](/images/storage_a.png)
+
+There is a lot of nodes for storage. Here in the picture above are some of them making it easy to connect to SQL and NoSQL databases. If we search on storage at node-red home page we can see 28 different nodes for storage.
