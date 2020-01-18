@@ -35,7 +35,14 @@ Here follows a list of node types:
 ## Function nodes
 
 ![](/images/function_all.png)
-Under function we have a number of basic function nodes: function, switch, chnage and template, the first one is called function and is used to manipulate incoming messages using javascript. The other nodes can be used for changing, routing, switching and generate text without javascript coding. More function nodes can be added from the Palette Manager that will also show up under function. Nodes for writing in Python or R instead of javascript can be added here and a node to connect to Dialogflow, convert XML, calculating min, max, average and many more.
+
+Under function we have a number of basic function nodes: function, switch, change and template, the first one is called function and is used to manipulate incoming messages using javascript. 
+
+The other nodes can be used for changing, routing, switching and generate text without javascript coding. 
+
+More function nodes can be added from the Palette Manager that will also show up under function. 
+
+Nodes for writing in Python or R instead of javascript can be added here and a node to connect to Dialogflow, convert XML, calculating min, max, average and many more.
 
 ## UI nodes
 
@@ -44,9 +51,10 @@ Under function we have a number of basic function nodes: function, switch, chnag
 * <a href="https://flows.nodered.org/node/node-red-contrib-freeboard" target="_blank">Freeboard</a> node 
 * Http request and send nodes, use with html and javascript. See example <a href="https://gist.github.com/dexterlabora/1bffe6808d37bd96cce283939983e758" target="_blank">here</a>
 
-
 ## Storage
 
 ![](/images/storage_a.png)
 
-There is a lot of nodes for storage. Here in the picture above are some of them making it easy to connect to SQL and NoSQL databases. If we search on storage at node-red home page we can see 28 different nodes for storage.
+There is a lot of nodes for storage. Here in the picture above are some of them making it easy to connect to SQL and NoSQL databases. 
+
+If we search on storage at node-red home page we can see 28 different nodes for storage.
