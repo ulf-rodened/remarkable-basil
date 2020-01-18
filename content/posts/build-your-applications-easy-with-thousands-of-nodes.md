@@ -39,7 +39,7 @@ Here follows a list of node types:
 ## UI nodes
 
 * Dashboard node, uses Angular.js
-* Uibuilder node, uses vue.js or other libraries
+* Uibuilder node, uses vue.js or other libraries. See the following <a href="https://flows.nodered.org/flow/e909c3fa700b68abe94cd822e46c084f" target="_blank">example.</a>
 * Freeboard node
 * http request and send nodes, use with html and javascript. See example <a href="https://gist.github.com/dexterlabora/1bffe6808d37bd96cce283939983e758" target="_blank">here </a>
 
