@@ -35,6 +35,7 @@ Here follows a list of node types:
 ## Function nodes
 
 ![](/images/function_all.png)
+Under function we have a number of basic function nodes: function, switch, chnage and template, the first one is called function and is used to manipulate incoming messages using javascript. The other nodes can be used for changing, routing, switching and generate text without javascript coding. More function nodes can be added from the Palette Manager that will also show up under function. Nodes for writing in Python or R instead of javascript can be added here and a node to connect to Dialogflow, convert XML, calculating min, max, average and many more.
 
 ## UI nodes
 
