@@ -13,7 +13,7 @@ layout: post
 
 ![](/images/email_sentiment.png)
 
-This is a flow that loads emails from a mailbox at yandex, filters the mails on the date, translates the email if it is in Swedish to English and then does sentiment analysis with the Google language API. If the source language field is empty it will detect the language but could be unstable as you will get a warning. 
+This is a flow that loads emails from a mailbox at yandex, filters the mails on the date, translates the email if it is in Swedish to English and then does sentiment analysis with the Google language API. 
 
 Nodes that has to be installed to use this flow:
 
