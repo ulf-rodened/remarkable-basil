@@ -3,6 +3,11 @@ title: 'Home '
 sections:
   - actions: []
     content: >-
+      <meta name="description" content="Quickly connect services, API and IoT
+      hardware.Create your workflows without coding and integrate cloud
+      services, email, chat, e-commerce, ai and more with Rodened cloud based
+      editor. Read more about all features and start building for free.">
+
       Create your workflows without coding and integrate cloud services, email,
       chat, e-commerce, ai and more.
     image: ''
