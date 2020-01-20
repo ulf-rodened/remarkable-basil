@@ -1,15 +1,19 @@
 ---
 title: Contact
 sections:
-  - type: section_contact
+  - bg: gray
+    content: >-
+      <meta name="description" content="We are happy to answer your questions.
+      No question is to dumb to ask! Use the form to post a question.">
+
+      We are happy to answer your questions. No question is to dumb to ask!
     section_id: contact
     title: Contact
-    content: >-
-      We are happy to answer your questions. No question is to dumb to ask!
-    bg: gray
+    type: section_contact
 menu:
   secondary:
     name: Contact
     weight: 3
 layout: landing
 ---
+
