@@ -24,11 +24,11 @@ Start with installing these nodes if they are not allready installed:
 
 ## Why use Grafana?
 
-Grafana is an open source solution for running data analytics, pulling up metrics that make sense of the massive amount of data & to monitor our apps with the help of cool customizable dashboards.
+Grafana is an open source solution for running data analytics, pulling up metrics that make sense of the massive amount of data and to monitor our apps with the help of cool customizable dashboards.
 
 Grafana connects with every possible data source, databases such as Graphite, Prometheus, Influx DB, ElasticSearch, MySQL, PostgreSQL etc.
 
-The tool helps us study, analyse & monitor data over a period of time, easilly make time series analytics.
+The tool helps us study, analyse & monitor data over a period of time, making it easy doing time series analytics.
 
 The framework has gained a lot of popularity in the industry and is deployed by big guns as PayPal, eBay, Intel and many more.
 
@@ -54,7 +54,7 @@ It also has a built-in Influx DB, Prometheus, ElasticSearch, CloudWatch support.
 
 Grafana is written as a generic monitoring solution for running monitoring and analytics on pretty much anything. 
 
-## install Grafana
+## Install Grafana
 
 Go to Grafana installation page here: <a href="https://grafana.com/docs/grafana/latest/installation/" target="_blank">Grafana installation</a> and follow the instructions for your operating system or use a hosted cloud version. 
 
@@ -64,14 +64,14 @@ On the Rodened cloud platform we can install it directly from the editor by crea
 
 <a href="https://gist.github.com/dexterlabora/1bffe6808d37bd96cce283939983e758" target="_blank">here</a>
 
-Install PostgresSQL on Windows
+## Install PostgreSQL on Windows
 
-When creating password do not use characters like _"+>< probably best to use A to Z and numbers. Otherwise it will not be possible to install the software. 
+When creating password do not use characters like _"+><, probably best to use A to Z and numbers. Otherwise it will not be possible to install the software. You will get error messages but these will not tell you that there is bad characters in the password.
 I figured it out after hours of reinstallation and using different configurations. 
-If you fix the password then it is only important to have administrators rights when 
-running the installation and it should work without any problems.
+If you fix the password then it is only important to have administrators rights when running the installation and it should work without any problems.
+To connect to the PostgreSQL database follow the  
+<a href="https://grafana.com/docs/grafana/latest/guides/getting_started/" target="_blank">getting started</a> guide at Grafana home page.
 
-https://grafana.com/docs/grafana/latest/installation/
 
-https://grafana.com/docs/grafana/latest/guides/getting_started/
+
 
