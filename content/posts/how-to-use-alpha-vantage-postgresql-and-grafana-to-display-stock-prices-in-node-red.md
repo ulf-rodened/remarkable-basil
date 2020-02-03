@@ -77,6 +77,8 @@ TimescaleDB is an open-source time-series database optimized for fast ingest and
 
 After setting up the database we create a schema called stocks. In the schema we create a table with the columns company, date, open, high, low, close, closeadj, volume, dividend and split. Company is set to character and date to date. Rest of the values are set too numeric.
 
+The SQL code below to create the table can be loaded in pgAdmin or executed on command line with psql.
+
 ```sql
 -- Table: stocks.stock
 
