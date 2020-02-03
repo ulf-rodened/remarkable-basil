@@ -67,19 +67,23 @@ The Grafana dashboard is created by selecting the database table and the columns
 
 ![](/images/grafanadashboard.png)
 
+To embed the dashboard in Node-RED select share in the upper right part of the dashboard.
 
 
 ![](/images/grafanashare.png)
 
-
+To share it with anyone use the Snapshot. 
 
 ![](/images/grafanashare2.png)
 
-
+Copy the link to the dashboard node.
 
 ![](/images/grafanashare3.png)
 
+To view the Grafana dashboard from the Node-RED dashboard allow_embed has to be set to true in the configuration ini file.
 
+The custom.ini file should not be changed. Instead a custom.ini file should be created according to this
+<a href="https://grafana.com/docs/grafana/latest/installation/configuration/#allow-embedding" target="_blank">https://grafana.com/docs/grafana/latest/installation/configuration/#allow-embedding</a> .
 
 ## Install PostgreSQL
 
