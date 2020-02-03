@@ -75,6 +75,10 @@ If you fix the password then it is only important to have administrators rights 
 
 The minimum hardware requirements for running PostgreSQL is 1GB of RAM and 512MB disk space and additional disk space for repositories.
 
+The PostgreSQL database is a reliable SQL database that works well with time series data but if you need better performance a recommendation is to use the TimescaleDB extension for PostgreSQL.
+
+TimescaleDB is an open-source time-series database optimized for fast ingest and complex queries. It speaks "full SQL" and is correspondingly easy to use like a traditional relational database, yet scales in ways previously reserved for NoSQL databases.
+
 This flow was setup on a Windows 10 laptop with 8GB RAM. An article explaining the setup on the Rodened editor will follow.
 
 
