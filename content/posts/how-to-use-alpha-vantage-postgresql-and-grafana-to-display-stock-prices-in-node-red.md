@@ -11,6 +11,10 @@ excerpt: >-
   the Dashboard UI with an embedded Grafana dashboard. 
 layout: post
 ---
+<meta name="description" content="With thousands of nodes for IT automation, MVP development, backend services, front-end testing, service API creation visual programming really gets easy with the Rodened cloud editor. ">
+
+<meta name="keywords" content="run python scripts, libraries, virtual environments, node-red, rodened editor, demonstration flow, integromat, zapier">
+
 In this tutorial I will show you how to query Alpha Vantage for Microsoft stock price (MSFT). We will load the stock price time series in to a PostgresSQL database and then query the database and display it in the Node-RED Dashboard UI. The time series are displayed with a Grafana dashboard that is embeded in the Dashboard UI. 
 
 Start with installing these nodes if they are not allready installed:
@@ -44,11 +48,19 @@ Grafana has native support for approx. a dozen databases. And with many more, fa
 
 Either host it on-prem or any cloud platform of your choice.
 
-It has built-in support for Graphite & expressions like add, filter, avg, min, max functions etc. to custom fetch data. What is Graphite? I’ll come to that.
+It has built-in support for Graphite & expressions like add, filter, avg, min, max functions etc. to custom fetch data. 
 
 It also has a built-in Influx DB, Prometheus, ElasticSearch, CloudWatch support.
 
-<meta name="keywords" content="run python scripts, libraries, virtual environments, node-red, rodened editor, demonstration flow, integromat, zapier">
+Grafana is written as a generic monitoring solution for running monitoring and analytics on pretty much anything. 
+
+## install Grafana
+
+Go to Grafana installation page here: <a href="https://grafana.com/docs/grafana/latest/installation/" target="_blank">Grafana installation</a> and follow the instructions for your operating system or use a hosted cloud version. 
+
+On the Rodened cloud platform we can install it directly from the editor by creating install scripts in the same way as explained in this blog article about <a href="https://www.rodened.com/posts/how-to-use-python-in-node-red-1/" target="_blank">Python</a>
+
+
 
 <a href="https://gist.github.com/dexterlabora/1bffe6808d37bd96cce283939983e758" target="_blank">here</a>
 
@@ -63,4 +75,3 @@ https://grafana.com/docs/grafana/latest/installation/
 
 https://grafana.com/docs/grafana/latest/guides/getting_started/
 
-https://www.rodened.com/posts/how-to-use-python-in-node-red-1/
