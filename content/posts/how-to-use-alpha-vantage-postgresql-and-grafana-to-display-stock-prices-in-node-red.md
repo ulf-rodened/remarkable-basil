@@ -75,7 +75,35 @@ The PostgreSQL database is a reliable SQL database that works well with time ser
 
 TimescaleDB is an open-source time-series database optimized for fast ingest and complex queries. It speaks "full SQL" and is correspondingly easy to use like a traditional relational database, yet scales in ways previously reserved for NoSQL databases.
 
-After setting up the database we create a schema called stocks. In the schema we create a table with the columns company, date, open, high, low, close, closeadj, volume, dividend and split. Company is set to character and date to date. Rest of the values are set too numeric. 
+After setting up the database we create a schema called stocks. In the schema we create a table with the columns company, date, open, high, low, close, closeadj, volume, dividend and split. Company is set to character and date to date. Rest of the values are set too numeric.
+
+```sql
+-- Table: stocks.stock
+
+-- DROP TABLE stocks.stock;
+
+CREATE TABLE stocks.stock
+(
+    company text COLLATE pg_catalog."default" NOT NULL,
+    date date NOT NULL,
+    open numeric,
+    high numeric,
+    low numeric,
+    close numeric,
+    volume numeric,
+    adjclose numeric,
+    dividend numeric,
+    split numeric,
+    CONSTRAINT stock_pkey PRIMARY KEY (company, date)
+)
+WITH (
+    OIDS = FALSE
+)
+TABLESPACE pg_default;
+
+ALTER TABLE stocks.stock
+    OWNER to postgres;
+```
 
 This flow was setup on a Windows 10 laptop with 8GB RAM. An article explaining the setup on the Rodened editor will follow.
 
@@ -97,5 +125,4 @@ Replace apikey demo with your key.
 
 With the CSV node it is easy to get the values from the columns and in the template node use an SQL insert statment to write the values from the payload to the PostgreSQL database. 
 
-No need to write any javascript in a function node or use jsonata, switch, change or split nodes. 
-
+No need to write any javascript in a function node or use jsonata, switch, change or split nodes.
