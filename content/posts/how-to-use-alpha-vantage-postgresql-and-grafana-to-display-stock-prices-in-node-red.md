@@ -75,6 +75,8 @@ If you fix the password then it is only important to have administrators rights 
 
 The minimum hardware requirements for running PostgreSQL is 1GB of RAM and 512MB disk space and additional disk space for repositories.
 
+This flow was setup on a Windows 10 laptop with 8GB RAM. An article explaining the setup on the Rodened editor will follow.
+
 
 
 
