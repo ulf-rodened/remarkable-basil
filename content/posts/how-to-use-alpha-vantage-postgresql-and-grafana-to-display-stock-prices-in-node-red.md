@@ -127,4 +127,12 @@ Replace apikey demo with your key.
 
 With the CSV node it is easy to get the values from the columns and in the template node use an SQL insert statment to write the values from the payload to the PostgreSQL database. 
 
+To avoid duplicate values we check for conflicts in the SQL statment against company and date that is part of the primary key.
+
+
+
+
+
+
+
 No need to write any javascript in a function node or use jsonata, switch, change or split nodes.
