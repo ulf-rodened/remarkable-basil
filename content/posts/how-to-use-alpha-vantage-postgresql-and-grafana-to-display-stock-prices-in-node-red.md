@@ -93,3 +93,4 @@ Replace apikey demo with your key.
 
 ![](/images/grafanaflow.jpg)
 
+With the CSV node it is easy to get the columns and in the template node use an SQL insert statment to write the values from the payload to the PostgreSQL database. No need to write any javascript in a function node or use jsonata, switch, change or split nodes. 
