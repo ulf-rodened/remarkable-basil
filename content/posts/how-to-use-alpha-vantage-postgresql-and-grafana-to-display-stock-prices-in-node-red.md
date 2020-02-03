@@ -129,9 +129,12 @@ With the CSV node it is easy to get the values from the columns and in the templ
 
 To avoid duplicate values we check for conflicts in the SQL statment against company and date that is part of the primary key.
 
-
-
-
+```plsql
+INSERT INTO stocks.stock(company, date, open, high, low, close, adjclose, volume, dividend, split)
+VALUES ( '{{topic}}', '{{payload.col1}}', '{{payload.col2}}', '{{payload.col3}}', '{{payload.col4}}', '{{payload.col5}}', '{{payload.col6}}', '{{payload.col7}}', '{{payload.col8}}','{{payload.col9}}')
+ON CONFLICT (company, date) 
+DO NOTHING; 
+```
 
 
 
