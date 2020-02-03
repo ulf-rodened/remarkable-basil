@@ -81,6 +81,24 @@ TimescaleDB is an open-source time-series database optimized for fast ingest and
 
 This flow was setup on a Windows 10 laptop with 8GB RAM. An article explaining the setup on the Rodened editor will follow.
 
+# Alpha Vantage
+
+There is serveral ways to query financial time series from Alpha Vantage. A url to download daily, weekly or intraday data in json format can be used. In this example I download daily data in csv format for 100 days.
+If we add outputsize=full we can download the whole time series from the start.
+
+More information about how to use the API can be found <a href="https://www.alphavantage.co/documentation/" target="_blank">here</a> and a free API key can be downloaded from 
+<a href="https://www.alphavantage.co/support/#api-key" target="_blank">here</a>.
+
+The query used in the http request node is:
+
+https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=MSFT&apikey=demo&datatype=csv
+
+Replace apikey demo with your key.
+
+
+
+
+
 
 
 
