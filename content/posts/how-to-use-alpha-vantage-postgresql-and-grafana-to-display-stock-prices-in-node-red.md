@@ -11,10 +11,14 @@ excerpt: >-
   the Dashboard UI with an embedded Grafana dashboard. 
 layout: post
 ---
-
+- node-red-contrib-re-postgres
+- node-red-dashboard
 <meta name="description" content="In  this tutorial we will show how to setup Grafana, PostgresSQL and write stock price time series to the database. The time series will be displayed in the Dashboard UI with an embedded Grafana dashboard. ">
 
 <meta name="keywords" content="run python scripts, libraries, virtual environments, node-red, rodened editor, demonstration flow, integromat, zapier">
+
+
+
 
 <a href="https://gist.github.com/dexterlabora/1bffe6808d37bd96cce283939983e758" target="_blank">here</a>
 
