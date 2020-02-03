@@ -11,7 +11,7 @@ excerpt: >-
   the Dashboard UI with an embedded Grafana dashboard. 
 layout: post
 ---
-<meta name="description" content="With thousands of nodes for IT automation, MVP development, backend services, front-end testing, service API creation visual programming really gets easy with the Rodened cloud editor. ">
+<meta name="description" content="In  this tutorial we will show how to setup Grafana, PostgresSQL and write stock price time series to the database. The time series will be displayed in the Dashboard UI with an embedded Grafana dashboard. ">
 
 <meta name="keywords" content="run python scripts, libraries, virtual environments, node-red, rodened editor, demonstration flow, integromat, zapier">
 
