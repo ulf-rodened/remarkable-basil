@@ -60,17 +60,18 @@ Go to Grafana installation page here: <a href="https://grafana.com/docs/grafana/
 
 On the Rodened cloud platform we can install it directly from the editor by creating install scripts in the same way as explained in this blog article about using <a href="https://www.rodened.com/posts/how-to-use-python-in-node-red-1/" target="_blank">Python in Node-RED</a>
 
+To connect to the PostgreSQL database follow the  
+<a href="https://grafana.com/docs/grafana/latest/guides/getting_started/" target="_blank">getting started</a> guide at the Grafana home page.
 
 
 <a href="https://gist.github.com/dexterlabora/1bffe6808d37bd96cce283939983e758" target="_blank">here</a>
 
-## Install PostgreSQL on Windows
+## Install PostgreSQL
 
 When creating password do not use characters like _"+><, probably best to use A to Z and numbers. Otherwise it will not be possible to install the software. You will get error messages but these will not tell you that there is bad characters in the password.
 I figured it out after hours of reinstallation and using different configurations. 
 If you fix the password then it is only important to have administrators rights when running the installation and it should work without any problems.
-To connect to the PostgreSQL database follow the  
-<a href="https://grafana.com/docs/grafana/latest/guides/getting_started/" target="_blank">getting started</a> guide at the Grafana home page.
+
 
 
 
