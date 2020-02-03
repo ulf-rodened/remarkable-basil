@@ -19,14 +19,14 @@ In this tutorial I will show you how to query Alpha Vantage for Microsoft stock 
 
 Start with installing these nodes if they are not allready installed:
 
-- node-red-contrib-re-postgres
-- node-red-dashboard
+* node-red-contrib-re-postgres
+* node-red-dashboard
 
 ## Why use Grafana?
 
 Grafana is an open source solution for running data analytics, pulling up metrics that make sense of the massive amount of data and to monitor our apps with the help of cool customizable dashboards.
 
-Grafana connects with every possible data source, databases such as Graphite, Prometheus, Influx DB, ElasticSearch, MySQL, PostgreSQL etc.
+Grafana connects with every possible data source, databases such as Graphite, Prometheus, Influx DB, ElasticSearch, MySQL, PostgreSQL etc.
 
 The tool helps us study, analyse & monitor data over a period of time, making it easy doing time series analytics.
 
@@ -58,20 +58,16 @@ Grafana is written as a generic monitoring solution for running monitoring and a
 
 Go to Grafana installation page here: <a href="https://grafana.com/docs/grafana/latest/installation/" target="_blank">Grafana installation</a> and follow the instructions for your operating system or use a hosted cloud version. 
 
-On the Rodened cloud platform we can install it directly from the editor by creating install scripts in the same way as explained in this blog article about using <a href="https://www.rodened.com/posts/how-to-use-python-in-node-red-1/" target="_blank">Python in Node-RED</a>
-Minimum recommended memory is 255 MB and 1 CPU.
+On the Rodened cloud platform we can install it directly from the editor by creating install scripts in the same way as explained in this blog article about using <a href="https://www.rodened.com/posts/how-to-use-python-in-node-red-1/" target="_blank">Python in Node-RED</a> Minimum recommended memory is 255 MB and 1 CPU.
 
-To connect to the PostgreSQL database follow the  
+To connect to the PostgreSQL database follow the\
 <a href="https://grafana.com/docs/grafana/latest/guides/getting_started/" target="_blank">getting started</a> guide at the Grafana home page.
-
 
 <a href="https://gist.github.com/dexterlabora/1bffe6808d37bd96cce283939983e758" target="_blank">here</a>
 
 ## Install PostgreSQL
 
-When creating password do not use characters like _"+><, probably best to use A to Z and numbers. Otherwise it will not be possible to install the software. You will get error messages but these will not tell you that there is bad characters in the password.
-I figured it out after hours of reinstallation and using different configurations. 
-If you fix the password then it is only important to have administrators rights when running the installation and it should work without any problems.
+When creating password do not use characters like _"+><, probably best to use A to Z and numbers. Otherwise it will not be possible to install the software. You will get error messages but these will not tell you that there is bad characters in the password. I figured it out after hours of reinstallation and using different configurations.  If you fix the password then it is only important to have administrators rights when running the installation and it should work without any problems.
 
 The minimum hardware requirements for running PostgreSQL is 1GB of RAM and 512MB disk space and additional disk space for repositories.
 
@@ -83,11 +79,9 @@ This flow was setup on a Windows 10 laptop with 8GB RAM. An article explaining t
 
 # Alpha Vantage
 
-There is serveral ways to query financial time series from Alpha Vantage. A url to download daily, weekly or intraday data in json format can be used. In this example I download daily data in csv format for 100 days.
-If we add outputsize=full we can download the whole time series from the start.
+There is serveral ways to query financial time series from Alpha Vantage. A url to download daily, weekly or intraday data in json format can be used. In this example I download daily data in csv format for 100 days. If we add outputsize=full we can download the whole time series from the start.
 
-More information about how to use the API can be found <a href="https://www.alphavantage.co/documentation/" target="_blank">here</a> and a free API key can be downloaded from 
-<a href="https://www.alphavantage.co/support/#api-key" target="_blank">here</a>.
+More information about how to use the API can be found <a href="https://www.alphavantage.co/documentation/" target="_blank">here</a> and a free API key can be downloaded from  <a href="https://www.alphavantage.co/support/#api-key" target="_blank">here</a>.
 
 The query used in the http request node is:
 
@@ -97,15 +91,5 @@ Replace apikey demo with your key.
 
 ## The flow
 
-
-
-
-
-
-
-
-
-
-
-
+![](/images/grafanaflow.jpg)
 
