@@ -8,11 +8,11 @@ img_path: /images/grafana_dashboard.jpg
 excerpt: >-
   In  this tutorial we will show how to setup Grafana, PostgresSQL and write
   stock price time series to the database. The time series will be displayed in
-  the Dashboard UI with an embedded Grafan dashboard. 
+  the Dashboard UI with an embedded Grafana dashboard. 
 layout: post
 ---
 
-<meta name="description" content="With the python node (node-red-contrib-pythonshell) it is easy to use python in node-red. With the exec node, we can install python libraries and create virtual environments. The output from the python shell can be shown in the javascript graph node. With the python node (node-red-contrib-pythonshell) it is easy to use python in node-red. With the exec node, we can install python libraries and create virtual environments.">
+<meta name="description" content="In  this tutorial we will show how to setup Grafana, PostgresSQL and write stock price time series to the database. The time series will be displayed in the Dashboard UI with an embedded Grafana dashboard. ">
 
 <meta name="keywords" content="run python scripts, libraries, virtual environments, node-red, rodened editor, demonstration flow, integromat, zapier">
 
