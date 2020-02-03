@@ -73,6 +73,8 @@ When creating password do not use characters like _"+><, probably best to use A 
 I figured it out after hours of reinstallation and using different configurations. 
 If you fix the password then it is only important to have administrators rights when running the installation and it should work without any problems.
 
+The minimum hardware requirements for running PostgreSQL is 1GB of RAM and 512MB disk space and additional disk space for repositories.
+
 
 
 
