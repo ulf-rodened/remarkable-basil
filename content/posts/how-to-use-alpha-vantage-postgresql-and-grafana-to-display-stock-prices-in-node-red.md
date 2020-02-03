@@ -63,7 +63,23 @@ On the Rodened cloud platform we can install it directly from the editor by crea
 To connect to the PostgreSQL database follow the\
 <a href="https://grafana.com/docs/grafana/latest/guides/getting_started/" target="_blank">getting started</a> guide at the Grafana home page.
 
-<a href="https://gist.github.com/dexterlabora/1bffe6808d37bd96cce283939983e758" target="_blank">here</a>
+The Grafana dashboard is created by selecting the database table and the columns needed.
+
+![](/images/grafanadashboard.png)
+
+
+
+![](/images/grafanashare.png)
+
+
+
+![](/images/grafanashare2.png)
+
+
+
+![](/images/grafanashare3.png)
+
+
 
 ## Install PostgreSQL
 
