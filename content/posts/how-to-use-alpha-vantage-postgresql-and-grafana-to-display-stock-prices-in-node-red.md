@@ -58,7 +58,7 @@ Grafana is written as a generic monitoring solution for running monitoring and a
 
 Go to Grafana installation page here: <a href="https://grafana.com/docs/grafana/latest/installation/" target="_blank">Grafana installation</a> and follow the instructions for your operating system or use a hosted cloud version. 
 
-On the Rodened cloud platform we can install it directly from the editor by creating install scripts in the same way as explained in this blog article about <a href="https://www.rodened.com/posts/how-to-use-python-in-node-red-1/" target="_blank">Python</a>
+On the Rodened cloud platform we can install it directly from the editor by creating install scripts in the same way as explained in this blog article about using <a href="https://www.rodened.com/posts/how-to-use-python-in-node-red-1/" target="_blank">Python in Node-RED</a>
 
 
 
@@ -70,7 +70,9 @@ When creating password do not use characters like _"+><, probably best to use A 
 I figured it out after hours of reinstallation and using different configurations. 
 If you fix the password then it is only important to have administrators rights when running the installation and it should work without any problems.
 To connect to the PostgreSQL database follow the  
-<a href="https://grafana.com/docs/grafana/latest/guides/getting_started/" target="_blank">getting started</a> guide at Grafana home page.
+<a href="https://grafana.com/docs/grafana/latest/guides/getting_started/" target="_blank">getting started</a> guide at the Grafana home page.
+
+
 
 
 
