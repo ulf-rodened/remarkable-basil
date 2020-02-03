@@ -26,9 +26,10 @@ The Node-RED palette includes a default set of nodes that are the basic building
 * Switch
 * Template
 
-Read more about the nodes at https://nodered.org/docs/user-guide/nodes
+Read more about the nodes at <a href="https://nodered.org/docs/user-guide/node" target="_blank">https://nodered.org/docs/user-guide/node</a>
 
-There are many more available from both the Node-red project and the community. You can search for available nodes in the [Node-red library](https://flows.nodered.org/search?type=node&type=flow&type=collection) or directly in the editor by open the Palette Manager from the menu.
+There are many more available from both the Node-red project and the community. You can search for available nodes in the <a href="https://flows.nodered.org/search?type=node&type=flow&type=collection" target="_blank">Node-red library</a>
+or directly in the editor by open the Palette Manager from the menu.
 
 Here follows a list of node types:
 
