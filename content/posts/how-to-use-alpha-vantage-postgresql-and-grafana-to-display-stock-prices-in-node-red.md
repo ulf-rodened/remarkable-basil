@@ -22,26 +22,23 @@ Start with installing these nodes if they are not allready installed:
 
 Grafana is an open source solution for running data analytics, pulling up metrics that make sense of the massive amount of data & to monitor our apps with the help of cool customizable dashboards.
 
-Grafana connects with every possible data source, commonly referred to as databases such as Graphite, Prometheus, Influx DB, ElasticSearch, MySQL, PostgreSQL etc.
+Grafana connects with every possible data source, databases such as Graphite, Prometheus, Influx DB, ElasticSearch, MySQL, PostgreSQL etc.
 
-Grafana being an open source solution also enables us to write plugins from scratch for integration with several different data sources.
+The tool helps us study, analyse & monitor data over a period of time, easilly make time series analytics.
 
-The tool helps us study, analyse & monitor data over a period of time, technically called time series analytics.
+The framework has gained a lot of popularity in the industry and is deployed by big guns as PayPal, eBay, Intel and many more.
 
-Over time this framework has gained a lot of popularity in the industry & is deployed by big gunssuch as PayPal, eBay, Intel & many more.
-
-visualization options such as geo maps, heat maps, histograms, all the variety of charts & graphs which a business typically requires to study data.
+Visualization options such as geo maps, heat maps, histograms, all the variety of charts and graphs which a business typically requires to study data are included.
 
 A dashboard contains several different individual panels on the grid. Each panel has different functionalities.
 
 ## What Are the Features Offered by Grafana?
-Let’s go through the features offered by the open-source analytics dashboard framework.
 
-This open-source framework takes care of all the analytics of our app. We can easily query, visualize, set up alerts, understand the data with the help of metrics.
+This framework takes care of all the analytics. We can easily query, visualize, set up alerts, understand the data with the help of metrics.
 
-The dashboard is pretty equipped, & continually evolving, to make sense of complex data. From displaying graphs to heatmaps, histograms, Geo maps. The tool has a plethora of visualization options to understand data as per our business requirements.
+The dashboard is continually evolving, to make sense of complex data. From displaying graphs to heatmaps, histograms, Geo maps. The tool has a plethora of visualization options to understand data as per our business requirements.
 
-Alerts are set up & triggered like trip wires whenever an anticipated scenario occurs. These happenings can be notified on Slack or whatever communication platform the monitoring team uses.
+Alerts can be set up and triggered like trip wires whenever an anticipated scenario occurs. These happenings can be notified on Slack or whatever communication platform the monitoring team uses.
 
 Grafana has native support for approx. a dozen databases. And with many more, facilitated by respective plugins.
 
