@@ -109,7 +109,7 @@ ALTER TABLE stocks.stock
 
 This flow was setup on a Windows 10 laptop with 8GB RAM. An article explaining the setup on the Rodened editor will follow.
 
-# Alpha Vantage
+## Alpha Vantage
 
 There are several ways to query financial time series from Alpha Vantage. A url to download daily, weekly or intraday data in json format can be used. In this example I download daily data in csv format for 100 days. If we add outputsize=full we can download the whole time series from the start.
 
