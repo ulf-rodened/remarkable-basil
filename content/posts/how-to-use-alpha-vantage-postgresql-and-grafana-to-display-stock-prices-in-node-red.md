@@ -22,18 +22,30 @@ In this tutorial, I will show you how to query Alpha Vantage for Microsoft stock
 
 ## Why use Grafana?
 
-Grafana is an open-source solution for running data analytics, pulling up metrics that make sense of the massive amount of data and to monitor our apps with the help of cool customizable dashboards. Grafana connects with every possible data source, databases such as Graphite, Prometheus, Influx DB, ElasticSearch, MySQL, PostgreSQL, etc. The tool helps us study, analyze & monitor data over time, making it easy doing time-series analytics.
+Grafana is an open-source solution for running data analytics, pulling up metrics that make sense of the massive amount of data and to monitor our apps with the help of cool customizable dashboards. 
+Grafana connects with every possible data source, databases such as Graphite, Prometheus, Influx DB, ElasticSearch, MySQL, PostgreSQL, etc. 
+
+The tool helps us study, analyze & monitor data over time, making it easy doing time-series analytics.
+
 The framework has gained a lot of popularity in the industry and is deployed by big guns as PayPal, eBay, Intel and many more.
+
 Visualization options such as geo maps, heat maps, histograms, all the variety of charts and graphs which a business typically requires to study data are included.
 A dashboard contains several different individual panels on the grid. Each panel has different functionalities.
 
 ## What Are the Features Offered by Grafana?
 
-This framework takes care of all the analytics. We can easily query, visualize, set up alerts, understand the data with the help of metrics. The dashboard is continually evolving, to make sense of complex data. From displaying graphs to heatmaps, histograms, Geo maps. The tool has a plethora of visualization options to understand data as per our business requirements. Alerts can be set up and triggered like trip wires whenever an anticipated scenario occurs. These happenings can be notified on Slack or whatever communication platform the monitoring team uses.
+This framework takes care of all the analytics. We can easily query, visualize, set up alerts, understand the data with the help of metrics. 
+
+The dashboard is continually evolving, to make sense of complex data. From displaying graphs to heatmaps, histograms, Geo maps. The tool has a plethora of visualization options to understand data as per our business requirements. Alerts can be set up and triggered like trip wires whenever an anticipated scenario occurs. 
+
+These happenings can be notified on Slack or whatever communication platform the monitoring team uses.
+
 Grafana has native support for approx. a dozen databases. And with many more, facilitated by respective plugins.
 Either host it on-prem or any cloud platform of your choice.
 It has built-in support for Graphite & expressions like add, filter, avg, min, max functions, etc. to custom fetch data.
+
 It also has a built-in Influx DB, Prometheus, ElasticSearch, CloudWatch support.
+
 Grafana is written as a generic monitoring solution for running monitoring and analytics on pretty much anything.
 
 ## Install Grafana
@@ -68,10 +80,20 @@ The custom.ini file should not be changed. Instead a custom.ini file should be c
 
 ## Install PostgreSQL
 
-When creating a password do not use characters like _"+><, probably best to use A to Z and numbers. Otherwise, it will not be possible to install the software. You will get error messages but these will not tell you that there are bad characters in the password. If you fix the password then it is only important to have administrator's rights when running the installation and it should work without any problems. The minimum hardware requirements for running PostgreSQL is 1GB of RAM and 512MB disk space and additional disk space for repositories.
+When creating a password do not use characters like _"+><, probably best to use A to Z and numbers. Otherwise, it will not be possible to install the software. 
+
+You will get error messages but these will not tell you that there are bad characters in the password.
+ 
+If you fix the password then it is only important to have administrator's rights when running the installation and it should work without any problems. 
+
+The minimum hardware requirements for running PostgreSQL is 1GB of RAM and 512MB disk space and additional disk space for repositories.
+
 The PostgreSQL database is a reliable SQL database that works well with time series data but if you need better performance a recommendation is to use the TimescaleDB extension for PostgreSQL.
+
 TimescaleDB is an open-source time-series database optimized for fast ingest and complex queries. It speaks "full SQL" and is correspondingly easy to use as a traditional relational database, yet scales in ways previously reserved for NoSQL databases.
+
 After setting up the database we create a schema called stocks. In the schema, we create a table with the columns company, date, open, high, low, close, closeadj, volume, dividend and split. Company is set to character and date to date. The rest of the values are set to numeric.
+
 The SQL code below to create the table can be loaded in pgAdmin or executed on the command line with psql.
 
 ```sql
@@ -106,7 +128,9 @@ This flow was set up on a Windows 10 laptop with 8GB RAM. An article explaining 
 
 ## Alpha Vantage
 
-There are several ways to query financial time series from Alpha Vantage. A URL to download daily, weekly or intraday data in JSON format can be used. In this example, I download daily data in CSV format for 100 days. If we add outputsize=full we can download the whole time series from the start.
+There are several ways to query financial time series from Alpha Vantage. A URL to download daily, weekly or intraday data in JSON format can be used. 
+
+In this example, I download daily data in CSV format for 100 days. If we add outputsize=full we can download the whole time series from the start.
 
 More information about how to use the API can be found <a href="https://www.alphavantage.co/documentation/" target="_blank">here</a> and a free API key can be downloaded from  <a href="https://www.alphavantage.co/support/#api-key" target="_blank">here</a>.
 
@@ -120,7 +144,9 @@ Replace apikey demo with your key.
 
 ![](/images/grafanaflow.jpg)
 
-With the CSV node, it is easy to get the values from the columns and in the template, the node uses an SQL insert statement to write the values from the payload to the PostgreSQL database. To avoid duplicate values we check for conflicts in the SQL statement against company and date that is part of the primary key.
+With the CSV node, it is easy to get the values from the columns and in the template, the node uses an SQL insert statement to write the values from the payload to the PostgreSQL database. 
+
+To avoid duplicate values we check for conflicts in the SQL statement against company and date that is part of the primary key.
 
 ```plsql
 INSERT INTO stocks.stock(company, date, open, high, low, close, adjclose, volume, dividend, split)
