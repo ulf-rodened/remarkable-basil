@@ -144,7 +144,7 @@ Replace apikey demo with your key.
 
 ![](/images/grafanaflow.jpg)
 
-With the CSV node, it is easy to get the values from the columns and in to the template node. With an SQL insert statement in the template node we write the values from the payload to the PostgreSQL database. 
+With the CSV node, it is easy to get the values from the columns and into the template node. With an SQL insert statement in the template node we write the values from the payload to the PostgreSQL database. 
 
 To avoid duplicate values we check for conflicts in the SQL statement against company and date that is part of the primary key.
 
