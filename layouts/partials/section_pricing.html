@@ -23,23 +23,8 @@
         <div class="plan-details">
           {{ partial "markdownify-block" $plan.details }}
           
-          <form name="form_name" id="form-{{ $plan.partiallyid }}" class="subscribe-form">
-          
-          <p>Fill in your GitHub User Name.</p>
-
-            <div class="form-row"><label>
-              <span class="screen-reader-text">GitHub User</span>
-<input type="text" class="subscribe-email" name="github_user" id="githubuser-{{ $plan.partiallyid }}" placeholder="Enter GitHub user name" style="margin-bottom:10px" />
-              </label>
-            </div>   
-                        
-           <p>Fill in your GitHub Email.</p>
-
-            <div class="form-row"><label>
-              <span class="screen-reader-text">GitHub Email</span>
-<input type="text" class="subscribe-email" name="github_email" id="githubemail-{{ $plan.partiallyid }}" placeholder="Enter GitHub user email" style="margin-bottom:10px" />
-              </label>
-            </div>  
+          <form name="form_name" id="form-{{ $plan.partiallyid }}" class="subscribe-form">       
+  
    <input type="submit" name="submit_class" id="btn_class" value="Subscribe" />
             
    <input type="hidden" name="partiallyid" id="partiallyid-{{ $plan.partiallyid }}"  />         
@@ -76,8 +61,9 @@ plan[url] = url + {{ $plan.partiallyid }};
     {
       const Http = new XMLHttpRequest();
       //plan.url ='https://demo.partial.ly/checkout?offer='+ plan.offer + '&meta[github_user]=' + plan.user + '&meta[github_token]=' + plan.token + '&amount=' + plan.amount + '&meta[description]=' + plan.description;
-    plan.url ='https://partial.ly/checkout?offer={{ $plan.partiallyid }}' + '&meta[github_user]=' + plan.user + '&meta[github_email]=' + plan.email + '&amount=' + plan.amount + '&meta[description]=' + plan.description;
-//plan.url ='https://demo.partial.ly/checkout?offer=a77eebd7-a488-4ded-b05c-e4de4b3521b7' + '&meta[github_user]=' + plan.user + '&meta[github_email]=' + plan.email + '&amount=168' + '&meta[description]=' + plan.description;
+      //plan.url ='https://partial.ly/checkout?offer={{ $plan.partiallyid }}' + '&meta[github_user]=' + plan.user + '&meta[github_email]=' + plan.email + '&amount=' + plan.amount + '&meta[description]=' + plan.description;
+      plan.url ='https://app.rodened.io
+      //plan.url ='https://demo.partial.ly/checkout?offer=a77eebd7-a488-4ded-b05c-e4de4b3521b7' + '&meta[github_user]=' + plan.user + '&meta[github_email]=' + plan.email + '&amount=168' + '&meta[description]=' + plan.description;
 
       console.log('plan.url ', plan.url);
       window.location = plan.url;
