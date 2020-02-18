@@ -1,7 +1,9 @@
 ---
 title: 'Home '
 sections:
-  - actions: []
+  - actions:
+      - label: Login to dashboard
+        url: 'https://app.rodened.io'
     content: >-
       <meta name="description" content="Quickly connect services, API and IoT
       hardware.Create your workflows without coding and integrate cloud
