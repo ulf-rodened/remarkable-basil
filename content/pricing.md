@@ -3,7 +3,9 @@ title: Pricing
 sections:
   - bg: gray
     pricingplans:
-      - actions: []
+      - actions:
+          - label: Login to dasboard
+            url: 'https://app.rodened.io'
         amount: 14
         description: Green hornet
         details: >
@@ -28,7 +30,10 @@ sections:
         partiallyid: a9bc5238-ccba-4b6e-988d-d8de2bb05f27
         price: $14/m
         title: Green Hornet
-      - amount: 30
+      - actions:
+          - label: Login to dasboard
+            url: 'https://app.rodened.io'
+        amount: 30
         description: Purple Super Paste
         details: >-
           <meta name="description" content="Purple Super Paste, Node-red
