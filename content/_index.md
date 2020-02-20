@@ -52,18 +52,16 @@ sections:
       - content: >-
           There is lot of resources to look into if you don't know how to build
           a flow in the Rodened editor. A good place to start is our editor that
-          is free to try at <a href="https://nodered.rodened.io"
-          target="_blank">https://nodered.rodened.io</a>. There is a number of
-          examples that we have put togeheter that uses no programming and also
-          one example showing how to use and install python packages. The cloud
-          based editor is set up in the same way as your own subscription will
-          be. On the NODE-RED home page there is a <a
-          href="https://discourse.nodered.org/" target="_blank">Discourse
-          </a>forum which is an excellent place to search for answers and ask
-          questions and also a <a href="https://nodered.org/slack/"
-          target="_blank">Slack</a> forum.  Example flows (1379) and nodes
-          (2361) can easily be found at <a href="https://flows.nodered.org/"
-          target="_blank">the flows menu on nodered.org</a> <a
+          is free to try at <a href="https://demo.rodened.io"
+          target="_blank">https://demo.rodened.io</a>. The cloud based editor is
+          set up in the same way as your own subscription will be. On the
+          NODE-RED home page there is a <a href="https://discourse.nodered.org/"
+          target="_blank">Discourse </a>forum which is an excellent place to
+          search for answers and ask questions and also a <a
+          href="https://nodered.org/slack/" target="_blank">Slack</a> forum. 
+          Example flows (1379) and nodes (2361) can easily be found at <a
+          href="https://flows.nodered.org/" target="_blank">the flows menu on
+          nodered.org</a> <a
           href="https://stackoverflow.com/questions/tagged/node-red"
           target="_blank">Stack Overflow</a> could also be a source for
           information if you have a more specific question. 
