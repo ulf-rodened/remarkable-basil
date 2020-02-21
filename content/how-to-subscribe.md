@@ -14,8 +14,6 @@ Select developer setting.
 
 ![](/images/github3.png)
 
-
-
 Select OAuth apps.
 
 ![](/images/github4.png)
@@ -40,6 +38,20 @@ Go to rodened.com and select a subscription or click on login to dashboard on th
 
 ![](/images/rodenedhomepage1.png)
 
-
-
 ![](/images/homepage.png)
+
+Click on tge Log in button.
+
+![](/images/rodenedapp1.png)
+
+Click on Log in with Github.
+
+![](/images/applogin10.png)
+
+Authorize rodened.
+
+![](/images/rodenedapp2.png)
+
+
+
+![]()
