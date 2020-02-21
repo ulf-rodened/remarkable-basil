@@ -61,7 +61,12 @@ sections:
     title: Pricing Plans
     type: section_pricing
   - bg: gray
-    section_id: howtosubscribe
+    content: >-
+      <a href="<https://www.rodened.com/how-to-subscribe/>" target="_blank">How
+      to subscribe</a>
+    section_id: ''
+    type: section_content
+  - bg: gray
     type: section_content
 menu:
   main:
