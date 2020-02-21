@@ -60,6 +60,9 @@ sections:
     subtitle: ''
     title: Pricing Plans
     type: section_pricing
+  - bg: gray
+    section_id: howtosubscribe
+    type: section_content
 menu:
   main:
     name: Pricing
