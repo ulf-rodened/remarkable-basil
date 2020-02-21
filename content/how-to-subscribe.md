@@ -54,4 +54,32 @@ Authorize rodened.
 
 
 
-![]()
+
+
+Select Dashboard.
+
+![](/images/rodenedapp3.png)
+
+Click on Add server.
+
+![](/images/rodenedapp4.png)
+
+Select subscription.
+
+![](/images/rodenedapp5.png)
+
+Sign up on partial.ly and continue to plan terms.
+
+![](/images/rodenedapp6.png)
+
+Create a payment plan.
+
+![](/images/rodenedapp7.png)
+
+Now you will have a box with the server details on the app.rodened.io dashboard. Click on the OAuth settings.
+
+![](/images/rodenedapp8.png)
+
+Fill in the information that you copied from the OAuth app on Github and Save. Now your Node-RED editor will be deployed.  After a couple of minutes you can open the URL for the editor (marked with a red rectangle). 
+
+![](/images/rodenedapp9.png)
