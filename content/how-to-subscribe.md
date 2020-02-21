@@ -1,5 +1,8 @@
 ---
 title: How to Subscribe
+menu:
+  secondary:
+    identifier: howtosubscribe
 layout: page
 ---
 Start with creating a github account if you don't allready have one. Go to github.com and sign up.
