@@ -62,8 +62,8 @@ sections:
     type: section_pricing
   - bg: gray
     content: >-
-      <a href="<https://www.rodened.com/how-to-subscribe/>" target="_blank">How
-      to subscribe</a>
+      <a href="https://www.rodened.com/how-to-subscribe/" target="_blank">How to
+      subscribe</a>
     section_id: ''
     type: section_content
   - bg: gray
