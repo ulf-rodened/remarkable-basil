@@ -2,6 +2,11 @@
 title: How to start a subscription
 date: 2020-02-22T22:35:36.269Z
 thumb_img_path: /images/rodenedapp3.png
+excerpt: >-
+  Start with creating a github account if you don't allready have one. Go to
+  github.com and sign up. Go to settings and then developer settings and create
+  a new OAuth app. When you are finished with that click on Login to dashboard
+  on the pricing page or on the first page on rodened.com.
 layout: post
 ---
 
