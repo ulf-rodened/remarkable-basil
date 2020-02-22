@@ -1,6 +1,7 @@
 ---
 title: How to start a subscription
 date: 2020-02-22T22:35:36.269Z
+thumb_img_path: /images/rodenedapp3.png
 layout: post
 ---
 
