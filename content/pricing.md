@@ -11,8 +11,8 @@ sections:
         details: >
           <meta name="description" content="Green Hornet, Node-red service,
           web-based, 1 shared CPU, 512MB RAM, 5GB SSD, 100GB/m network
-          bandwidth. Unlimited number of flows and API integrations. Price
-          $14/m">
+          bandwidth. Unlimited number of flows and API integrations. Price 14
+          dollar a month">
 
 
           * Node-red service
@@ -38,8 +38,8 @@ sections:
         details: >-
           <meta name="description" content="Purple Super Paste, Node-red
           service, web-based, 1 CPU, 1GB RAM, 10GB SSD, 100GB/m network
-          bandwidth. Unlimited number of flows and API integrations. Price
-          $30/m">
+          bandwidth. Unlimited number of flows and API integrations. Price 30
+          dollar a month">
 
           * Node-red service
 
