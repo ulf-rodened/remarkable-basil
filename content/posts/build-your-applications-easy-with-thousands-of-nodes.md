@@ -7,15 +7,11 @@ excerpt: >-
   or popular programming languages when you build your applications
 layout: post
 ---
-<meta name="description" content="With thousands of nodes for IT automation, MVP development, backend services, front-end testing, service API creation visual programming really gets easy with the Rodened cloud editor. ">
+<meta name="description" content="With thousands of nodes for IT automation, MVP development, backend services, front-end testing, service API creation, visual programming really gets easy with the Rodened cloud editor. ">
 
 <meta name="keywords" content="function nodes, storage nodes, social nodes, rodened editor, visual programming, no coding, integromat alternative, zapier alternative, activechat alternative">
 
 ![](/images/nodes.png)
-
-<meta name="description" content="With the node-red editor you can use all types of api´s, functions, devices or popular programming languages when you build your applications.">
-
-<meta name="keywords" content="thousands of nodes available, node-red, rodened editor, flows, no coding, visual programming, integromat, zapier, productivity, integration, secure, save time, aoutomate processes, rapid development">
 
 The Node-RED palette includes a default set of nodes that are the basic building blocks for creating flows.
 
