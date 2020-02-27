@@ -66,8 +66,6 @@ sections:
       subscribe</a>
     section_id: ''
     type: section_content
-  - bg: gray
-    type: section_content
 menu:
   main:
     name: Pricing
