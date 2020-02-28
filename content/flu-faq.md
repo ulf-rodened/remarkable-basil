@@ -2,6 +2,8 @@
 title: Flu FAQ
 layout: page
 ---
+## Flu and immunity FAQ
+
 ## Medicinal mushrooms
 
 What types of medicinal mushrooms are there?
