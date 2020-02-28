@@ -143,8 +143,11 @@ For most healthy individuals, the body can only hold and use about 200 to 250 mg
 What kind of zinc is best for colds?
 Zinc gluconate: As one of the most common over-the-counter forms of zinc, zinc gluconate is often used in cold remedies, such as lozenges and nasal sprays (2). Zinc acetate: Like zinc gluconate, zinc acetate is often added to cold lozenges to reduce symptoms and speed up the rate of recovery.
 
+Does zinc help with immune system?
+Zinc is a mineral that's important to the body in many ways. Zinc keeps the immune system strong, helps heal wounds, and supports normal growth.
 
-
+How much zinc should I take for immune system?
+People use oral zinc to help treat colds, but it can decrease the effectiveness of certain drugs and cause side effects. The recommended daily amount of zinc is 8 milligrams (mg) for women and 11 mg for adult men
 ### **What is MELATONIN used for ?**
 
 ### ANTIOXIDANT
