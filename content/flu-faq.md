@@ -97,9 +97,7 @@ There are several different species of astragalus. Some species contain a nerve 
 
 Astragalus seems to stimulate and increase the immune system.
 
-References: Auyeung, K. & Han, Q. & Ko, J. (2016). Astragalus membranaceus: a review of its protection against inflammation and gastrointestinal cancers. The American Journal of Chinese  Medicine 44 (01): 1–22. 142 Brush, J. et al. (2006). The effect of Echinacea purpurea, Astragalus membranaceus and Glycyrrhiza glabra on CD69 expression and immune cell activation in humans. Phyto therapy Research 20 (8): 687–695.
-143 Qin, Q. & Niu, J. & Wang, Z. & Xu, W. & Qiao, Z. & Gu, Y. (2012). Astragalus membranaceus extract activates immune response in macrophages via heparanase. Molecules (Basel, 
-Switzerland) 17 (6): 7232–7240.
+References: Auyeung, K. & Han, Q. & Ko, J. (2016). Astragalus membranaceus: a review of its protection against inflammation and gastrointestinal cancers. The American Journal of Chinese  Medicine 44 (01): 1–22. 142 Brush, J. et al. (2006). The effect of Echinacea purpurea, Astragalus membranaceus and Glycyrrhiza glabra on CD69 expression and immune cell activation in humans. Phyto therapy Research 20 (8): 687–695. 143 Qin, Q. & Niu, J. & Wang, Z. & Xu, W. & Qiao, Z. & Gu, Y. (2012). Astragalus membranaceus extract activates immune response in macrophages via heparanase. Molecules (Basel,  Switzerland) 17 (6): 7232–7240.
 144 Shan, H. & Zheng, X. & Li, M. (2019). The effects of Astragalus Membranaceus Active Extracts on Autophagy-related Diseases. International Journal of Molecular Sciences 20 (8): 1904.
 
 ### How can I strengthen my immune system?
@@ -123,8 +121,7 @@ There are also other changes that are taking place in your body as you sit and e
 
 Sweating flushes the body from toxins and infections by improving lymphatic drainage and blood circulation.  Both the traditional and infrared sauna kill pathogens due to heat.
 
-References: Hussain, J., & Cohen, M. (2018). Clinical Effects of Regular Dry Sauna Bathing: A Systematic Review. Evidence-Based Complementary and Alternative Medicine 2018: 1857413.  192 Kunutsor, S. & Laukkanen, T. & Laukkanen, J. (2017). Sauna bathing reduces the risk of respiratory diseases: a long-term prospective cohort study. European Journal of  Epidemiology 32 (12): 1107–1111. 193 Xue, J. et al. (2016). Short-Term Heat Shock Affects Host-Virus Interaction in Mice Infected with Highly Pathogenic Avian Influenza Virus H5N1. Frontiers in Microbiology 7: 924.  194 Castellani J. & M Brenner, I. & Rhind, S. (2002). Cold exposure: human immune responses and intracellular cytokine expression. Medicine & Science in Sports & Exercise 34 (12):  2013–2020. Review.
-195 Janský, L. et al. (1996). Immune system of cold-exposed and cold-adapted humans. European Journal of Applied Physiology and Occupational Physiology 72 (5-6): 445–450. 
+References: Hussain, J., & Cohen, M. (2018). Clinical Effects of Regular Dry Sauna Bathing: A Systematic Review. Evidence-Based Complementary and Alternative Medicine 2018: 1857413.  192 Kunutsor, S. & Laukkanen, T. & Laukkanen, J. (2017). Sauna bathing reduces the risk of respiratory diseases: a long-term prospective cohort study. European Journal of  Epidemiology 32 (12): 1107–1111. 193 Xue, J. et al. (2016). Short-Term Heat Shock Affects Host-Virus Interaction in Mice Infected with Highly Pathogenic Avian Influenza Virus H5N1. Frontiers in Microbiology 7: 924.  194 Castellani J. & M Brenner, I. & Rhind, S. (2002). Cold exposure: human immune responses and intracellular cytokine expression. Medicine & Science in Sports & Exercise 34 (12):  2013–2020. Review. 195 Janský, L. et al. (1996). Immune system of cold-exposed and cold-adapted humans. European Journal of Applied Physiology and Occupational Physiology 72 (5-6): 445–450. 
 
 **What vitamines can help the immune system?**
 
@@ -134,15 +131,27 @@ References: Hussain, J., & Cohen, M. (2018). Clinical Effects of Regular Dry Sau
 
 For most healthy individuals, the body can only hold and use about 200 to 250 mg of vitamin C a day, and any excess is lost through urine
 
-* **Vitamin B6**is vital to supporting biochemical reactions in the immune system. Vitamin B6-rich foods include chicken and cold water fish such as salmon and tuna. Vitamin B6 also is found in green vegetables and in chickpeas, which is the main ingredient in hummus.
-* **Vitamin E**is a powerful antioxidant that helps the body fight off infection. Foods rich in vitamin E include nuts, seeds and spinach.
-* Vitamine D It is now clear that vitamin D has important roles in addition to its classic effects on calcium and bone 	homeostasis. ... Vitamin D can modulate the innate and adaptive immune responses. Deficiency in vitamin D is associated 	with increased autoimmunity as well as an increased susceptibility to infection. Several systematic reviews of daily vitamin D supplementation have shown it to be protective against respiratory tract  infections.
+**Vitamin B6**is vital to supporting biochemical reactions in the immune system. Vitamin B6-rich foods include chicken and cold water fish such as salmon and tuna. Vitamin B6 also is found in green vegetables and in chickpeas, which is the main ingredient in hummus.
 
-What kind of zinc is best for colds? Zinc gluconate: As one of the most common over-the-counter forms of zinc, zinc gluconate is often used in cold remedies, such as lozenges and nasal sprays (2). Zinc acetate: Like zinc gluconate, zinc acetate is often added to cold lozenges to reduce symptoms and speed up the rate of recovery.
+**Vitamin  E**is a powerful antioxidant that helps the body fight off infection. Foods rich in vitamin E include nuts, seeds and spinach.
 
-Does zinc help with immune system? Zinc is a mineral that's important to the body in many ways. Zinc keeps the immune system strong, helps heal wounds, and supports normal growth.
+Vitamine D It is now clear that vitamin D has important roles in addition to its classic effects on calcium and bone 	homeostasis. ... Vitamin D can modulate the innate and adaptive immune responses. Deficiency in vitamin D is associated 	with increased autoimmunity as well as an increased susceptibility to infection. Several systematic reviews of daily vitamin D supplementation have shown it to be protective against respiratory tract  infections.
 
-How much zinc should I take for immune system? People use oral zinc to help treat colds, but it can decrease the effectiveness of certain drugs and cause side effects. The recommended daily amount of zinc is 8 milligrams (mg) for women and 11 mg for adult men
+What kind of zinc is best for colds? 
+
+Zinc gluconate: As one of the most common over-the-counter forms of zinc, zinc gluconate is often used in cold remedies, such as lozenges and nasal sprays (2). Zinc acetate: Like zinc gluconate, zinc acetate is often added to cold lozenges to reduce symptoms and speed up the rate of recovery.
+
+Does zinc help with immune system? 
+
+Zinc is a mineral that's important to the body in many ways. Zinc keeps the immune system strong, helps heal wounds, and supports normal growth.
+
+How much zinc should I take for immune system? 
+
+People use oral zinc to help treat colds, but it can decrease the effectiveness of certain drugs and cause side effects. The recommended daily amount of zinc is 8 milligrams (mg) for women and 11 mg for adult men.
+
+The zinc dose shown to reduce the duration of colds (75–95 mg/day\[13]\[14]) is above the safe upper limit (40 mg/day). You should suffer no harm if you take up to 100 mg/day for up to two weeks, but if you start suffering from nausea, vomiting, loss of appetite, stomach cramps, diarrhea, or headaches, all signs that you may be taking more zinc than your body can stand, just stop supplementing with zinc. 
+
+Also, remember that zinc is present in foods and in many supplements, notably multivitamins: make sure that you don’t end up taking more zinc than you planned to. Taking zinc lozenges throughout the day, starting from the very first symptoms of a cold, may reduce the duration of the illness, but supplementation should not exceed 100 mg of zinc per day for up to two weeks.
 
 ### **What is MELATONIN used for ?**
 
