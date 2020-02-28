@@ -2,74 +2,34 @@
 title: Flu FAQ
 layout: page
 ---
-What types of medicinal mushrooms are there?
+## Medicinal mushrooms
 
-Chaga 
+What types of medicinal mushrooms are there?
 
 Chaga has been used by traditional cultures for its health benefits, for hundreds of years. It grows high up on the bark of birch trees in the Eastern U.S. and Canada. This mushroom presents as a hardened, blackened, crusty formation, with the appearance of a bursting tumor on the trunk of a birch tree. Chaga’s most important components, betulinic acid and melano-glucan complexes are derived from the bark of the birch trees the fungus grows on. Chaga is traditionally used as a tea and is revered for its anti-cancer and digestive health benefits.[3](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-3-4261)
 
-In his review of recent research, Hastings[4](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-4-4261)found that Chaga demonstrated hypoglycemic effects in mice, anti-inflammatory and pain relieving properties, reduced oxidative stress, anti-gene mutation properties, and inhibition of liver cancer cells[5](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-5-4261)
+In his review of recent research, Hastings [4](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-4-4261) found that Chaga demonstrated hypoglycemic effects in mice, anti-inflammatory and pain relieving properties, reduced oxidative stress, anti-gene mutation properties, and inhibition of liver cancer cells [5](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-5-4261)
 
-Summary of the benefits of Chaga:
+References
 
-* Mental health
-* Energy
-* Anti-tumor
-* Detoxifies
-* Boosts digestion, improves the appetite
-* Purifies the blood
-* Regulates blood sugar
-* Strengthens the heart
-* Modulates the immune system
-* [Effective prebiotic](https://www.enviromedica.com/learn/prebiotics/#text-sec-7)
+Powell, M. (2013).*Medicinal Mushrooms: The Essential Guide.*Chalgrove, Oxfordshire. Mycology Pres\
+Hastings, D.R. (2014).*Medicinal Mushrooms: Naturally Build Immunity and Fight Cancer (Better Your Life Book 3).*Published by Crane Medicine
 
-  References
+Balandaykin, M. & Zmitrovich, I. (2015). Review on Chaga medicinal mushroom, Inonotus obliquus (Higher Basidiomycetes): Realm of medicinal applications and approaches on
 
-  Powell, M. (2013).*Medicinal Mushrooms: The Essential Guide.*Chalgrove, Oxfordshire. Mycology Pres\
-  Hastings, D.R. (2014).*Medicinal Mushrooms: Naturally Build Immunity and Fight Cancer (Better Your Life Book 3).*Published by Crane Medicine
-
-  Balandaykin, M. & Zmitrovich, I. (2015). Review on Chaga medicinal mushroom, Inonotus obliquus (Higher Basidiomycetes): Realm of medicinal applications and approaches on
-
-  estimating its resource potential. International Journal of Medicinal Mushrooms 17 (2): 95–104.
-
-Cordyceps
+estimating its resource potential. International Journal of Medicinal Mushrooms 17 (2): 95–104.
 
 Cordyceps have a large variety of medicinal effects and Chinese practitioners have used them as medicine for hundreds of years. Cordyceps grow on moth larvae, and have a symbiotic relationship with their host.[6](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-6-4261)Traditionally, cordyceps were only used by the very few people who could afford it. They were used for the treatment of asthma, erectile dysfunction, and as a health tonic for the elderly. The main health benefit from cordyceps is increased energy because they help to deliver oxygen to the body at a cellular level. Due to their ability to increase metabolic efficiency, many athletes utilize cordyceps for increased efficiency of energy metabolism.[7](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-7-4261)In a 12 week study[8](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-8-4261)done on healthy older adults, cordycep use was associated with a 10.5% increase in metabolic threshold. The researchers concluded that supplementation with cordyceps improves exercise performance, and might contribute to wellness in healthy older subjects. Cordyceps are also used in treatment for asthma, cancer and diabetes.[9](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-9-4261)
 
-Summary of the benefits of cordyceps:
+References
 
-* Hydration
-* Increased oxygen to cells
-* Breaks down phlegm
-* Anti-fatigue
-* Antioxidant
-* Immune modulation
-* Heart tonic
-* Sexual tonic
-* Kidney function improvement
-* Anti-viral
-
-  References
-
-  Powell, M. (2013).*Medicinal Mushrooms: The Essential Guide.*Chalgrove, Oxfordshire. Mycology PresChen S., Li Z., & Krochmal R et al. 2010.*Effect of Cs-4® (Cordyceps sinensis) on Exercise Performance in Healthy Older Subjects: A Double-Blind, Placebo-Controlled Trial. The Journal of Alternative and Complementary Medicine*Volume: 16 Issue 5
+Powell, M. (2013).*Medicinal Mushrooms: The Essential Guide.*Chalgrove, Oxfordshire. Mycology PresChen S., Li Z., & Krochmal R et al. 2010.*Effect of Cs-4® (Cordyceps sinensis) on Exercise Performance in Healthy Older Subjects: A Double-Blind, Placebo-Controlled Trial. The Journal of Alternative and Complementary Medicine*Volume: 16 Issue 5
 
 Reishi
 
 In Ancient Chinese medicine Reishi is referred to as the “spirit herb”, known for its ability to improve mind, body and spirit. Reishi is also known as the mushroom of long life. The Reishi mushroom contains several bioactive compounds. These compounds include specific polysaccharides, with triterpene being one of the active polysaccharide compounds of Reishi mushroom. It possesses potent anti-inflammatory, anti-tumorigenic and hypolipidemic properties. Triterpenes from Reishi are associated with cancer cell death as well. Ganoderic acid is an important triterpene component which has shown inhibitory properties on cancer.[10](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-10-4261)Reishi is also associated with toning the blood, reducing phlegm, eradicating coughing and wheezing, strengthening the visceral organs, and promoting restful sleep.
 
 In one study[11](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-11-4261)on a very aggressive form of breast cancer, reishi selectively reduced cancer cell viability and invasion, as well as the expression of key proteins involved in the pathogenesis of breast cancer cells. Reishi downregulated the expression of cancer cells on over 10 different pathways.
-
-Summary of the benefits of Reishi:
-
-* Anti-tumor
-* Boost digestion
-* Stops coughing and wheezing
-* Boosts immune function
-* Increases oxygenation of the cells
-* Calming, restful sleep
-* Reduce anxiety, depression, and paranoia
-
-Medicinal mushrooms are only new to the world of Western medicine, and have a long history of therapeutic use. Up until recently, Western medicine had not incorporated these amazing mushrooms, but as a new medical paradigm emerges, the introduction of these mushrooms to the masses will continue to prove how extremely beneficial they are for a variety of health conditions.
 
 References
 
