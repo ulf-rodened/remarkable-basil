@@ -1,16 +1,14 @@
 ---
-title: Flu FAQ
+title: FAQ
 layout: page
 ---
-## Flu and immunity FAQ
+## FAQ
 
-## Medicinal mushrooms
+WHAT TYPE OF MEDICINAL MUSHROOMS ARE THERE?
 
-What types of medicinal mushrooms are there?
+Chaga has been used by traditional cultures for its health benefits, for hundreds of years. It grows high up on the bark of birch trees in the Eastern U.S. and Canada. This mushroom presents as a hardened, blackened, crusty formation, with the appearance of a bursting tumor on the trunk of a birch tree. Chaga’s most important components, betulinic acid and melano-glucan complexes are derived from the bark of the birch trees the fungus grows on. Chaga is traditionally used as a tea and is revered for its anti-cancer and digestive health benefits.
 
-Chaga has been used by traditional cultures for its health benefits, for hundreds of years. It grows high up on the bark of birch trees in the Eastern U.S. and Canada. This mushroom presents as a hardened, blackened, crusty formation, with the appearance of a bursting tumor on the trunk of a birch tree. Chaga’s most important components, betulinic acid and melano-glucan complexes are derived from the bark of the birch trees the fungus grows on. Chaga is traditionally used as a tea and is revered for its anti-cancer and digestive health benefits.[3](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-3-4261)
-
-In his review of recent research, Hastings [4](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-4-4261) found that Chaga demonstrated hypoglycemic effects in mice, anti-inflammatory and pain relieving properties, reduced oxidative stress, anti-gene mutation properties, and inhibition of liver cancer cells [5](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-5-4261)
+In his review of recent research, Hastings found that Chaga demonstrated hypoglycemic effects in mice, anti-inflammatory and pain relieving properties, reduced oxidative stress, anti-gene mutation properties, and inhibition of liver cancer cells.
 
 References
 
@@ -21,7 +19,7 @@ Balandaykin, M. & Zmitrovich, I. (2015). Review on Chaga medicinal mushroom, Ino
 
 estimating its resource potential. International Journal of Medicinal Mushrooms 17 (2): 95–104.
 
-Cordyceps have a large variety of medicinal effects and Chinese practitioners have used them as medicine for hundreds of years. Cordyceps grow on moth larvae, and have a symbiotic relationship with their host.[6](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-6-4261)Traditionally, cordyceps were only used by the very few people who could afford it. They were used for the treatment of asthma, erectile dysfunction, and as a health tonic for the elderly. The main health benefit from cordyceps is increased energy because they help to deliver oxygen to the body at a cellular level. Due to their ability to increase metabolic efficiency, many athletes utilize cordyceps for increased efficiency of energy metabolism.[7](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-7-4261)In a 12 week study[8](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-8-4261)done on healthy older adults, cordycep use was associated with a 10.5% increase in metabolic threshold. The researchers concluded that supplementation with cordyceps improves exercise performance, and might contribute to wellness in healthy older subjects. Cordyceps are also used in treatment for asthma, cancer and diabetes.[9](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-9-4261)
+Cordyceps have a large variety of medicinal effects and Chinese practitioners have used them as medicine for hundreds of years. Cordyceps grow on moth larvae, and have a symbiotic relationship with their host. Traditionally, cordyceps were only used by the very few people who could afford it. They were used for the treatment of asthma, erectile dysfunction, and as a health tonic for the elderly. The main health benefit from cordyceps is increased energy because they help to deliver oxygen to the body at a cellular level. Due to their ability to increase metabolic efficiency, many athletes utilize cordyceps for increased efficiency of energy metabolism. In a 12 week study done on healthy older adults, cordycep use was associated with a 10.5% increase in metabolic threshold. The researchers concluded that supplementation with cordyceps improves exercise performance, and might contribute to wellness in healthy older subjects. Cordyceps are also used in treatment for asthma, cancer and diabetes. 
 
 References
 
@@ -29,9 +27,9 @@ Powell, M. (2013).*Medicinal Mushrooms: The Essential Guide.*Chalgrove, Oxfordsh
 
 Reishi
 
-In Ancient Chinese medicine Reishi is referred to as the “spirit herb”, known for its ability to improve mind, body and spirit. Reishi is also known as the mushroom of long life. The Reishi mushroom contains several bioactive compounds. These compounds include specific polysaccharides, with triterpene being one of the active polysaccharide compounds of Reishi mushroom. It possesses potent anti-inflammatory, anti-tumorigenic and hypolipidemic properties. Triterpenes from Reishi are associated with cancer cell death as well. Ganoderic acid is an important triterpene component which has shown inhibitory properties on cancer.[10](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-10-4261)Reishi is also associated with toning the blood, reducing phlegm, eradicating coughing and wheezing, strengthening the visceral organs, and promoting restful sleep.
+In Ancient Chinese medicine Reishi is referred to as the “spirit herb”, known for its ability to improve mind, body and spirit. Reishi is also known as the mushroom of long life. The Reishi mushroom contains several bioactive compounds. These compounds include specific polysaccharides, with triterpene being one of the active polysaccharide compounds of Reishi mushroom. It possesses potent anti-inflammatory, anti-tumorigenic and hypolipidemic properties. Triterpenes from Reishi are associated with cancer cell death as well. Ganoderic acid is an important triterpene component which has shown inhibitory properties on cancer. Reishi is also associated with toning the blood, reducing phlegm, eradicating coughing and wheezing, strengthening the visceral organs, and promoting restful sleep.
 
-In one study [11](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-11-4261) on a very aggressive form of breast cancer, reishi selectively reduced cancer cell viability and invasion, as well as the expression of key proteins involved in the pathogenesis of breast cancer cells. Reishi downregulated the expression of cancer cells on over 10 different pathways.
+In one study on a very aggressive form of breast cancer, reishi selectively reduced cancer cell viability and invasion, as well as the expression of key proteins involved in the pathogenesis of breast cancer cells. Reishi downregulated the expression of cancer cells on over 10 different pathways.
 
 References
 
@@ -41,17 +39,17 @@ Suarez-Arroyo IJ, Rosario-Acevedo, R, & Aguilar-Perez A et al. (2013).*Anti-Tumo
 
 ## Can astragalus herb help the immune system?
 
-[Astragalus](https://www.webmd.com/heart/astragalus-root-heart-benefits-side-effects) is an herb. The root is used to make medicine.\
-\
-Astragalus is used for many conditions, but so far, there isn't enough scientific evidence to determine whether or not it is effective for any of them.\
-\
-Astragalus is taken by [mouth](https://www.webmd.com/oral-health/ss/slideshow-mouth-problems) for [hay fever](https://www.webmd.com/allergies/rhinitis), diabetes,[kidney disease](https://www.webmd.com/a-to-z-guides/understanding-kidney-disease-basic-information), and to strengthen and regulate the[immune system](https://www.webmd.com/cold-and-flu/immune-system-function).\
-\
-Some people use astragalus as a general tonic, to protect the [liver](https://www.webmd.com/digestive-disorders/picture-of-the-liver), and to fight bacteria and viruses. It is also used to prevent and reduce side effects associated with [cancer treatment](https://www.webmd.com/cancer/understanding-cancer-treatment).\
+Astragalus is an herb. The root is used to make medicine.
 
-Astragalus is commonly used in combination with other herbs. \
+Astragalus is used for many conditions, but so far, there isn't enough scientific evidence to determine whether or not it is effective for any of them.
 
-There are several different species of astragalus. Some species contain a nerve toxin and have been linked to livestock poisonings. Some of these species include Astragalus lentiginosus, Astragalus mollissimus, and others. However, these species of astragalus are usually not found in[dietary supplements](https://www.webmd.com/vitamins-and-supplements/supplement-faq)used by humans. Most astragalus[supplements](https://www.webmd.com/vitamins-and-supplements/lifestyle-guide-11/default.htm)contain Astragalus membranaceus.
+Astragalus is taken by mouth for hay fever, diabetes, kidney disease, and to strengthen and regulate the immune system.
+
+Some people use astragalus as a general tonic, to protect the liver, and to fight bacteria and viruses. It is also used to prevent and reduce side effects associated with cancer treatment.
+
+Astragalus is commonly used in combination with other herbs. 
+
+There are several different species of astragalus. Some species contain a nerve toxin and have been linked to livestock poisonings. Some of these species include Astragalus lentiginosus, Astragalus mollissimus, and others. However, these species of astragalus are usually not found in dietary supplements. Most astragalus supplements contain Astragalus membranaceus.
 
 ### How does Astragalus work?
 
@@ -61,15 +59,15 @@ References: Auyeung, K. & Han, Q. & Ko, J. (2016). Astragalus membranaceus: a re
 
 ### How can I strengthen my immune system?
 
-Your first line of defense is to[choose a healthy lifestyle](http://www.health.harvard.edu/healthbeat/six-ways-you-can-help-your-immune-system). Following general good-health guidelines is the single best step you can take toward naturally keeping your immune system strong and healthy. Every part of your body, including your immune system, functions better when protected from environmental assaults and bolstered by healthy-living strategies such as these:
+Your first line of defense is to choose a healthy lifestyle. Following general good-health guidelines is the single best step you can take toward naturally keeping your immune system strong and healthy. Every part of your body, including your immune system, functions better when protected from environmental assaults and bolstered by healthy-living strategies such as these:
 
-* [Don't smoke.](http://www.health.harvard.edu/newsletter_article/light-and-social-smoking-carry-cardiovascular-risks)
+* Don't smoke.
 * Eat a diet high in fruits and vegetables.
 * Exercise regularly.
-* Maintain a[healthy weight.](http://www.health.harvard.edu/diet-and-weight-loss/bmi-calculator)
+* Maintain a healthy weight.
 * If you drink alcohol, drink only in moderation.
 * Get adequate sleep.
-* [Take steps to avoid infection](http://www.health.harvard.edu/how-to-prevent-infections), such as washing your hands frequently and cooking meats thoroughly.
+* Take steps to avoid infection, such as washing your hands frequently and cooking meats thoroughly.
 * Try to minimize stress.
 
 Why is sauna bathing good for the immune system?
@@ -84,9 +82,9 @@ References: Hussain, J., & Cohen, M. (2018). Clinical Effects of Regular Dry Sau
 
 **What vitamines can help the immune system?**
 
-**Vitamin C** is one of the biggest immune system boosters of all. In fact, a lack of vitamin C can even make you more prone to getting sick. Foods rich in vitamin C include oranges, grapefruits, tangerines, strawberries, bell peppers, spinach, kale and broccoli. Daily intake of vitamin C is essential for good health because your body doesn’t produce or store it. The good news is that vitamin C is in so many foods that most people don’t need to take a vitamin C[supplement](https://health.clevelandclinic.org/5-vitamins-you-might-be-overdoing/)unless a doctor advises it.
+**Vitamin C** is one of the biggest immune system boosters of all. In fact, a lack of vitamin C can even make you more prone to getting sick. Foods rich in vitamin C include oranges, grapefruits, tangerines, strawberries, bell peppers, spinach, kale and broccoli. Daily intake of vitamin C is essential for good health because your body doesn’t produce or store it. The good news is that vitamin C is in so many foods that most people don’t need to take a vitamin C supplement unless a doctor advises it.
 
-“High doses of vitamin C may contribute to the formation of kidney stones, as well as severe diarrhea, nausea, and gastritis,” says McGowan. In a study published in February 2013 in*JAMA Internal Medicine,*men who consumed more than seven vitamin C supplements — typically containing 1,000 mg per tablet — per week had double the risk of[kidney stones](https://www.everydayhealth.com/kidney-stones/guide/). ([11](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1568519)) “The increased risk was seen only in people taking extra doses of vitamin C and not in people taking just a multivitamin,” says McGowan. The study authors note that the risk may not apply to women, who generally have a lower risk of kidney stones. (11)
+“High doses of vitamin C may contribute to the formation of kidney stones, as well as severe diarrhea, nausea, and gastritis,” says McGowan. In a study published in February 2013 in*JAMA Internal Medicine,*men who consumed more than seven vitamin C supplements — typically containing 1,000 mg per tablet — per week had double the risk of kidney stones. “The increased risk was seen only in people taking extra doses of vitamin C and not in people taking just a multivitamin,” says McGowan. The study authors note that the risk may not apply to women, who generally have a lower risk of kidney stones.
 
 For most healthy individuals, the body can only hold and use about 200 to 250 mg of vitamin C a day, and any excess is lost through urine
 
@@ -94,11 +92,11 @@ For most healthy individuals, the body can only hold and use about 200 to 250 mg
 
 **Vitamin  E** is a powerful antioxidant that helps the body fight off infection. Foods rich in vitamin E include nuts, seeds and spinach.
 
-Vitamine D It is now clear that vitamin D has important roles in addition to its classic effects on calcium and bone 	homeostasis. ... Vitamin D can modulate the innate and adaptive immune responses. Deficiency in vitamin D is associated 	with increased autoimmunity as well as an increased susceptibility to infection. Several systematic reviews of daily vitamin D supplementation have shown it to be protective against respiratory tract  infections.
+Vitamine D It is now clear that vitamin D has important roles in addition to its classic effects on calcium and bone homeostasis. Vitamin D can modulate the innate and adaptive immune responses. Deficiency in vitamin D is associated With increased autoimmunity as well as an increased susceptibility to infection. Several systematic reviews of daily vitamin D supplementation have shown it to be protective against respiratory tract  infections.
 
 What kind of zinc is best for colds? 
 
-Zinc gluconate: As one of the most common over-the-counter forms of zinc, zinc gluconate is often used in cold remedies, such as lozenges and nasal sprays (2). Zinc acetate: Like zinc gluconate, zinc acetate is often added to cold lozenges to reduce symptoms and speed up the rate of recovery.
+Zinc gluconate: As one of the most common over-the-counter forms of zinc, zinc gluconate is often used in cold remedies, such as lozenges and nasal sprays. Zinc acetate: Like zinc gluconate, zinc acetate is often added to cold lozenges to reduce symptoms and speed up the rate of recovery.
 
 Does zinc help with immune system? 
 
@@ -108,7 +106,7 @@ How much zinc should I take for immune system?
 
 People use oral zinc to help treat colds, but it can decrease the effectiveness of certain drugs and cause side effects. The recommended daily amount of zinc is 8 milligrams (mg) for women and 11 mg for adult men.
 
-The zinc dose shown to reduce the duration of colds (75–95 mg/day\[13]\[14]) is above the safe upper limit (40 mg/day). You should suffer no harm if you take up to 100 mg/day for up to two weeks, but if you start suffering from nausea, vomiting, loss of appetite, stomach cramps, diarrhea, or headaches, all signs that you may be taking more zinc than your body can stand, just stop supplementing with zinc. 
+The zinc dose shown to reduce the duration of colds (75–95 mg/day) is above the safe upper limit (40 mg/day). You should suffer no harm if you take up to 100 mg/day for up to two weeks, but if you start suffering from nausea, vomiting, loss of appetite, stomach cramps, diarrhea, or headaches, all signs that you may be taking more zinc than your body can stand, just stop supplementing with zinc. 
 
 Also, remember that zinc is present in foods and in many supplements, notably multivitamins: make sure that you don’t end up taking more zinc than you planned to. Taking zinc lozenges throughout the day, starting from the very first symptoms of a cold, may reduce the duration of the illness, but supplementation should not exceed 100 mg of zinc per day for up to two weeks.
 
@@ -118,13 +116,13 @@ Also, remember that zinc is present in foods and in many supplements, notably mu
 
 **Melatonin** has long been known to be a pervasive **scavenger of free-radicals** and protector against oxidative damage, but its role as an indirect antioxidant doesn’t stop there. For the most part, antioxidant enzymes are **regulated** depending on the oxidant status of the cell. However, melatonin has been found to have an influence on both cellular mRNA levels for these enzymes as well as **antioxidant enzyme activity**.
 
-**Over the years** it has been determined that many disease states are either directly due to, or exacerbated by, **high oxidative stress**. In these situations, melatonin has proven to be an effective means of **reducing the severity** of disease and/or being a protectant against a vast array of conditions. As an indirect antioxidant, melatonin boosts activity of glutathione peroxidase – an enzyme family expressed in nearly all mammalian tissues whose primary role is protecting against oxidative damage. In fact, melatonin has shown an aptitude for **stimulating gene expression** for a variety of other antioxidant enzymes, as well as inhibiting the expression of genes such as ALA-S ([Aminolevulinic acid synthase](http://en.wikipedia.org/wiki/Aminolevulinic_acid_synthase)).
+**Over the years** it has been determined that many disease states are either directly due to, or exacerbated by, **high oxidative stress**. In these situations, melatonin has proven to be an effective means of **reducing the severity** of disease and/or being a protectant against a vast array of conditions. As an indirect antioxidant, melatonin boosts activity of glutathione peroxidase – an enzyme family expressed in nearly all mammalian tissues whose primary role is protecting against oxidative damage. In fact, melatonin has shown an aptitude for **stimulating gene expression** for a variety of other antioxidant enzymes, as well as inhibiting the expression of genes such as ALA-S, Aminolevulinic acid synthase.
 
 **These benefits** drove researchers to begin testing melatonin as a possible therapeutic agent in **neurodegenerative diseases**. Needless to say, melatonin didn’t disappoint.
 
 ### NEUROPROTECTIVE AGENT
 
-**Taking its** protective effects to the next level, melatonin has been found to assist in neurodegenerative diseases such as[Alzheimer’s](http://bit.ly/154W1Eg)& Parkinson’s, to protect against **excitotoxicity**, lower neural damage due to porphyria, reduce injury from ischemia-reperfusion (damage due to lack of oxygen), and protect against a variety of neural toxins. In fact, Alzheimer’s research pairing melatonin with varying blends of nutrients and activities found that the combination of **melatonin plus physical exercise** had a synergistic effect against numerous aspects of the disease – making significant headway in the battle against**[cognitive impairment](http://bit.ly/12Ru4NL)**.
+**Taking its** protective effects to the next level, melatonin has been found to assist in neurodegenerative diseases such as Alzheimer’s & Parkinson’s, to protect against **excitotoxicity**, lower neural damage due to porphyria, reduce injury from ischemia-reperfusion (damage due to lack of oxygen), and protect against a variety of neural toxins. In fact, Alzheimer’s research pairing melatonin with varying blends of nutrients and activities found that the combination of **melatonin plus physical exercise** had a synergistic effect against numerous aspects of the disease – making significant headway in the battle against cognitive impairment.
 
 These neuroprotective components are enhanced even further by melatonin’s versatility as an **anti-inflammatory**and anti-apoptotic agent (preventative against programmed cell-death). In a study from 2010, it was even tested as a means of preventing methamphetamine-induced **cell degradation and death (necrosis)**, in which the results showed how truly effective melatonin is as a neuroprotectant.
 
@@ -133,12 +131,12 @@ These neuroprotective components are enhanced even further by melatonin’s vers
 **The list of** melatonin’s capabilities continues to expand as time carries on and technology allows for **further**, in-depth exploration.The following are additional **attributes**of this **hormone**:
 
 * **Protects against UV and radiation damage**
-* Helps regulate the[immune system](http://bit.ly/ZrWzTk)
+* Helps regulate the immune system
 * Required for dilation and contraction of blood vessels
-* Has been[explored](http://bit.ly/11nfScM)as a means to help fight obesity
+* Has been explored as a means to help fight obesity
 * Regulates hormone release
 * **Essential for reproduction, fertility and sexual maturation**
-* Used in treatment as well as prevention of various forms of cancer (*[1](http://bit.ly/129drNn),[2](http://bit.ly/17uczHa),[3](http://bit.ly/1aFRvSL),[4](http://bit.ly/1eos1uV)*)
+* Used in treatment as well as prevention of various forms of cancer 
 * Beneficial in treatment of numerous conditions*
 * Beneficial for maintaining balanced gut flora
 * Has analgesic and sedative properties
@@ -162,9 +160,7 @@ Molecular Sciences 14 (4): 8638–8683.
 
 Bacteria like Lactobacilli and Bifidobacteria have been shown to improve gut health and immunity.
 
-Some probiotics (live micro-organisms) can confer a health benefit to the patient when administered in adequate amounts. Lactic acid bacteria and bifidobacteria are the most common types of probiotics. They are commonly consumed insauerkraut, kimchi, kefir and fermented
-
-dairy.
+Some probiotics (live micro-organisms) can confer a health benefit to the patient when administered in adequate amounts. Lactic acid bacteria and bifidobacteria are the most common types of probiotics. They are commonly consumed insauerkraut, kimchi, kefir and fermented dairy.
 
 Probiotics were found to be better than placebo in reducing the number of participants experiencing episodes of acute upper respiratory tract infections by about 47% and the duration of an episode of acute upper respiratory tract infections by about 1.89 days. Probiotics may slightly reduce antibiotic use and cold-related school absence. Side effects of probiotics were minor and gastrointestinal symptoms were the most common.
 
@@ -200,7 +196,7 @@ Hao Q, Dong B, Wu T. Probiotics for preventing acute upper respiratory tract inf
 
 ## Avoid using the bathroom on short flights
 
-If it’s a short flight, make sure you go to the bathroom before your flight takes off, New York-based primary care physician[Dr. Marina Gafanovich](https://www.mynycdoctor.com/)told TPG. Why?
+If it’s a short flight, make sure you go to the bathroom before your flight takes off, New York-based primary care physician Dr. Marina Gafanovich told TPG. Why?
 
 “You have to understand that many people are sharing that bathroom,” she said. “And research suggests that there are significant germs on sinks, flush handles and toilet seats on airplane bathrooms. That is why it’s best to use paper towels when you touch the toilet seat or faucet or even the door latch.”
 
@@ -208,29 +204,29 @@ If it’s a short flight, make sure you go to the bathroom before your flight ta
 
 Onboard air humidity is about 15%, whereas we’re used to between 30% and 60% humidity on land. The very low humidity of the cabin air can dry out the mucous membranes of your nose and airways.
 
-When these tissues dry out, they are much more susceptible to viruses and bacteria. To combat this, stay hydrated. “Bring your own bottle of water and aim to drink eight ounces of water per hour you’re in the air to maintain your hydration,” said Dr. Nathan Favini, medical lead at[Forward](https://goforward.com/), a new technology-based health care startup. “Alcohol and caffeine will dehydrate you even more, so save the cocktails and coffee for your destination.”
+When these tissues dry out, they are much more susceptible to viruses and bacteria. To combat this, stay hydrated. “Bring your own bottle of water and aim to drink eight ounces of water per hour you’re in the air to maintain your hydration. Alcohol and caffeine will dehydrate you even more, so save the cocktails and coffee for your destination.
 
 ## Keep your hands clean
 
 We all know that washing our hands is key to preventing sickness, but it’s especially true when traveling.
 
-“Keep your hands clean,” said Dr. Nicholas Testa, chief physician executive at[Dignity Health](https://www.dignityhealth.org/socal)in Southern California. “This means a combination of good hand hygiene with either soap or water or an alcohol-based hand sanitizer.”
+Keep your hands clean. This means a combination of good hand hygiene with either soap or water or an alcohol-based hand sanitizer.
 
-The CDC recommends an alcohol-based[hand sanitizer](https://thepointsguy.com/guide/10-gifts-for-10-or-less/)with 60% to 95% alcohol content.
+The CDC recommends an alcohol-based hand sanitizer with 60% to 95% alcohol content.
 
 ## Avoid Certain Areas of the Plane
 
-In addition to washing your hands, you should be cognizant of those areas on a plane that are particularly high touch and[infrequently cleaned](https://thepointsguy.com/guide/how-often-planes-are-cleaned/). The flu virus, for example, can live on any hard surface for up to 24 hours.
+In addition to washing your hands, you should be cognizant of those areas on a plane that are particularly high touch and infrequently cleaned. The flu virus, for example, can live on any hard surface for up to 24 hours.
 
 Disinfect the seat belt buckle, armrests, remote control, touch screen, tray table, and overhead air vent buttons with a disinfectant wipe before you touch them.
 
 ## Don’t touch your face
 
-Even if your hands are clean, it’s best to keep them away from your face, too. “Even if your hands have touched the[dirtiest, germiest surfaces](https://thepointsguy.com/news/these-are-the-dirtiest-surfaces-inside-an-airplane/), you won’t get sick from that unless you bring those germs to a point of entry (nose, mouth, eyes),” said New York state-based Dr. Frank Contacessa. “Get in the habit of never rubbing your eyes, touching your mouth or your nose unless you just washed your hands. This is one of the greatest ways to avoid getting sick.”
+Even if your hands are clean, it’s best to keep them away from your face, too. “Even if your hands have touched the dirtiest, germiest surfaces, you won’t get sick from that unless you bring those germs to a point of entry (nose, mouth, eyes). Get in the habit of never rubbing your eyes, touching your mouth or your nose unless you just washed your hands. This is one of the greatest ways to avoid getting sick.
 
 ## Choose your seat carefully
 
-On an airplane, studies have shown that the[aisle seats](https://thepointsguy.com/guide/maneuvering-aisle-airplane-travel-etiquette/)experience significantly more traffic and run a greater risk of exposure. Why? Well, sick patients tend to brace themselves on those seats when walking to the bathroom. “The window seat is a better selection if you want to minimize the risk of[respiratory transmission](https://thepointsguy.com/news/how-to-avoid-common-travel-ailments/),” said Dr. Testa. These seats generally don’t have as much contact with passengers.
+On an airplane, studies have shown that the aisle seats experience significantly more traffic and run a greater risk of exposure. Why? Well, sick patients tend to brace themselves on those seats when walking to the bathroom. “The window seat is a better selection if you want to minimize the risk of respiratory transmission . These seats generally don’t have as much contact with passengers.
 
 ## Keep Your Air Vent On
 
@@ -250,8 +246,7 @@ No. Surgical masks cannot filter fine particles less than 2 microns (0.002mm) in
 
 ## Can black tea help against virus and colds?
 
-**BLACK TEA** is rich in a group of pathogen-fighting compounds that can protect against\
-a variety of viral infections. Tea leaves contain naturally occurring compounds, including polyphenols, catechins and alkaloids like caffeine, theobromine and theophylline that defend the plants against invading pathogens such as bacteria, fungi and viruses. Older studies show black tea can almost completely inhibit the infectivity of influenza virus. And in one study, black tea extract, rich in flavanol compounds called theaflavins, inhibited herpes simplex virus type 1 (HSV1) infection.
+**BLACK TEA** is rich in a group of pathogen-fighting compounds that can protect against a variety of viral infections. Tea leaves contain naturally occurring compounds, including polyphenols, catechins and alkaloids like caffeine, theobromine and theophylline that defend the plants against invading pathogens such as bacteria, fungi and viruses. Older studies show black tea can almost completely inhibit the infectivity of influenza virus. And in one study, black tea extract, rich in flavanol compounds called theaflavins, inhibited herpes simplex virus type 1 (HSV1) infection.
 
 Can shiitake mushrooms help against virus?
 
