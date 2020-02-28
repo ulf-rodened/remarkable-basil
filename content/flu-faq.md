@@ -79,6 +79,33 @@ AMDEKAR, S. (2016).*Ganoderma lucidum (Reishi): source of pharmacologically acti
 
 Suarez-Arroyo IJ, Rosario-Acevedo, R, & Aguilar-Perez A et al. (2013).*Anti-Tumor Effects of Ganoderma lucidum (Reishi) in Inflammatory Breast Cancer in In Vivo and In Vitro Models.*Available at:[http://dx.doi.org/10.1371/journal.pone.0057431.](http://dx.doi.org/10.1371/journal.pone.0057431)Accessed February 1, 2017
 
+## Can astragalus herb help the immune system?
+
+[Astragalus](https://www.webmd.com/heart/astragalus-root-heart-benefits-side-effects) is an herb. The root is used to make medicine.\
+\
+Astragalus is used for many conditions, but so far, there isn't enough scientific evidence to determine whether or not it is effective for any of them.\
+\
+Astragalus is taken by [mouth](https://www.webmd.com/oral-health/ss/slideshow-mouth-problems) for [hay fever](https://www.webmd.com/allergies/rhinitis), diabetes,[kidney disease](https://www.webmd.com/a-to-z-guides/understanding-kidney-disease-basic-information), and to strengthen and regulate the[immune system](https://www.webmd.com/cold-and-flu/immune-system-function).\
+\
+Some people use astragalus as a general tonic, to protect the [liver](https://www.webmd.com/digestive-disorders/picture-of-the-liver), and to fight bacteria and viruses. It is also used to prevent and reduce side effects associated with [cancer treatment](https://www.webmd.com/cancer/understanding-cancer-treatment).\
+\
+Astragalus is commonly used in combination with other herbs. \
+\
+There are several different species of astragalus. Some species contain a nerve toxin and have been linked to livestock poisonings. Some of these species include Astragalus lentiginosus, Astragalus mollissimus, and others. However, these species of astragalus are usually not found in[dietary supplements](https://www.webmd.com/vitamins-and-supplements/supplement-faq)used by humans. Most astragalus[supplements](https://www.webmd.com/vitamins-and-supplements/lifestyle-guide-11/default.htm)contain Astragalus membranaceus.
+
+### How does Astragalus work?
+
+Astragalus seems to stimulate and increase the immune system.
+
+References: Auyeung, K. & Han, Q. & Ko, J. (2016). Astragalus membranaceus: a review of its protection against inflammation and gastrointestinal cancers. The American Journal of Chinese  Medicine 44 (01): 1–22.
+142 Brush, J. et al. (2006). The effect of Echinacea purpurea, Astragalus membranaceus and Glycyrrhiza glabra on CD69 expression and immune cell activation in humans. Phyto
+therapy Research 20 (8): 687–695.
+143 Qin, Q. & Niu, J. & Wang, Z. & Xu, W. & Qiao, Z. & Gu, Y. (2012). Astragalus membranaceus extract activates immune response in macrophages via heparanase. Molecules (Basel, 
+Switzerland) 17 (6): 7232–7240.
+144 Shan, H. & Zheng, X. & Li, M. (2019). The effects of Astragalus Membranaceus Active Extracts on Autophagy-related Diseases. International Journal of Molecular Sciences 20 (8): 1904.
+
+
+
 ### How can I strengthen my immune system?
 
 Your first line of defense is to[choose a healthy lifestyle](http://www.health.harvard.edu/healthbeat/six-ways-you-can-help-your-immune-system). Following general good-health guidelines is the single best step you can take toward naturally keeping your immune system strong and healthy. Every part of your body, including your immune system, functions better when protected from environmental assaults and bolstered by healthy-living strategies such as these:
@@ -92,8 +119,6 @@ Your first line of defense is to[choose a healthy lifestyle](http://www.health.h
 * [Take steps to avoid infection](http://www.health.harvard.edu/how-to-prevent-infections), such as washing your hands frequently and cooking meats thoroughly.
 * Try to minimize stress.
 
-
-
 Why is sauna bathing good for the immune system?
 
 Sauna bathing with periods of body cool-down can help by strengthening the immune system. There are indications that the white blood cells in your body can increase as a result of the heat in a sauna. Specially in trained athletes. White cells are very important for fighting off infections that are trying to bring harm to the body.
@@ -102,8 +127,7 @@ There are also other changes that are taking place in your body as you sit and e
 
 Sweating flushes the body from toxins and infections by improving lymphatic drainage and blood circulation.  Both the traditional and infrared sauna kill pathogens due to heat.
 
-References: Hussain, J., & Cohen, M. (2018). Clinical Effects of Regular Dry Sauna Bathing: A Systematic Review. Evidence-Based Complementary and Alternative Medicine 2018: 1857413.  192 Kunutsor, S. & Laukkanen, T. & Laukkanen, J. (2017). Sauna bathing reduces the risk of respiratory diseases: a long-term prospective cohort study. European Journal of  Epidemiology 32 (12): 1107–1111.
-193 Xue, J. et al. (2016). Short-Term Heat Shock Affects Host-Virus Interaction in Mice Infected with Highly Pathogenic Avian Influenza Virus H5N1. Frontiers in Microbiology 7: 924. 
+References: Hussain, J., & Cohen, M. (2018). Clinical Effects of Regular Dry Sauna Bathing: A Systematic Review. Evidence-Based Complementary and Alternative Medicine 2018: 1857413.  192 Kunutsor, S. & Laukkanen, T. & Laukkanen, J. (2017). Sauna bathing reduces the risk of respiratory diseases: a long-term prospective cohort study. European Journal of  Epidemiology 32 (12): 1107–1111. 193 Xue, J. et al. (2016). Short-Term Heat Shock Affects Host-Virus Interaction in Mice Infected with Highly Pathogenic Avian Influenza Virus H5N1. Frontiers in Microbiology 7: 924. 
 194 Castellani J. & M Brenner, I. & Rhind, S. (2002). Cold exposure: human immune responses and intracellular cytokine expression. Medicine & Science in Sports & Exercise 34 (12): 
 2013–2020. Review.
 195 Janský, L. et al. (1996). Immune system of cold-exposed and cold-adapted humans. European Journal of Applied Physiology and Occupational Physiology 72 (5-6): 445–450. 
