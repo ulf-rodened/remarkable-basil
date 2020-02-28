@@ -92,14 +92,17 @@ Your first line of defense is to[choose a healthy lifestyle](http://www.health.h
 * [Take steps to avoid infection](http://www.health.harvard.edu/how-to-prevent-infections), such as washing your hands frequently and cooking meats thoroughly.
 * Try to minimize stress.
 
+
+
+Why is sauna bathing good for the immune system?
+
 Sauna bathing with periods of body cool-down can help by strengthening the immune system. There are indications that the white blood cells in your body can increase as a result of the heat in a sauna. Specially in trained athletes. White cells are very important for fighting off infections that are trying to bring harm to the body.
 
 There are also other changes that are taking place in your body as you sit and enjoy the warmth and comfort in a sauna. These changes are in respect to your T cells and antibodies. Some people say that even when they are suffering from a cold they find some time in the sauna helps to improve their condition. This is thought to be because microbes causing the ailment don't like the heat and tend to die off at higher temperatures.
 
 Sweating flushes the body from toxins and infections by improving lymphatic drainage and blood circulation.  Both the traditional and infrared sauna kill pathogens due to heat.
 
-References: Hussain, J., & Cohen, M. (2018). Clinical Effects of Regular Dry Sauna Bathing: A Systematic Review. Evidence-Based Complementary and Alternative Medicine 2018: 1857413.  192 Kunutsor, S. & Laukkanen, T. & Laukkanen, J. (2017). Sauna bathing reduces the risk of respiratory diseases: a long-term prospective cohort study. European Journal of 
-Epidemiology 32 (12): 1107–1111.
+References: Hussain, J., & Cohen, M. (2018). Clinical Effects of Regular Dry Sauna Bathing: A Systematic Review. Evidence-Based Complementary and Alternative Medicine 2018: 1857413.  192 Kunutsor, S. & Laukkanen, T. & Laukkanen, J. (2017). Sauna bathing reduces the risk of respiratory diseases: a long-term prospective cohort study. European Journal of  Epidemiology 32 (12): 1107–1111.
 193 Xue, J. et al. (2016). Short-Term Heat Shock Affects Host-Virus Interaction in Mice Infected with Highly Pathogenic Avian Influenza Virus H5N1. Frontiers in Microbiology 7: 924. 
 194 Castellani J. & M Brenner, I. & Rhind, S. (2002). Cold exposure: human immune responses and intracellular cytokine expression. Medicine & Science in Sports & Exercise 34 (12): 
 2013–2020. Review.
@@ -111,20 +114,12 @@ Epidemiology 32 (12): 1107–1111.
 
 “High doses of vitamin C may contribute to the formation of kidney stones, as well as severe diarrhea, nausea, and gastritis,” says McGowan. In a study published in February 2013 in*JAMA Internal Medicine,*men who consumed more than seven vitamin C supplements — typically containing 1,000 mg per tablet — per week had double the risk of[kidney stones](https://www.everydayhealth.com/kidney-stones/guide/). ([11](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1568519)) “The increased risk was seen only in people taking extra doses of vitamin C and not in people taking just a multivitamin,” says McGowan. The study authors note that the risk may not apply to women, who generally have a lower risk of kidney stones. (11)
 
-
-
 For most healthy individuals, the body can only hold and use about 200 to 250 mg of vitamin C a day, and any excess is lost through urine
-
-
 
 * **Vitamin B6**is vital to supporting biochemical reactions in the immune system. Vitamin B6-rich foods include chicken and cold water fish such as salmon and tuna. Vitamin B6 also is found in green vegetables and in chickpeas, which is the main ingredient in hummus.
 * **Vitamin E**is a powerful antioxidant that helps the body fight off infection. Foods rich in vitamin E include nuts, seeds and spinach.
 
-
-
 ### **What isMELATONINused for ?**
-
-
 
 ### ANTIOXIDANT
 
@@ -170,15 +165,11 @@ Molecular Sciences 14 (4): 8638–8683.
 
 211 Asif, N. & Iqbal, R. & Nazir, C. (2017). Human immune system during sleep. American Journal of Clinical and Experimental Immunology 6 (6): 92–96.
 
-
-
 How can probiotics help my immune system?
 
 # [](<>) Probiotics (live micro-organisms)has shown effects in studiesto prevent upper respiratory tract infections (URTIs) (for example, the common cold).
 
 Bacteria like Lactobacilli and Bifidobacteria have been shown to improve gut health and immunity.
-
-
 
 Some probiotics (live micro-organisms) can confer a health benefit to the patient when administered in adequate amounts. Lactic acid bacteria and bifidobacteria are the most common types of probiotics. They are commonly consumed insauerkraut, kimchi, kefir and fermented
 
@@ -195,8 +186,6 @@ The quality of the evidence is low or very low mainly due to poorly conducted tr
 Overall, we found probiotics to be better than placebo in preventing acute URTIs. However, more trials are needed to confirm this conclusion.
 
 References
-
-
 
 Yan, F. & Polk, D. (2011). Probiotics and immune health. Current Opinion in Gastroenterology 27 (6): 496–501.
 
@@ -220,8 +209,6 @@ S224–S33.
 
 Hao Q, Dong B, Wu T. Probiotics for preventing acute upper respiratory tract infections. Cochrane Database of Systematic Reviews 2015, Issue 2. Art. No.: CD006895. DOI: 10.1002/14651858.CD006895.pub3
 
-
-
 ## How to avoid getting sick on a plane
 
 ## Avoid using the bathroom on short flights
@@ -236,8 +223,6 @@ Onboard air humidity is about 15%, whereas we’re used to between 30% and 60% h
 
 When these tissues dry out, they are much more susceptible to viruses and bacteria. To combat this, stay hydrated. “Bring your own bottle of water and aim to drink eight ounces of water per hour you’re in the air to maintain your hydration,” said Dr. Nathan Favini, medical lead at[Forward](https://goforward.com/), a new technology-based health care startup. “Alcohol and caffeine will dehydrate you even more, so save the cocktails and coffee for your destination.”
 
-
-
 ## Keep your hands clean
 
 We all know that washing our hands is key to preventing sickness, but it’s especially true when traveling.
@@ -250,17 +235,11 @@ The CDC recommends an alcohol-based[hand sanitizer](https://thepointsguy.com/gui
 
 In addition to washing your hands, you should be cognizant of those areas on a plane that are particularly high touch and[infrequently cleaned](https://thepointsguy.com/guide/how-often-planes-are-cleaned/). The flu virus, for example, can live on any hard surface for up to 24 hours.
 
-
-
 Disinfect the seat belt buckle, armrests, remote control, touch screen, tray table, and overhead air vent buttons with a disinfectant wipe before you touch them.
-
-
 
 ## Don’t touch your face
 
 Even if your hands are clean, it’s best to keep them away from your face, too. “Even if your hands have touched the[dirtiest, germiest surfaces](https://thepointsguy.com/news/these-are-the-dirtiest-surfaces-inside-an-airplane/), you won’t get sick from that unless you bring those germs to a point of entry (nose, mouth, eyes),” said New York state-based Dr. Frank Contacessa. “Get in the habit of never rubbing your eyes, touching your mouth or your nose unless you just washed your hands. This is one of the greatest ways to avoid getting sick.”
-
-
 
 ## Choose your seat carefully
 
@@ -274,32 +253,18 @@ While you might think that sitting in recycled air for hours could cause you to 
 
 In fact, high-efficiency particulate air (HEPA) filters found on planes remove at least 99.97% of any airborne viruses and bacteria. That air is also getting refreshed about 20 times per hour. An office only gets refreshed about 10 times.
 
-
-
 ## Do Some Health Prep
 
 Before you even set foot on a plane, you can start preventive measures to avoid getting sick. “Start a regime of probiotics to keep the gut from holding onto bad bacteria and encouraging the body to fight infection by increasing the good bacteria in your gut,” said Dr. Testa. “Take a zinc supplement and get the flu vaccine two to three weeks prior to travel.”
 
-
-
-
-
 Am I protected from the corona virus with a face mask ?
-
-
 
 No. Surgical masks cannot filter fine particles less than 2 microns (0.002mm) in diameter. N95 respirators are better they filter out particles down to 0.3 microns but the corona virus measures 0.12 microns in diameter.
 
-
-
 Can black tea help against virus and colds?
-
-
 
 **BLACK TEA**is rich in a group of pathogen-fighting compounds that can protect against\
 a variety of viral infections. Tea leaves contain naturally occurring compounds, including polyphenols, catechins and alkaloids like caffeine, theobromine and theophylline that defend the plants against invading pathogens such as bacteria, fungi and viruses. Older studies show black tea can almost completely inhibit the infectivity of influenza virus. And in one study, black tea extract, rich in flavanol compounds called theaflavins, inhibited herpes simplex virus type 1 (HSV1) infection.
-
-
 
 Can shiitake mushrooms help against virus?
 
@@ -336,8 +301,6 @@ Harris, J. & Cottrell, S. & Plummer, S. & Lloyd, D. (2001). Antimicrobial proper
 Kyo, E. & Uda, N. & Kasuga, S. & Itakura, Y. (2001). Immunomodulatory effects of aged garlic extract. The Journal of Nutrition 131 (3s): 1075s–1079s.\
 Tran, G-B. & Pham, T-V. & Trinh, N-N. (2018). Black Garlic and Its Therapeutic Benefits. In: Medicinal Plants - Use in Prevention and Treatment of Diseases. Intechopen. 85042.105 Kim, M. et al. (2014). Aged black garlic exerts anti-inflammatory effects by decreasing no and proinflammatory cytokine production with less cytoxicity in LPS-stimulated raw 264.7 macrophages and LPS-induced septicemia mice. Journal of Medicinal Food 17 (10): 1057–1063.
 
-
-
 **What is elderberry?**
 
 The elderberry plant is native to Europe, though it also grows in other parts of the world. It’s been used in folk medicine for centuries to treat cold and flu viruses. There are a slew of different elderberry plants, but the flowers and berries from one in particular –*Sambucus nigra*, or European elder – are the most studied. Elderberry extract, the form often seen in cold and flu remedies, relies on a combination of alcohol, or other chemicals to draw out the beneficial parts of the plant. This results in a more concentrated product.
@@ -372,10 +335,6 @@ Influenza, or flu, is a highly contagious respiratory illness caused by influenz
 
 Flu is a vaccine-preventable illness but a new vaccine needs to be given each year because influenza viruses change (mutate) constantly. A new flu vaccine is prepared each year to best match the strains predicted for the coming flu season.
 
-
-
 Astragalus
-
-
 
 Sauna
