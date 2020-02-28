@@ -6,7 +6,8 @@ layout: page
 
 What types of medicinal mushrooms are there?
 
-Chaga
+Chaga 
+
 Chaga has been used by traditional cultures for its health benefits, for hundreds of years. It grows high up on the bark of birch trees in the Eastern U.S. and Canada. This mushroom presents as a hardened, blackened, crusty formation, with the appearance of a bursting tumor on the trunk of a birch tree. Chaga’s most important components, betulinic acid and melano-glucan complexes are derived from the bark of the birch trees the fungus grows on. Chaga is traditionally used as a tea and is revered for its anti-cancer and digestive health benefits.[3](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-3-4261)
 
 In his review of recent research, Hastings[4](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-4-4261)found that Chaga demonstrated hypoglycemic effects in mice, anti-inflammatory and pain relieving properties, reduced oxidative stress, anti-gene mutation properties, and inhibition of liver cancer cells[5](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-5-4261)
@@ -96,8 +97,7 @@ There are several different species of astragalus. Some species contain a nerve 
 
 Astragalus seems to stimulate and increase the immune system.
 
-References: Auyeung, K. & Han, Q. & Ko, J. (2016). Astragalus membranaceus: a review of its protection against inflammation and gastrointestinal cancers. The American Journal of Chinese  Medicine 44 (01): 1–22. 142 Brush, J. et al. (2006). The effect of Echinacea purpurea, Astragalus membranaceus and Glycyrrhiza glabra on CD69 expression and immune cell activation in humans. Phyto
-therapy Research 20 (8): 687–695.
+References: Auyeung, K. & Han, Q. & Ko, J. (2016). Astragalus membranaceus: a review of its protection against inflammation and gastrointestinal cancers. The American Journal of Chinese  Medicine 44 (01): 1–22. 142 Brush, J. et al. (2006). The effect of Echinacea purpurea, Astragalus membranaceus and Glycyrrhiza glabra on CD69 expression and immune cell activation in humans. Phyto therapy Research 20 (8): 687–695.
 143 Qin, Q. & Niu, J. & Wang, Z. & Xu, W. & Qiao, Z. & Gu, Y. (2012). Astragalus membranaceus extract activates immune response in macrophages via heparanase. Molecules (Basel, 
 Switzerland) 17 (6): 7232–7240.
 144 Shan, H. & Zheng, X. & Li, M. (2019). The effects of Astragalus Membranaceus Active Extracts on Autophagy-related Diseases. International Journal of Molecular Sciences 20 (8): 1904.
@@ -123,8 +123,7 @@ There are also other changes that are taking place in your body as you sit and e
 
 Sweating flushes the body from toxins and infections by improving lymphatic drainage and blood circulation.  Both the traditional and infrared sauna kill pathogens due to heat.
 
-References: Hussain, J., & Cohen, M. (2018). Clinical Effects of Regular Dry Sauna Bathing: A Systematic Review. Evidence-Based Complementary and Alternative Medicine 2018: 1857413.  192 Kunutsor, S. & Laukkanen, T. & Laukkanen, J. (2017). Sauna bathing reduces the risk of respiratory diseases: a long-term prospective cohort study. European Journal of  Epidemiology 32 (12): 1107–1111. 193 Xue, J. et al. (2016). Short-Term Heat Shock Affects Host-Virus Interaction in Mice Infected with Highly Pathogenic Avian Influenza Virus H5N1. Frontiers in Microbiology 7: 924.  194 Castellani J. & M Brenner, I. & Rhind, S. (2002). Cold exposure: human immune responses and intracellular cytokine expression. Medicine & Science in Sports & Exercise 34 (12): 
-2013–2020. Review.
+References: Hussain, J., & Cohen, M. (2018). Clinical Effects of Regular Dry Sauna Bathing: A Systematic Review. Evidence-Based Complementary and Alternative Medicine 2018: 1857413.  192 Kunutsor, S. & Laukkanen, T. & Laukkanen, J. (2017). Sauna bathing reduces the risk of respiratory diseases: a long-term prospective cohort study. European Journal of  Epidemiology 32 (12): 1107–1111. 193 Xue, J. et al. (2016). Short-Term Heat Shock Affects Host-Virus Interaction in Mice Infected with Highly Pathogenic Avian Influenza Virus H5N1. Frontiers in Microbiology 7: 924.  194 Castellani J. & M Brenner, I. & Rhind, S. (2002). Cold exposure: human immune responses and intracellular cytokine expression. Medicine & Science in Sports & Exercise 34 (12):  2013–2020. Review.
 195 Janský, L. et al. (1996). Immune system of cold-exposed and cold-adapted humans. European Journal of Applied Physiology and Occupational Physiology 72 (5-6): 445–450. 
 
 **What vitamines can help the immune system?**
@@ -137,17 +136,14 @@ For most healthy individuals, the body can only hold and use about 200 to 250 mg
 
 * **Vitamin B6**is vital to supporting biochemical reactions in the immune system. Vitamin B6-rich foods include chicken and cold water fish such as salmon and tuna. Vitamin B6 also is found in green vegetables and in chickpeas, which is the main ingredient in hummus.
 * **Vitamin E**is a powerful antioxidant that helps the body fight off infection. Foods rich in vitamin E include nuts, seeds and spinach.
+* Vitamine D It is now clear that vitamin D has important roles in addition to its classic effects on calcium and bone 	homeostasis. ... Vitamin D can modulate the innate and adaptive immune responses. Deficiency in vitamin D is associated 	with increased autoimmunity as well as an increased susceptibility to infection. Several systematic reviews of daily vitamin D supplementation have shown it to be protective against respiratory tract  infections.
 
-* Vitamine D It is now clear that vitamin D has important roles in addition to its classic effects on calcium and bone 	homeostasis. ... Vitamin D can modulate the innate and adaptive immune responses. Deficiency in vitamin D is associated 	with increased autoimmunity as well as an increased susceptibility to infection. Several systematic reviews of daily vitamin D supplementation have shown it to be protective against respiratory tract infections.
+What kind of zinc is best for colds? Zinc gluconate: As one of the most common over-the-counter forms of zinc, zinc gluconate is often used in cold remedies, such as lozenges and nasal sprays (2). Zinc acetate: Like zinc gluconate, zinc acetate is often added to cold lozenges to reduce symptoms and speed up the rate of recovery.
 
-What kind of zinc is best for colds?
-Zinc gluconate: As one of the most common over-the-counter forms of zinc, zinc gluconate is often used in cold remedies, such as lozenges and nasal sprays (2). Zinc acetate: Like zinc gluconate, zinc acetate is often added to cold lozenges to reduce symptoms and speed up the rate of recovery.
+Does zinc help with immune system? Zinc is a mineral that's important to the body in many ways. Zinc keeps the immune system strong, helps heal wounds, and supports normal growth.
 
-Does zinc help with immune system?
-Zinc is a mineral that's important to the body in many ways. Zinc keeps the immune system strong, helps heal wounds, and supports normal growth.
+How much zinc should I take for immune system? People use oral zinc to help treat colds, but it can decrease the effectiveness of certain drugs and cause side effects. The recommended daily amount of zinc is 8 milligrams (mg) for women and 11 mg for adult men
 
-How much zinc should I take for immune system?
-People use oral zinc to help treat colds, but it can decrease the effectiveness of certain drugs and cause side effects. The recommended daily amount of zinc is 8 milligrams (mg) for women and 11 mg for adult men
 ### **What is MELATONIN used for ?**
 
 ### ANTIOXIDANT
