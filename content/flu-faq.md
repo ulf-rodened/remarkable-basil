@@ -97,14 +97,11 @@ There are several different species of astragalus. Some species contain a nerve 
 
 Astragalus seems to stimulate and increase the immune system.
 
-References: Auyeung, K. & Han, Q. & Ko, J. (2016). Astragalus membranaceus: a review of its protection against inflammation and gastrointestinal cancers. The American Journal of Chinese  Medicine 44 (01): 1–22.
-142 Brush, J. et al. (2006). The effect of Echinacea purpurea, Astragalus membranaceus and Glycyrrhiza glabra on CD69 expression and immune cell activation in humans. Phyto
+References: Auyeung, K. & Han, Q. & Ko, J. (2016). Astragalus membranaceus: a review of its protection against inflammation and gastrointestinal cancers. The American Journal of Chinese  Medicine 44 (01): 1–22. 142 Brush, J. et al. (2006). The effect of Echinacea purpurea, Astragalus membranaceus and Glycyrrhiza glabra on CD69 expression and immune cell activation in humans. Phyto
 therapy Research 20 (8): 687–695.
 143 Qin, Q. & Niu, J. & Wang, Z. & Xu, W. & Qiao, Z. & Gu, Y. (2012). Astragalus membranaceus extract activates immune response in macrophages via heparanase. Molecules (Basel, 
 Switzerland) 17 (6): 7232–7240.
 144 Shan, H. & Zheng, X. & Li, M. (2019). The effects of Astragalus Membranaceus Active Extracts on Autophagy-related Diseases. International Journal of Molecular Sciences 20 (8): 1904.
-
-
 
 ### How can I strengthen my immune system?
 
@@ -127,8 +124,7 @@ There are also other changes that are taking place in your body as you sit and e
 
 Sweating flushes the body from toxins and infections by improving lymphatic drainage and blood circulation.  Both the traditional and infrared sauna kill pathogens due to heat.
 
-References: Hussain, J., & Cohen, M. (2018). Clinical Effects of Regular Dry Sauna Bathing: A Systematic Review. Evidence-Based Complementary and Alternative Medicine 2018: 1857413.  192 Kunutsor, S. & Laukkanen, T. & Laukkanen, J. (2017). Sauna bathing reduces the risk of respiratory diseases: a long-term prospective cohort study. European Journal of  Epidemiology 32 (12): 1107–1111. 193 Xue, J. et al. (2016). Short-Term Heat Shock Affects Host-Virus Interaction in Mice Infected with Highly Pathogenic Avian Influenza Virus H5N1. Frontiers in Microbiology 7: 924. 
-194 Castellani J. & M Brenner, I. & Rhind, S. (2002). Cold exposure: human immune responses and intracellular cytokine expression. Medicine & Science in Sports & Exercise 34 (12): 
+References: Hussain, J., & Cohen, M. (2018). Clinical Effects of Regular Dry Sauna Bathing: A Systematic Review. Evidence-Based Complementary and Alternative Medicine 2018: 1857413.  192 Kunutsor, S. & Laukkanen, T. & Laukkanen, J. (2017). Sauna bathing reduces the risk of respiratory diseases: a long-term prospective cohort study. European Journal of  Epidemiology 32 (12): 1107–1111. 193 Xue, J. et al. (2016). Short-Term Heat Shock Affects Host-Virus Interaction in Mice Infected with Highly Pathogenic Avian Influenza Virus H5N1. Frontiers in Microbiology 7: 924.  194 Castellani J. & M Brenner, I. & Rhind, S. (2002). Cold exposure: human immune responses and intracellular cytokine expression. Medicine & Science in Sports & Exercise 34 (12): 
 2013–2020. Review.
 195 Janský, L. et al. (1996). Immune system of cold-exposed and cold-adapted humans. European Journal of Applied Physiology and Occupational Physiology 72 (5-6): 445–450. 
 
@@ -143,25 +139,25 @@ For most healthy individuals, the body can only hold and use about 200 to 250 mg
 * **Vitamin B6**is vital to supporting biochemical reactions in the immune system. Vitamin B6-rich foods include chicken and cold water fish such as salmon and tuna. Vitamin B6 also is found in green vegetables and in chickpeas, which is the main ingredient in hummus.
 * **Vitamin E**is a powerful antioxidant that helps the body fight off infection. Foods rich in vitamin E include nuts, seeds and spinach.
 
-### **What isMELATONINused for ?**
+### **What is MELATONIN used for ?**
 
 ### ANTIOXIDANT
 
-**Melatonin**has long been known to be a pervasive**scavenger of free-radicals**and protector against oxidative damage, but its role as an indirect antioxidant doesn’t stop there. For the most part, antioxidant enzymes are**regulated**depending on the oxidant status of the cell. However, melatonin has been found to have an influence on both cellular mRNA levels for these enzymes as well as**antioxidant enzyme activity**.
+**Melatonin** has long been known to be a pervasive **scavenger of free-radicals** and protector against oxidative damage, but its role as an indirect antioxidant doesn’t stop there. For the most part, antioxidant enzymes are **regulated** depending on the oxidant status of the cell. However, melatonin has been found to have an influence on both cellular mRNA levels for these enzymes as well as **antioxidant enzyme activity**.
 
-**Over the years**it has been determined that many disease states are either directly due to, or exacerbated by,**high oxidative stress**. In these situations, melatonin has proven to be an effective means of**reducing the severity**of disease and/or being a protectant against a vast array of conditions. As an indirect antioxidant, melatonin boosts activity of glutathione peroxidase – an enzyme family expressed in nearly all mammalian tissues whose primary role is protecting against oxidative damage. In fact, melatonin has shown an aptitude for**stimulating gene expression**for a variety of other antioxidant enzymes, as well as inhibiting the expression of genes such as ALA-S ([Aminolevulinic acid synthase](http://en.wikipedia.org/wiki/Aminolevulinic_acid_synthase)).
+**Over the years** it has been determined that many disease states are either directly due to, or exacerbated by, **high oxidative stress**. In these situations, melatonin has proven to be an effective means of **reducing the severity** of disease and/or being a protectant against a vast array of conditions. As an indirect antioxidant, melatonin boosts activity of glutathione peroxidase – an enzyme family expressed in nearly all mammalian tissues whose primary role is protecting against oxidative damage. In fact, melatonin has shown an aptitude for **stimulating gene expression** for a variety of other antioxidant enzymes, as well as inhibiting the expression of genes such as ALA-S ([Aminolevulinic acid synthase](http://en.wikipedia.org/wiki/Aminolevulinic_acid_synthase)).
 
-**These benefits**drove researchers to begin testing melatonin as a possible therapeutic agent in**neurodegenerative diseases**. Needless to say, melatonin didn’t disappoint.
+**These benefits** drove researchers to begin testing melatonin as a possible therapeutic agent in **neurodegenerative diseases**. Needless to say, melatonin didn’t disappoint.
 
 ### NEUROPROTECTIVE AGENT
 
-**Taking its**protective effects to the next level, melatonin has been found to assist in neurodegenerative diseases such as[Alzheimer’s](http://bit.ly/154W1Eg)& Parkinson’s, to protect against**excitotoxicity**, lower neural damage due to porphyria, reduce injury from ischemia-reperfusion (damage due to lack of oxygen), and protect against a variety of neural toxins. In fact, Alzheimer’s research pairing melatonin with varying blends of nutrients and activities found that the combination of**melatonin plus physical exercise**had a synergistic effect against numerous aspects of the disease – making significant headway in the battle against**[cognitive impairment](http://bit.ly/12Ru4NL)**.
+**Taking its** protective effects to the next level, melatonin has been found to assist in neurodegenerative diseases such as[Alzheimer’s](http://bit.ly/154W1Eg)& Parkinson’s, to protect against **excitotoxicity**, lower neural damage due to porphyria, reduce injury from ischemia-reperfusion (damage due to lack of oxygen), and protect against a variety of neural toxins. In fact, Alzheimer’s research pairing melatonin with varying blends of nutrients and activities found that the combination of **melatonin plus physical exercise** had a synergistic effect against numerous aspects of the disease – making significant headway in the battle against**[cognitive impairment](http://bit.ly/12Ru4NL)**.
 
-These neuroprotective components are enhanced even further by melatonin’s versatility as an**anti-inflammatory**and anti-apoptotic agent (preventative against programmed cell-death). In a study from 2010, it was even tested as a means of preventing methamphetamine-induced**cell degradation and death (necrosis)**, in which the results showed how truly effective melatonin is as a neuroprotectant.
+These neuroprotective components are enhanced even further by melatonin’s versatility as an **anti-inflammatory**and anti-apoptotic agent (preventative against programmed cell-death). In a study from 2010, it was even tested as a means of preventing methamphetamine-induced **cell degradation and death (necrosis)**, in which the results showed how truly effective melatonin is as a neuroprotectant.
 
 ### ABOVE & BEYOND
 
-**The list of**melatonin’s capabilities continues to expand as time carries on and technology allows for**further**, in-depth exploration.The following are additional**attributes**of this**hormone**:
+**The list of** melatonin’s capabilities continues to expand as time carries on and technology allows for **further**, in-depth exploration.The following are additional **attributes**of this **hormone**:
 
 * **Protects against UV and radiation damage**
 * Helps regulate the[immune system](http://bit.ly/ZrWzTk)
@@ -175,7 +171,7 @@ These neuroprotective components are enhanced even further by melatonin’s vers
 * Has analgesic and sedative properties
 * **Anti-aging & longevity supplement**
 
-**Many of**these items can be linked back to melatonin’s foundational role as a**sleep promoter**, free-radical scavenger, indirect antioxidant, and regulatory hormone, which should underscore just how basic and**fundamental**it is to health and well-being.
+**Many of** these items can be linked back to melatonin’s foundational role as a **sleep promoter**, free-radical scavenger, indirect antioxidant, and regulatory hormone, which should underscore just how basic and **fundamental** it is to health and well-being.
 
 References
 
@@ -189,9 +185,7 @@ Molecular Sciences 14 (4): 8638–8683.
 
 211 Asif, N. & Iqbal, R. & Nazir, C. (2017). Human immune system during sleep. American Journal of Clinical and Experimental Immunology 6 (6): 92–96.
 
-How can probiotics help my immune system?
-
-# [](<>) Probiotics (live micro-organisms)has shown effects in studiesto prevent upper respiratory tract infections (URTIs) (for example, the common cold).
+## How can probiotics help my immune system?
 
 Bacteria like Lactobacilli and Bifidobacteria have been shown to improve gut health and immunity.
 
@@ -199,7 +193,7 @@ Some probiotics (live micro-organisms) can confer a health benefit to the patien
 
 dairy.
 
-Probiotics were found to be better than placebo in reducing the number of participants experiencing episodes of acute URTI by about 47% and the duration of an episode of acute URTI by about 1.89 days. Probiotics may slightly reduce antibiotic use and cold-related school absence. Side effects of probiotics were minor and gastrointestinal symptoms were the most common.
+Probiotics were found to be better than placebo in reducing the number of participants experiencing episodes of acute upper respiratory tract infections by about 47% and the duration of an episode of acute upper respiratory tract infections by about 1.89 days. Probiotics may slightly reduce antibiotic use and cold-related school absence. Side effects of probiotics were minor and gastrointestinal symptoms were the most common.
 
 **Quality of the evidence**
 
@@ -219,21 +213,17 @@ Yan, F. & Polk, D. (2011). Probiotics and immune health. Current Opinion in Gast
 
 deprivation. Journal of Dairy Research 73 (4): 492–498.
 
-88 Corthésy, B. (2013). Multi-faceted functions of secretory IgA at mucosal surfaces. Frontiers in Immunology 4: 185.
+Corthésy, B. (2013). Multi-faceted functions of secretory IgA at mucosal surfaces. Frontiers in Immunology 4: 185.
 
-89 Lehtoranta, L. & Pitkäranta, A. & Korpela, R. (2014). Probiotics in respiratory virus infections. European Journal of Clinical Microbiology and Infectious Diseases 33 (8): 1289–1302.
+Lehtoranta, L. & Pitkäranta, A. & Korpela, R. (2014). Probiotics in respiratory virus infections. European Journal of Clinical Microbiology and Infectious Diseases 33 (8): 1289–1302. Review.
 
-Review.
+ Pregliasco, F. et al. (2008). A new chance of preventing winter diseases by the administration of synbiotic formulations. Journal of Clinical Gastroenterology 42 (Suppl 3 Pt 2): S224–S33.
 
-90 Pregliasco, F. et al. (2008). A new chance of preventing winter diseases by the administration of synbiotic formulations. Journal of Clinical Gastroenterology 42 (Suppl 3 Pt 2):
-
-S224–S33.
-
-91 Lefevre, M. et al. (2015). Probiotic strain Bacillus subtilis CU1 stimulates immune system of elderly during common infectious disease period: a randomized, double-blind placebo￾controlled study. Immunity and Ageing 12 (1): 24.
+ Lefevre, M. et al. (2015). Probiotic strain Bacillus subtilis CU1 stimulates immune system of elderly during common infectious disease period: a randomized, double-blind placebo￾controlled study. Immunity and Ageing 12 (1): 24.
 
 Hao Q, Dong B, Wu T. Probiotics for preventing acute upper respiratory tract infections. Cochrane Database of Systematic Reviews 2015, Issue 2. Art. No.: CD006895. DOI: 10.1002/14651858.CD006895.pub3
 
-## How to avoid getting sick on a plane
+## How can I avoid getting sick on a plane?
 
 ## Avoid using the bathroom on short flights
 
@@ -285,16 +275,16 @@ Am I protected from the corona virus with a face mask ?
 
 No. Surgical masks cannot filter fine particles less than 2 microns (0.002mm) in diameter. N95 respirators are better they filter out particles down to 0.3 microns but the corona virus measures 0.12 microns in diameter.
 
-Can black tea help against virus and colds?
+## Can black tea help against virus and colds?
 
-**BLACK TEA**is rich in a group of pathogen-fighting compounds that can protect against\
+**BLACK TEA** is rich in a group of pathogen-fighting compounds that can protect against\
 a variety of viral infections. Tea leaves contain naturally occurring compounds, including polyphenols, catechins and alkaloids like caffeine, theobromine and theophylline that defend the plants against invading pathogens such as bacteria, fungi and viruses. Older studies show black tea can almost completely inhibit the infectivity of influenza virus. And in one study, black tea extract, rich in flavanol compounds called theaflavins, inhibited herpes simplex virus type 1 (HSV1) infection.
 
 Can shiitake mushrooms help against virus?
 
-**SHIITAKE MUSHROOMS**are loaded with beta-glucans, antiviral compounds that have been shown to inhibit viral replication and enhance immune function. In one study, people who ate shiitake mushrooms for four weeks showed improved markers of immunity, as well as reduced inflammation. Other studies show shiitake mushrooms also have significant antibacterial and antifungal properties, and they protected against 85% of the yeasts, molds and other organisms they were tested on.
+**SHIITAKE MUSHROOMS** are loaded with beta-glucans, antiviral compounds that have been shown to inhibit viral replication and enhance immune function. In one study, people who ate shiitake mushrooms for four weeks showed improved markers of immunity, as well as reduced inflammation. Other studies show shiitake mushrooms also have significant antibacterial and antifungal properties, and they protected against 85% of the yeasts, molds and other organisms they were tested on.
 
-**Why eatGINGER?**
+**Why eat GINGER?**
 
 has long been used in traditional medicine to treat colds and flu, and modern studies show it has measurable antiviral benefits. In one study, fresh ginger protected against HRSV (human respiratory syncytial virus, a major cause of lower respiratory tract infections) by blocking the virus’ ability to attach to cells and stimulating the release of compounds that help counteract viral infections.
 
@@ -302,7 +292,7 @@ Ginger contains more than 400 chemical compounds, but researchers believe the gi
 
 ### **Reduces Inflammation**
 
-Ginger is sometimes taken as a supplement for[rheumatoid arthritis](https://www.everydayhealth.com/rheumatoid-arthritis/guide/)and[osteoarthritis](https://www.everydayhealth.com/osteoarthritis/guide/)(two painful conditions causing joint damage). Since ginger is an anti-inflammatory, it may also be able to ease joint pain due to inflammation from arthritis.
+Ginger is sometimes taken as a supplement for[ rheumatoid arthritis](https://www.everydayhealth.com/rheumatoid-arthritis/guide/)and[osteoarthritis](https://www.everydayhealth.com/osteoarthritis/guide/) (two painful conditions causing joint damage). Since ginger is an anti-inflammatory, it may also be able to ease joint pain due to inflammation from arthritis.
 
 An older study found that people with knee osteoarthritis who took ginger extract had less pain and used less pain medication. But they did experience some mild stomach upset because of the higher concentration of ginger extract. ([8](https://www.ncbi.nlm.nih.gov/pubmed/11710709))
 
@@ -316,7 +306,9 @@ In addition to its many other benefits, gingerol might help prevent infections. 
 
 Mashhadi, N. et al. (2013). Anti-oxidative and anti-inflammatory effects of ginger in health and physical activity: review of current evidence. International Journal of Preventive Medicine 4 (Suppl 1): S36–S42.
 
-**GARLIC**contains powerful compounds, including allicin, diallyl trisulfide and ajoene, that fight viruses, including influenza, rhinovirus, cytomegalovirus (a type of herpes virus), herpes simplex, HIV, viral pneumonia and rotavirus. In one study, people who took allicin extract over a 12-week period had significantly fewer colds than the placebo group, and those who did get a cold recovered faster.
+**GARLIC** 
+
+Garlic contains powerful compounds, including allicin, diallyl trisulfide and ajoene, that fight viruses, including influenza, rhinovirus, cytomegalovirus (a type of herpes virus), herpes simplex, HIV, viral pneumonia and rotavirus. In one study, people who took allicin extract over a 12-week period had significantly fewer colds than the placebo group, and those who did get a cold recovered faster.
 
 Reference\
 Iciek, M. & Kwiecień, I. & Włodek, L. (2009). Biological properties of garlic and garlic-derived organosulfur compounds. Environmental and Molecular Mutagenesis 50 (3): 247–265.\
@@ -358,7 +350,3 @@ Rodriguez-Garcia, I. et al. (2016). Oregano Essential Oil as an Antimicrobial an
 Influenza, or flu, is a highly contagious respiratory illness caused by influenza viruses. There are two main types of influenza virus that cause infection in humans - types A and B - and many sub-types or strains. Flu can occur throughout the year but influenza activity usually peaks in winter.
 
 Flu is a vaccine-preventable illness but a new vaccine needs to be given each year because influenza viruses change (mutate) constantly. A new flu vaccine is prepared each year to best match the strains predicted for the coming flu season.
-
-Astragalus
-
-Sauna
