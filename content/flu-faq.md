@@ -87,9 +87,9 @@ Astragalus is used for many conditions, but so far, there isn't enough scientifi
 Astragalus is taken by [mouth](https://www.webmd.com/oral-health/ss/slideshow-mouth-problems) for [hay fever](https://www.webmd.com/allergies/rhinitis), diabetes,[kidney disease](https://www.webmd.com/a-to-z-guides/understanding-kidney-disease-basic-information), and to strengthen and regulate the[immune system](https://www.webmd.com/cold-and-flu/immune-system-function).\
 \
 Some people use astragalus as a general tonic, to protect the [liver](https://www.webmd.com/digestive-disorders/picture-of-the-liver), and to fight bacteria and viruses. It is also used to prevent and reduce side effects associated with [cancer treatment](https://www.webmd.com/cancer/understanding-cancer-treatment).\
-\
+
 Astragalus is commonly used in combination with other herbs. \
-\
+
 There are several different species of astragalus. Some species contain a nerve toxin and have been linked to livestock poisonings. Some of these species include Astragalus lentiginosus, Astragalus mollissimus, and others. However, these species of astragalus are usually not found in[dietary supplements](https://www.webmd.com/vitamins-and-supplements/supplement-faq)used by humans. Most astragalus[supplements](https://www.webmd.com/vitamins-and-supplements/lifestyle-guide-11/default.htm)contain Astragalus membranaceus.
 
 ### How does Astragalus work?
@@ -139,6 +139,11 @@ For most healthy individuals, the body can only hold and use about 200 to 250 mg
 * **Vitamin E**is a powerful antioxidant that helps the body fight off infection. Foods rich in vitamin E include nuts, seeds and spinach.
 
 * Vitamine D It is now clear that vitamin D has important roles in addition to its classic effects on calcium and bone 	homeostasis. ... Vitamin D can modulate the innate and adaptive immune responses. Deficiency in vitamin D is associated 	with increased autoimmunity as well as an increased susceptibility to infection. Several systematic reviews of daily vitamin D supplementation have shown it to be protective against respiratory tract infections.
+
+What kind of zinc is best for colds?
+Zinc gluconate: As one of the most common over-the-counter forms of zinc, zinc gluconate is often used in cold remedies, such as lozenges and nasal sprays (2). Zinc acetate: Like zinc gluconate, zinc acetate is often added to cold lozenges to reduce symptoms and speed up the rate of recovery.
+
+
 
 ### **What is MELATONIN used for ?**
 
