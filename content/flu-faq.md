@@ -29,7 +29,7 @@ Reishi
 
 In Ancient Chinese medicine Reishi is referred to as the “spirit herb”, known for its ability to improve mind, body and spirit. Reishi is also known as the mushroom of long life. The Reishi mushroom contains several bioactive compounds. These compounds include specific polysaccharides, with triterpene being one of the active polysaccharide compounds of Reishi mushroom. It possesses potent anti-inflammatory, anti-tumorigenic and hypolipidemic properties. Triterpenes from Reishi are associated with cancer cell death as well. Ganoderic acid is an important triterpene component which has shown inhibitory properties on cancer.[10](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-10-4261)Reishi is also associated with toning the blood, reducing phlegm, eradicating coughing and wheezing, strengthening the visceral organs, and promoting restful sleep.
 
-In one study[11](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-11-4261)on a very aggressive form of breast cancer, reishi selectively reduced cancer cell viability and invasion, as well as the expression of key proteins involved in the pathogenesis of breast cancer cells. Reishi downregulated the expression of cancer cells on over 10 different pathways.
+In one study [11](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-11-4261) on a very aggressive form of breast cancer, reishi selectively reduced cancer cell viability and invasion, as well as the expression of key proteins involved in the pathogenesis of breast cancer cells. Reishi downregulated the expression of cancer cells on over 10 different pathways.
 
 References
 
@@ -82,15 +82,15 @@ References: Hussain, J., & Cohen, M. (2018). Clinical Effects of Regular Dry Sau
 
 **What vitamines can help the immune system?**
 
-**Vitamin C**is one of the biggest immune system boosters of all. In fact, a lack of vitamin C can even make you more prone to getting sick. Foods rich in vitamin C include oranges, grapefruits, tangerines, strawberries, bell peppers, spinach, kale and broccoli. Daily intake of vitamin C is essential for good health because your body doesn’t produce or store it. The good news is that vitamin C is in so many foods that most people don’t need to take a vitamin C[supplement](https://health.clevelandclinic.org/5-vitamins-you-might-be-overdoing/)unless a doctor advises it.
+**Vitamin C** is one of the biggest immune system boosters of all. In fact, a lack of vitamin C can even make you more prone to getting sick. Foods rich in vitamin C include oranges, grapefruits, tangerines, strawberries, bell peppers, spinach, kale and broccoli. Daily intake of vitamin C is essential for good health because your body doesn’t produce or store it. The good news is that vitamin C is in so many foods that most people don’t need to take a vitamin C[supplement](https://health.clevelandclinic.org/5-vitamins-you-might-be-overdoing/)unless a doctor advises it.
 
 “High doses of vitamin C may contribute to the formation of kidney stones, as well as severe diarrhea, nausea, and gastritis,” says McGowan. In a study published in February 2013 in*JAMA Internal Medicine,*men who consumed more than seven vitamin C supplements — typically containing 1,000 mg per tablet — per week had double the risk of[kidney stones](https://www.everydayhealth.com/kidney-stones/guide/). ([11](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1568519)) “The increased risk was seen only in people taking extra doses of vitamin C and not in people taking just a multivitamin,” says McGowan. The study authors note that the risk may not apply to women, who generally have a lower risk of kidney stones. (11)
 
 For most healthy individuals, the body can only hold and use about 200 to 250 mg of vitamin C a day, and any excess is lost through urine
 
-**Vitamin B6**is vital to supporting biochemical reactions in the immune system. Vitamin B6-rich foods include chicken and cold water fish such as salmon and tuna. Vitamin B6 also is found in green vegetables and in chickpeas, which is the main ingredient in hummus.
+**Vitamin B6** is vital to supporting biochemical reactions in the immune system. Vitamin B6-rich foods include chicken and cold water fish such as salmon and tuna. Vitamin B6 also is found in green vegetables and in chickpeas, which is the main ingredient in hummus.
 
-**Vitamin  E**is a powerful antioxidant that helps the body fight off infection. Foods rich in vitamin E include nuts, seeds and spinach.
+**Vitamin  E** is a powerful antioxidant that helps the body fight off infection. Foods rich in vitamin E include nuts, seeds and spinach.
 
 Vitamine D It is now clear that vitamin D has important roles in addition to its classic effects on calcium and bone 	homeostasis. ... Vitamin D can modulate the innate and adaptive immune responses. Deficiency in vitamin D is associated 	with increased autoimmunity as well as an increased susceptibility to infection. Several systematic reviews of daily vitamin D supplementation have shown it to be protective against respiratory tract  infections.
 
