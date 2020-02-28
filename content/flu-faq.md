@@ -2,8 +2,6 @@
 title: Flu FAQ
 layout: page
 ---
-### FAQ
-
 What types of medicinal mushrooms are there?
 
 Chaga 
@@ -97,8 +95,7 @@ There are several different species of astragalus. Some species contain a nerve 
 
 Astragalus seems to stimulate and increase the immune system.
 
-References: Auyeung, K. & Han, Q. & Ko, J. (2016). Astragalus membranaceus: a review of its protection against inflammation and gastrointestinal cancers. The American Journal of Chinese  Medicine 44 (01): 1–22. 142 Brush, J. et al. (2006). The effect of Echinacea purpurea, Astragalus membranaceus and Glycyrrhiza glabra on CD69 expression and immune cell activation in humans. Phyto therapy Research 20 (8): 687–695. 143 Qin, Q. & Niu, J. & Wang, Z. & Xu, W. & Qiao, Z. & Gu, Y. (2012). Astragalus membranaceus extract activates immune response in macrophages via heparanase. Molecules (Basel,  Switzerland) 17 (6): 7232–7240.
-144 Shan, H. & Zheng, X. & Li, M. (2019). The effects of Astragalus Membranaceus Active Extracts on Autophagy-related Diseases. International Journal of Molecular Sciences 20 (8): 1904.
+References: Auyeung, K. & Han, Q. & Ko, J. (2016). Astragalus membranaceus: a review of its protection against inflammation and gastrointestinal cancers. The American Journal of Chinese  Medicine 44 (01): 1–22. 142 Brush, J. et al. (2006). The effect of Echinacea purpurea, Astragalus membranaceus and Glycyrrhiza glabra on CD69 expression and immune cell activation in humans. Phyto therapy Research 20 (8): 687–695. 143 Qin, Q. & Niu, J. & Wang, Z. & Xu, W. & Qiao, Z. & Gu, Y. (2012). Astragalus membranaceus extract activates immune response in macrophages via heparanase. Molecules (Basel,  Switzerland) 17 (6): 7232–7240. 144 Shan, H. & Zheng, X. & Li, M. (2019). The effects of Astragalus Membranaceus Active Extracts on Autophagy-related Diseases. International Journal of Molecular Sciences 20 (8): 1904.
 
 ### How can I strengthen my immune system?
 
