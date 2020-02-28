@@ -6,11 +6,10 @@ layout: page
 
 What types of medicinal mushrooms are there?
 
-**[Chaga](https://www.enviromedica.com/learn/prebiotics/#text-sec-7)**
+Chaga
+Chaga has been used by traditional cultures for its health benefits, for hundreds of years. It grows high up on the bark of birch trees in the Eastern U.S. and Canada. This mushroom presents as a hardened, blackened, crusty formation, with the appearance of a bursting tumor on the trunk of a birch tree. Chaga’s most important components, betulinic acid and melano-glucan complexes are derived from the bark of the birch trees the fungus grows on. Chaga is traditionally used as a tea and is revered for its anti-cancer and digestive health benefits.[3](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-3-4261)
 
-[](<>) Chaga has been used by traditional cultures for its health benefits, for hundreds of years. It grows high up on the bark of birch trees in the Eastern U.S. and Canada. This mushroom presents as a hardened, blackened, crusty formation, with the appearance of a bursting tumor on the trunk of a birch tree. Chaga’s most important components, betulinic acid and melano-glucan complexes are derived from the bark of the birch trees the fungus grows on. Chaga is traditionally used as a tea and is revered for its anti-cancer and digestive health benefits.[3](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-3-4261)
-
-[](<>)[](<>) In his review of recent research, Hastings[4](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-4-4261)found that Chaga demonstrated hypoglycemic effects in mice, anti-inflammatory and pain relieving properties, reduced oxidative stress, anti-gene mutation properties, and inhibition of liver cancer cells[5](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-5-4261)
+In his review of recent research, Hastings[4](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-4-4261)found that Chaga demonstrated hypoglycemic effects in mice, anti-inflammatory and pain relieving properties, reduced oxidative stress, anti-gene mutation properties, and inhibition of liver cancer cells[5](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-5-4261)
 
 Summary of the benefits of Chaga:
 
@@ -34,9 +33,9 @@ Summary of the benefits of Chaga:
 
   estimating its resource potential. International Journal of Medicinal Mushrooms 17 (2): 95–104.
 
-**Cordyceps**
+Cordyceps
 
-[](<>)[](<>)[](<>)[](<>) Cordyceps have a large variety of medicinal effects and Chinese practitioners have used them as medicine for hundreds of years. Cordyceps grow on moth larvae, and have a symbiotic relationship with their host.[6](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-6-4261)Traditionally, cordyceps were only used by the very few people who could afford it. They were used for the treatment of asthma, erectile dysfunction, and as a health tonic for the elderly. The main health benefit from cordyceps is increased energy because they help to deliver oxygen to the body at a cellular level. Due to their ability to increase metabolic efficiency, many athletes utilize cordyceps for increased efficiency of energy metabolism.[7](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-7-4261)In a 12 week study[8](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-8-4261)done on healthy older adults, cordycep use was associated with a 10.5% increase in metabolic threshold. The researchers concluded that supplementation with cordyceps improves exercise performance, and might contribute to wellness in healthy older subjects. Cordyceps are also used in treatment for asthma, cancer and diabetes.[9](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-9-4261)
+Cordyceps have a large variety of medicinal effects and Chinese practitioners have used them as medicine for hundreds of years. Cordyceps grow on moth larvae, and have a symbiotic relationship with their host.[6](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-6-4261)Traditionally, cordyceps were only used by the very few people who could afford it. They were used for the treatment of asthma, erectile dysfunction, and as a health tonic for the elderly. The main health benefit from cordyceps is increased energy because they help to deliver oxygen to the body at a cellular level. Due to their ability to increase metabolic efficiency, many athletes utilize cordyceps for increased efficiency of energy metabolism.[7](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-7-4261)In a 12 week study[8](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-8-4261)done on healthy older adults, cordycep use was associated with a 10.5% increase in metabolic threshold. The researchers concluded that supplementation with cordyceps improves exercise performance, and might contribute to wellness in healthy older subjects. Cordyceps are also used in treatment for asthma, cancer and diabetes.[9](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-9-4261)
 
 Summary of the benefits of cordyceps:
 
@@ -55,11 +54,11 @@ Summary of the benefits of cordyceps:
 
   Powell, M. (2013).*Medicinal Mushrooms: The Essential Guide.*Chalgrove, Oxfordshire. Mycology PresChen S., Li Z., & Krochmal R et al. 2010.*Effect of Cs-4® (Cordyceps sinensis) on Exercise Performance in Healthy Older Subjects: A Double-Blind, Placebo-Controlled Trial. The Journal of Alternative and Complementary Medicine*Volume: 16 Issue 5
 
-**Reishi**
+Reishi
 
-[](<>) In Ancient Chinese medicine Reishi is referred to as the “spirit herb”, known for its ability to improve mind, body and spirit. Reishi is also known as the mushroom of long life. The Reishi mushroom contains several bioactive compounds. These compounds include specific polysaccharides, with triterpene being one of the active polysaccharide compounds of Reishi mushroom. It possesses potent anti-inflammatory, anti-tumorigenic and hypolipidemic properties. Triterpenes from Reishi are associated with cancer cell death as well. Ganoderic acid is an important triterpene component which has shown inhibitory properties on cancer.[10](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-10-4261)Reishi is also associated with toning the blood, reducing phlegm, eradicating coughing and wheezing, strengthening the visceral organs, and promoting restful sleep.
+In Ancient Chinese medicine Reishi is referred to as the “spirit herb”, known for its ability to improve mind, body and spirit. Reishi is also known as the mushroom of long life. The Reishi mushroom contains several bioactive compounds. These compounds include specific polysaccharides, with triterpene being one of the active polysaccharide compounds of Reishi mushroom. It possesses potent anti-inflammatory, anti-tumorigenic and hypolipidemic properties. Triterpenes from Reishi are associated with cancer cell death as well. Ganoderic acid is an important triterpene component which has shown inhibitory properties on cancer.[10](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-10-4261)Reishi is also associated with toning the blood, reducing phlegm, eradicating coughing and wheezing, strengthening the visceral organs, and promoting restful sleep.
 
-[](<>) In one study[11](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-11-4261)on a very aggressive form of breast cancer, reishi selectively reduced cancer cell viability and invasion, as well as the expression of key proteins involved in the pathogenesis of breast cancer cells. Reishi downregulated the expression of cancer cells on over 10 different pathways.
+In one study[11](https://www.enviromedica.com/wellness/benefits-medicinal-mushrooms/#easy-footnote-bottom-11-4261)on a very aggressive form of breast cancer, reishi selectively reduced cancer cell viability and invasion, as well as the expression of key proteins involved in the pathogenesis of breast cancer cells. Reishi downregulated the expression of cancer cells on over 10 different pathways.
 
 Summary of the benefits of Reishi:
 
@@ -88,9 +87,9 @@ Astragalus is used for many conditions, but so far, there isn't enough scientifi
 Astragalus is taken by [mouth](https://www.webmd.com/oral-health/ss/slideshow-mouth-problems) for [hay fever](https://www.webmd.com/allergies/rhinitis), diabetes,[kidney disease](https://www.webmd.com/a-to-z-guides/understanding-kidney-disease-basic-information), and to strengthen and regulate the[immune system](https://www.webmd.com/cold-and-flu/immune-system-function).\
 \
 Some people use astragalus as a general tonic, to protect the [liver](https://www.webmd.com/digestive-disorders/picture-of-the-liver), and to fight bacteria and viruses. It is also used to prevent and reduce side effects associated with [cancer treatment](https://www.webmd.com/cancer/understanding-cancer-treatment).\
-\
+
 Astragalus is commonly used in combination with other herbs. \
-\
+
 There are several different species of astragalus. Some species contain a nerve toxin and have been linked to livestock poisonings. Some of these species include Astragalus lentiginosus, Astragalus mollissimus, and others. However, these species of astragalus are usually not found in[dietary supplements](https://www.webmd.com/vitamins-and-supplements/supplement-faq)used by humans. Most astragalus[supplements](https://www.webmd.com/vitamins-and-supplements/lifestyle-guide-11/default.htm)contain Astragalus membranaceus.
 
 ### How does Astragalus work?
@@ -139,6 +138,16 @@ For most healthy individuals, the body can only hold and use about 200 to 250 mg
 * **Vitamin B6**is vital to supporting biochemical reactions in the immune system. Vitamin B6-rich foods include chicken and cold water fish such as salmon and tuna. Vitamin B6 also is found in green vegetables and in chickpeas, which is the main ingredient in hummus.
 * **Vitamin E**is a powerful antioxidant that helps the body fight off infection. Foods rich in vitamin E include nuts, seeds and spinach.
 
+* Vitamine D It is now clear that vitamin D has important roles in addition to its classic effects on calcium and bone 	homeostasis. ... Vitamin D can modulate the innate and adaptive immune responses. Deficiency in vitamin D is associated 	with increased autoimmunity as well as an increased susceptibility to infection. Several systematic reviews of daily vitamin D supplementation have shown it to be protective against respiratory tract infections.
+
+What kind of zinc is best for colds?
+Zinc gluconate: As one of the most common over-the-counter forms of zinc, zinc gluconate is often used in cold remedies, such as lozenges and nasal sprays (2). Zinc acetate: Like zinc gluconate, zinc acetate is often added to cold lozenges to reduce symptoms and speed up the rate of recovery.
+
+Does zinc help with immune system?
+Zinc is a mineral that's important to the body in many ways. Zinc keeps the immune system strong, helps heal wounds, and supports normal growth.
+
+How much zinc should I take for immune system?
+People use oral zinc to help treat colds, but it can decrease the effectiveness of certain drugs and cause side effects. The recommended daily amount of zinc is 8 milligrams (mg) for women and 11 mg for adult men
 ### **What is MELATONIN used for ?**
 
 ### ANTIOXIDANT
