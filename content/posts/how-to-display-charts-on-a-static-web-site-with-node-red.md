@@ -38,8 +38,6 @@ load-plotly.html
 {{ end }}
 ```
 
-
-
 plotly.html
 
 ```html
@@ -53,8 +51,6 @@ Plotly.d3.json({{$json}}, function(err, fig) {
 </script>
 ```
 
-
-
 vega.html
 
 ```html
@@ -67,8 +63,6 @@ vega.html
 </script>
 ```
 
-
-
 In the head.html or header.html file we add the necessary javascript libraries:
 
 head.html can be found here: [airspace-hugo](https://github.com/ulfsv/airspace-hugo)/[layouts](https://github.com/ulfsv/airspace-hugo/tree/master/layouts)/**partials**/
@@ -79,19 +73,16 @@ The following code for plotly and vega are placed in the end of the head section
 
 ```html
   {{- if .Params.Plotly }}
-<!-- script src="https://cdn.plot.ly/plotly-1.50.0.min.js"></script -->
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 {{- end }}
   
   {{ if .Params.vega }}
-<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-<script src="https://cdn.jsdelivr.net/npm/vega-lite@2"></script>
-<script src="https://cdn.jsdelivr.net/npm/vega-embed@3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@3"></script>
 {{ end }}
 </head>
 ```
-
-
 
 In the content folder ( [airspace-hugo](https://github.com/ulfsv/airspace-hugo)/[content](https://github.com/ulfsv/airspace-hugo/tree/master/content)/[english](https://github.com/ulfsv/airspace-hugo/tree/master/content/english)/**project**/) I create a markdown page chartexample.md
 
@@ -122,8 +113,8 @@ vega : true
   
 ```
 
-
-
 The shortcode for plotly and vega loads the json files that are downloaded to 
 
-[airspace-hugo](https://github.com/ulfsv/airspace-hugo)/**static**/ folder from Node-red.
+[airspace-hugo](https://github.com/ulfsv/airspace-hugo)/**static**/ folder from Node-red. 
+
+To enable the Vega chart vega :  true is added.
