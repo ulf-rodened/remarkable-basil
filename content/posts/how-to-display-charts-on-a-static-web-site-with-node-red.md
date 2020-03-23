@@ -138,13 +138,13 @@ vega : true
 
 {{< plotly json="/heatmap.json" height="400px" >}}
 
-## Vega Lite, bar and line chart 
+## Vega, bar and line chart 
 
 {{<vega id="viz" spec="/vega.json">}}
   
 ## Vega, Word Cloud 
 
-{{<vega id="viz2" spec="/wordcloud.json">}}  
+{{<vega id="viz2" spec="/wordcloud.json">}}
 ```
 
 The shortcode for plotly and vega loads the json files that are downloaded to 
