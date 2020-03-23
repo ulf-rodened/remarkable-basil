@@ -126,11 +126,11 @@ The double paranthesis should be double mustaches. But cannot use it here as it 
 
 Vega, bar and line chart
 
-{{ <vega id="viz" spec="/vega.json"> }}
+{{< vega id="viz" spec="/vega.json" > }}
 
 Vega, Word Cloud
 
-{{ <vega id="viz2" spec="/wordcloud.json"> }}
+{{< vega id="viz2" spec="/wordcloud.json" > }}
 
 {{< load-plotly >}}
 
