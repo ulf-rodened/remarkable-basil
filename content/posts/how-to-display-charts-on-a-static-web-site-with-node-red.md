@@ -117,7 +117,7 @@ Vega, Word Cloud
 
 The double paranthesis should be double mustaches. But cannot use it here as it will display the chart instead, like below.
 
-```markdown
+```html
 ---
 title: "Chart examples"
 description: Insert and update charts with python and node-red"
