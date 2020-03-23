@@ -85,7 +85,7 @@ The following code for plotly and vega are placed in the end of the head section
 
 In the content folder ( [airspace-hugo](https://github.com/ulfsv/airspace-hugo)/[content](https://github.com/ulfsv/airspace-hugo/tree/master/content)/[english](https://github.com/ulfsv/airspace-hugo/tree/master/content/english)/**project**/) I create a markdown page chartexample.md
 
-```
+```html
 ---
 title: "Chart examples"
 description: Insert and update charts with python and node-red"
