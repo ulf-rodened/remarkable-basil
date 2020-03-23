@@ -128,6 +128,15 @@ category: "UI/UX Design"
 vega : true
 
 ---
+
+## Vega, bar and line chart 
+
+{{ <vega id="viz" spec="/vega.json"> }}
+  
+## Vega, Word Cloud 
+
+{{ <vega id="viz2" spec="/wordcloud.json"> }}
+
 {{< load-plotly >}}
 
 ## Plotly Time series example
@@ -138,13 +147,7 @@ vega : true
 
 {{< plotly json="/heatmap.json" height="400px" >}}
 
-## Vega, bar and line chart 
 
-{{<vega id="viz" spec="/vega.json">}}
-  
-## Vega, Word Cloud 
-
-{{<vega id="viz2" spec="/wordcloud.json">}}
 
 
 The shortcode for plotly and vega loads the json files that are downloaded to 
