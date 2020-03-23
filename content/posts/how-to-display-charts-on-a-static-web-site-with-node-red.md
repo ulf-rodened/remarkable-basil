@@ -85,15 +85,13 @@ The following code for plotly and vega are placed in the end of the head section
 
 In the content folder ( [airspace-hugo](https://github.com/ulfsv/airspace-hugo)/[content](https://github.com/ulfsv/airspace-hugo/tree/master/content)/[english](https://github.com/ulfsv/airspace-hugo/tree/master/content/english)/**project**/) I create a markdown page chartexample.md
 
+- - -
 
----
-
-title: "Chart examples" description: Insert and update charts with python and node-red" draft: false image : "images/portfolio/work4.jpg"
-bg_image: "images/featue-bg.jpg"
+title: "Chart examples" description: Insert and update charts with python and node-red" draft: false image : "images/portfolio/work4.jpg" bg_image: "images/featue-bg.jpg"
 category: "UI/UX Design"
 vega : true
 
----
+- - -
 
 ((< load-plotly >))
 
@@ -107,7 +105,7 @@ Plotly Heat map with annotation
 
 Vega-Lite, bar and line chart
 
-((<vega id="viz" spec="/vega.json">))
+((< vega id="viz" spec="/vega.json" >))
 
 The double paranthesis should be double mustaches. But cannot use it here as it will display the chart instead.
 
@@ -136,8 +134,6 @@ vega : true
 
 {{<vega id="viz" spec="/vega.json">}}
 ```
-
-
 
 The shortcode for plotly and vega loads the json files that are downloaded to 
 
