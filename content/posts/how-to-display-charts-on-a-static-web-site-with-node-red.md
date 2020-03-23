@@ -111,6 +111,10 @@ Vega-Lite, bar and line chart
 
 ((< vega id="viz" spec="/vega.json" >))
 
+Vega, Word Cloud
+
+((<vega id="viz2" spec="/wordcloud.json">))
+
 The double paranthesis should be double mustaches. But cannot use it here as it will display the chart instead, like below.
 
 ```markdown
@@ -137,6 +141,10 @@ vega : true
 ## Vega Lite, bar and line chart 
 
 {{<vega id="viz" spec="/vega.json">}}
+  
+## Vega, Word Cloud 
+
+{{<vega id="viz2" spec="/wordcloud.json">}}  
 ```
 
 The shortcode for plotly and vega loads the json files that are downloaded to 
