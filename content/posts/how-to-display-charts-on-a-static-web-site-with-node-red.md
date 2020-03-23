@@ -4,9 +4,15 @@ date: 2020-03-23T13:12:58.852Z
 thumb_img_path: /images/charts.png
 layout: post
 ---
+![](/images/charts.png)
+
 A static web site is fast and flexible but it is not so easy to keep them updated or add interactive charts.
 
+![](/images/editor_charts.jpg)
+
 Here is an example of how to use Node-red in the cloud on https://www.rodened.com to update a static Hugo site on github with interactive time series line charts or heat maps with Plotly and Vega lite.
+
+![](/images/vega.png)
 
 To create the Plotly charts I created python scripts and used the pythonshell node to execute the script to output the chart. For the Vega Lite chart I took one of the examples and made the output of the chart to Github in json format.
 
@@ -87,8 +93,7 @@ In the content folder ( [airspace-hugo](https://github.com/ulfsv/airspace-hugo)/
 
 - - -
 
-title: "Chart examples" description: Insert and update charts with python and node-red" draft: false image : "images/portfolio/work4.jpg" bg_image: "images/featue-bg.jpg" category: "UI/UX Design"
-vega : true
+title: "Chart examples" description: Insert and update charts with python and node-red" draft: false image : "images/portfolio/work4.jpg" bg_image: "images/featue-bg.jpg" category: "UI/UX Design" vega : true
 
 - - -
 
