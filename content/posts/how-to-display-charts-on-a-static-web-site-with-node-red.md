@@ -117,7 +117,7 @@ Vega, Word Cloud
 
 The double paranthesis should be double mustaches. But cannot use it here as it will display the chart instead, like below.
 
-```html
+
 ---
 title: "Chart examples"
 description: Insert and update charts with python and node-red"
@@ -145,7 +145,7 @@ vega : true
 ## Vega, Word Cloud 
 
 {{<vega id="viz2" spec="/wordcloud.json">}}
-```
+
 
 The shortcode for plotly and vega loads the json files that are downloaded to 
 
