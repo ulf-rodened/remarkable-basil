@@ -24,6 +24,18 @@
           <div class="post-card-content">
             <header class="post-header">
               <h3 class="post-title"><a href="{{ $post.URL }}" rel="bookmark">{{ $post.Params.title }}</a></h3>
+              
+              {{- if .Params.Plotly }}
+            <!-- script src="https://cdn.plot.ly/plotly-1.50.0.min.js"></script -->
+                <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+            {{- end }}
+
+              {{ if .Params.vega }}
+            <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+            <script src="https://cdn.jsdelivr.net/npm/vega-lite@2"></script>
+            <script src="https://cdn.jsdelivr.net/npm/vega-embed@3"></script>
+            {{ end }}
+              
             </header>
             <div class="post-excerpt">
               <p>{{ $post.Params.excerpt }}</p>
