@@ -14,7 +14,7 @@ Here is an example of how to use Node-red in the cloud on https://www.rodened.co
 
 ![](/images/vega.png)
 
-To create the Plotly charts I created python scripts and used the pythonshell node to execute the script to output the chart. For the Vega Lite chart I took one of the examples and made the output of the chart to Github in json format.
+To create the Plotly charts I created python scripts and used the pythonshell node to execute the script to output the chart. The time serie is the Microsoft stock price that is submitted from Alphavantage. The latest 100 days are downloaded when the script is run. For the Vega Lite chart I took one of the examples and made the output of the chart to Github in json format.
 
 The extra node used in this example are:
 
