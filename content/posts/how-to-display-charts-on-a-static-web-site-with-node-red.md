@@ -4,19 +4,19 @@ date: 2020-03-23T13:12:58.852Z
 thumb_img_path: /images/charts.png
 layout: post
 ---
-Static web site are fast and flexible but is not so easy to keep them updated or add interactive charts.
+A static web site is fast and flexible but it is not so easy to keep them updated or add interactive charts.
 
 Here is an example of how to use Node-red in the cloud on https://www.rodened.com to update a static Hugo site on github with interactive time series line charts or heat maps with Plotly and Vega lite.
 
-To create the Plotly charts I created python scripts and used the pythonshell node to execute the script to output the chart. For the Vega Lite chart I took one of the examples and made an output of the chart to Github in json format.
+To create the Plotly charts I created python scripts and used the pythonshell node to execute the script to output the chart. For the Vega Lite chart I took one of the examples and made the output of the chart to Github in json format.
 
-Extra node used in this example are:
+The extra node used in this example are:
 
 * node-red-contrib-github
 * node-red-contrib-pythonshell
 * node-red-node-ui-vega
 
-On Github the theme used for the static Hugo site needs some updates in order to show the charts.
+On Github, the theme used for the static Hugo site needs some updates in order to show the charts.
 
 * Create shortcodes 
 * In partials add javascript for plotly and vega libraries
@@ -24,7 +24,7 @@ On Github the theme used for the static Hugo site needs some updates in order to
 
 ## Shortcodes
 
-For this example I used the Hugo theme airspace-hugo. The shortcode files are placed in a folder called shortcodes. The path to the files are airspace-hugo/layouts/shortcodes/.
+For this example, I used the Hugo theme airspace-hugo. The shortcode files are placed in a folder called shortcodes. The path to the files is airspace-hugo/layouts/shortcodes/.
 
 The following files will be used:
 
@@ -85,32 +85,31 @@ The following code for plotly and vega are placed in the end of the head section
 
 In the content folder ( [airspace-hugo](https://github.com/ulfsv/airspace-hugo)/[content](https://github.com/ulfsv/airspace-hugo/tree/master/content)/[english](https://github.com/ulfsv/airspace-hugo/tree/master/content/english)/**project**/) I create a markdown page chartexample.md
 
-\-------
 
-- - -
+---
 
 title: "Chart examples" description: Insert and update charts with python and node-red" draft: false image : "images/portfolio/work4.jpg"
 bg_image: "images/featue-bg.jpg"
 category: "UI/UX Design"
 vega : true
 
-- - -
+---
 
-{{< load-plotly >}}
+((< load-plotly >))
 
-Plotly Time series example
+Plotly Time-series example
 
-{{< plotly json="/plotly2.json" height="400px" >}}
+((< plotly json="/plotly2.json" height="400px" >))
 
 Plotly Heat map with annotation
 
-{{< plotly json="/heatmap.json" height="400px" >}}
+((< plotly json="/heatmap.json" height="400px" >))
 
-Vega Lite, bar and line chart
+Vega-Lite, bar and line chart
 
-{{<vega id="viz" spec="/vega.json">}}
+((<vega id="viz" spec="/vega.json">))
 
-\-------
+The double paranthesis should be double mustaches. But cannot use it here as it will display the chart instead.
 
 ```markdown
 ---
