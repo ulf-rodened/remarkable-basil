@@ -124,4 +124,6 @@ vega : true
 
 
 
-The shortcode for plotly and vega
+The shortcode for plotly and vega loads the json files that are downloaded to 
+
+[airspace-hugo](https://github.com/ulfsv/airspace-hugo)/**static**/ folder from Node-red.
