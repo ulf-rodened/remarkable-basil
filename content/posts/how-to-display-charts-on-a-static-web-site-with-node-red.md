@@ -2,7 +2,7 @@
 title: How to display charts on a static web site with Node-red
 date: 2020-03-23T13:12:58.852Z
 thumb_img_path: /images/charts.png
-vega : true
+vega: true
 layout: post
 ---
 ![](/images/charts.png)
@@ -94,7 +94,12 @@ In the content folder ( [airspace-hugo](https://github.com/ulfsv/airspace-hugo)/
 
 - - -
 
-title: "Chart examples" description: Insert and update charts with python and node-red" draft: false image : "images/portfolio/work4.jpg" bg_image: "images/featue-bg.jpg" category: "UI/UX Design" vega : true
+title: "Chart examples" description: Insert and update charts with python and node-red" 
+draft: false 
+image : "images/portfolio/work4.jpg" bg_
+image: "images/featue-bg.jpg" 
+category: "UI/UX Design" 
+vega : true
 
 - - -
 
@@ -114,48 +119,32 @@ Vega-Lite, bar and line chart
 
 Vega, Word Cloud
 
-((<vega id="viz2" spec="/wordcloud.json">))
+(( < vega id="viz2" spec="/wordcloud.json" > ))
 
 The double paranthesis should be double mustaches. But cannot use it here as it will display the chart instead, like below.
 
 
----
-title: "Chart examples"
-description: Insert and update charts with python and node-red"
-draft: false
-image : "images/portfolio/work4.jpg"
-bg_image: "images/featue-bg.jpg"
-category: "UI/UX Design"
-vega : true
-
----
-
-## Vega, bar and line chart 
+Vega, bar and line chart
 
 {{ <vega id="viz" spec="/vega.json"> }}
-  
-## Vega, Word Cloud 
+
+Vega, Word Cloud
 
 {{ <vega id="viz2" spec="/wordcloud.json"> }}
 
 {{< load-plotly >}}
 
-## Plotly Time series example
+Plotly Time series example
 
 {{< plotly json="/plotly2.json" height="400px" >}}
 
-## Plotly Heat map with annotation
+Plotly Heat map with annotation
 
 {{< plotly json="/heatmap.json" height="400px" >}}
 
+The shortcode for plotly and vega loads the json files that are downloaded to [airspace-hugo](https://github.com/ulfsv/airspace-hugo)/static/ folder from Node-red. 
 
-
-
-The shortcode for plotly and vega loads the json files that are downloaded to 
-
-[airspace-hugo](https://github.com/ulfsv/airspace-hugo)/**static**/ folder from Node-red. 
-
-To enable the Vega chart vega :  true is added.
+To enable the Vega chart, vega :  true is added.
 
 The flow to set up the python virtual environment , load libraries and create python script for the plotly chart is here:
 
