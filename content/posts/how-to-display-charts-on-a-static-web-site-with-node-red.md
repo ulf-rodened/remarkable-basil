@@ -66,3 +66,62 @@ vega.html
   }).catch(console.error);
 </script>
 ```
+
+
+
+In the head.html or header.html file we add the necessary javascript libraries:
+
+head.html can be found here: [airspace-hugo](https://github.com/ulfsv/airspace-hugo)/[layouts](https://github.com/ulfsv/airspace-hugo/tree/master/layouts)/**partials**/
+
+head.html
+
+The following code for plotly and vega are placed in the end of the head section:
+
+```html
+  {{- if .Params.Plotly }}
+<!-- script src="https://cdn.plot.ly/plotly-1.50.0.min.js"></script -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+{{- end }}
+  
+  {{ if .Params.vega }}
+<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@2"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@3"></script>
+{{ end }}
+</head>
+```
+
+
+
+In the content folder ( [airspace-hugo](https://github.com/ulfsv/airspace-hugo)/[content](https://github.com/ulfsv/airspace-hugo/tree/master/content)/[english](https://github.com/ulfsv/airspace-hugo/tree/master/content/english)/**project**/) I create a markdown page chartexample.md
+
+```markdown
+---
+title: "Chart examples"
+description: Insert and update charts with python and node-red"
+draft: false
+image : "images/portfolio/work4.jpg"
+bg_image: "images/featue-bg.jpg"
+category: "UI/UX Design"
+vega : true
+
+---
+{{< load-plotly >}}
+
+## Plotly Time series example
+
+{{< plotly json="/plotly2.json" height="400px" >}}
+
+## Plotly Heat map with annotation
+
+{{< plotly json="/heatmap.json" height="400px" >}}
+
+## Vega Lite, bar and line chart 
+
+{{<vega id="viz" spec="/vega.json">}}
+  
+```
+
+
+
+The shortcode for plotly and vega
