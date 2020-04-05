@@ -1,5 +1,5 @@
 ---
-title: Concussions in the NFL
+title: NFL Community
 img_path: /images/action-adult-american-football-angry-264300.jpg
 layout: page
 ---
