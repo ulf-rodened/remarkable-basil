@@ -4,6 +4,6 @@ layout: page
 ---
 {{< load-plotly >}}
 
-## Plotly Time series example
+## OMX30
 
-{{< plotly json="/omx/nytt.json" height="400px" >}}
+{{< plotly json="/omx/nytt.json" height="400px" width="600px" >}}
