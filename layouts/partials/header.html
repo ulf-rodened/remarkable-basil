@@ -44,4 +44,8 @@
 
     </div><!-- .site-header-inside -->
   </div><!-- .inner -->
+                {{- if .Params.Plotly }}
+            <!-- script src="https://cdn.plot.ly/plotly-1.50.0.min.js"></script -->
+                <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+            {{- end }}
 </header><!-- .site-header -->
