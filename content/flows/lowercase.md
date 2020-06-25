@@ -1,4 +1,9 @@
 ---
+title: "Example flow lowercase"
+layout: page
+---
+
+---
 
 [
     {
