@@ -1,6 +1,6 @@
 <!doctype html>
 <html>
-    <head>    
+    <head>
         <meta name="yandex-verification" content="39953f7a3b4bbac2" />
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-154997230-1"></script>
@@ -19,7 +19,7 @@
 Create your workflows without coding and integrate cloud services, email, chat, e-commerce, ai and more." />
         <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700,700i" rel="stylesheet">
         <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ExecuteAsTemplate "assets/css/main.css" . | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10)).Permalink }}">
-       
+
         {{ if .Params.vega }}
         <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
         <script src="https://cdn.jsdelivr.net/npm/vega-lite@2"></script>
@@ -27,7 +27,7 @@ Create your workflows without coding and integrate cloud services, email, chat, 
         {{ end }}
     </head>
     <body>
-        
+
         <div id="page" class="site palette-{{ .Site.Params.palette }}">
           {{ partial "header.html" . }}
           <main id="content" class="site-content">
@@ -44,7 +44,7 @@ Create your workflows without coding and integrate cloud services, email, chat, 
   "@context" : "http://schema.org",
   "@type" : "Product",
   "name" : "Green Hornet",
-  "image" : "https://www.rodened.com/images/rodened_b2_300.png",
+  "image" : "https://www.apivis.com/images/rodened_b2_300.png",
   "description" : "Node-red service</LI><LI>Web-based</LI><LI>1 Shared CPU</LI><LI>512MB RAM</LI><LI>5GB SDD</LI><LI>100 GB/month network bandwidth (usage above $0.20/GB)",
   "offers" : {
     "@type" : "Offer",
@@ -55,7 +55,7 @@ Create your workflows without coding and integrate cloud services, email, chat, 
   "@context" : "http://schema.org",
   "@type" : "Product",
   "name" : "Purple Super Paste",
-  "image" : "https://www.rodened.com/images/rodened_b2_300.png",
+  "image" : "https://www.apivis.com/images/rodened_b2_300.png",
   "description" : "Node-red service\n* Web-based\n* 1 CPU\n* 1GB RAM\n* 10GB SSD\n* 100 GB/month network bandwidth (usage above $0.20/GB)",
   "offers" : {
     "@type" : "Offer",
@@ -64,5 +64,5 @@ Create your workflows without coding and integrate cloud services, email, chat, 
   }
 } ]
 </script>
-    </body> 
+    </body>
 </html>

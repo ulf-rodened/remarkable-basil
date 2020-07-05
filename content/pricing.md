@@ -5,7 +5,7 @@ sections:
     pricingplans:
       - actions:
           - label: Login to dasboard
-            url: 'https://app.rodened.io'
+            url: 'https://app.apivis.io'
         amount: 14
         description: Green hornet
         details: >
@@ -32,7 +32,7 @@ sections:
         title: Green Hornet
       - actions:
           - label: Login to dasboard
-            url: 'https://app.rodened.io'
+            url: 'https://app.apivis.io'
         amount: 30
         description: Purple Super Paste
         details: >-
@@ -63,7 +63,7 @@ sections:
     type: section_pricing
   - bg: gray
     content: >-
-      <a href="https://www.rodened.com/how-to-subscribe/" target="_blank">How to
+      <a href="https://www.apivis.com/how-to-subscribe/" target="_blank">How to
       subscribe</a>
     section_id: ''
     type: section_content
@@ -73,4 +73,3 @@ menu:
     weight: 3
 layout: landing
 ---
-

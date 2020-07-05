@@ -37,7 +37,7 @@ Register the application and copy the Client ID and Client Secret.
 
 ![](/images/github8.png)
 
-Go to rodened.com and select a subscription or click on login to dashboard on the first page. 
+Go to apivis.com and select a subscription or click on login to dashboard on the first page.
 
 ![](/images/rodenedhomepage1.png)
 
@@ -51,7 +51,7 @@ Click on Log in with Github.
 
 ![](/images/applogin10.png)
 
-Authorize rodened.
+Authorize apivis.
 
 ![](/images/rodenedapp2.png)
 
@@ -79,10 +79,10 @@ Create a payment plan.
 
 ![](/images/rodenedapp7.png)
 
-Now you will have a box with the server details on the app.rodened.io dashboard. Click on the OAuth settings.
+Now you will have a box with the server details on the app.apivis.io dashboard. Click on the OAuth settings.
 
 ![](/images/rodenedapp8.png)
 
-Fill in the information that you copied from the OAuth app on Github and Save. Now your Node-RED editor will be deployed.  After a couple of minutes you can open the URL for the editor (marked with a red rectangle). 
+Fill in the information that you copied from the OAuth app on Github and Save. Now your Node-RED editor will be deployed.  After a couple of minutes you can open the URL for the editor (marked with a red rectangle).
 
 ![](/images/rodenedapp9.png)

@@ -3,11 +3,11 @@ title: 'Home '
 sections:
   - actions:
       - label: Login to dashboard
-        url: 'https://app.rodened.io'
+        url: 'https://app.apivis.io'
     content: >-
       <meta name="description" content="Quickly connect services, API and IoT
       hardware.Create your workflows without coding and integrate cloud
-      services, email, chat, e-commerce, ai and more with Rodened cloud based
+      services, email, chat, e-commerce, ai and more with APIVIS cloud based
       editor. Read more about all features and start building for free.">
 
       Create your workflows without coding and integrate cloud services, email,
@@ -35,12 +35,12 @@ sections:
         title: Build your own APIs
       - content: >-
           Connect to existing AI services for sentiment analysis, text to
-          speech, <a href="https://nodered.rodened.io/#flow/759829d8.7796d8"
-          target="_blank">object detection</a> or your own custom models using 
-          <a href="https://nodered.rodened.io/#flow/5fa11f1a.5c106"
+          speech, <a href="https://nodered.apivis.io/#flow/759829d8.7796d8"
+          target="_blank">object detection</a> or your own custom models using
+          <a href="https://nodered.apivis.io/#flow/5fa11f1a.5c106"
           target="_blank">Python</a> or javascript or R and make them available
           from a javascript application <a
-          href="https://nodered.rodened.io/api/ui/#!/0?socketid=FE0u8A0NKakOSYJHAAAg"
+          href="https://nodered.apivis.io/api/ui/#!/0?socketid=FE0u8A0NKakOSYJHAAAg"
           target="_blank">frontend</a>.
         image: /images/ML.png
         title: Setup a frontend for a machine learning model
@@ -51,24 +51,24 @@ sections:
         title: Monitor network and devices
       - content: >-
           There is lot of resources to look into if you don't know how to build
-          a flow in the Rodened editor. A good place to start is our editor that
-          is free to try at <a href="https://demo.rodened.io"
-          target="_blank">https://demo.rodened.io</a>. The cloud based editor is
+          a flow in the APIVIS editor. A good place to start is our editor that
+          is free to try at <a href="https://demo.apivis.io"
+          target="_blank">https://demo.apivis.io</a>. The cloud based editor is
           set up in the same way as your own subscription will be. On the
           NODE-RED home page there is a <a href="https://discourse.nodered.org/"
           target="_blank">Discourse </a>forum which is an excellent place to
           search for answers and ask questions and also a <a
-          href="https://nodered.org/slack/" target="_blank">Slack</a> forum. 
+          href="https://nodered.org/slack/" target="_blank">Slack</a> forum.
           Example flows (1379) and nodes (2361) can easily be found at <a
           href="https://flows.nodered.org/" target="_blank">the flows menu on
           nodered.org</a> <a
           href="https://stackoverflow.com/questions/tagged/node-red"
           target="_blank">Stack Overflow</a> could also be a source for
-          information if you have a more specific question. 
+          information if you have a more specific question.
 
 
           We are also glad to help you. Use the[ contact
-          form](https://www.rodened.com/contact/) and we will answer as soon as
+          form](https://www.apivis.com/contact/) and we will answer as soon as
           possible.
         image: /images/people-looking-at-laptop-computer-1595391.jpg
         title: Support
@@ -76,7 +76,7 @@ sections:
           1. Setup a free github account
           2. Submit your email that you use for the github account
           3. We setup your cloud based platform in minutes
-          4. Start building your flows 
+          4. Start building your flows
           5. Deploy for production
         image: /images/yellow-hot-air-balloon-floating-1740097.jpg
         title: How it works
@@ -97,4 +97,3 @@ menu:
     weight: 1
 layout: landing
 ---
-
