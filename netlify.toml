@@ -3,3 +3,8 @@ publish = "public"
 command = "hugo --gc --minify"
   [build.environment]
   HUGO_VERSION = "0.47"
+
+[[redirects]]
+from = "/*"
+to = "https://www.apivis.com/:splat"
+status = 301
