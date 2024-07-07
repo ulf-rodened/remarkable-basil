@@ -16,21 +16,21 @@ status = 301
 force = true
 [[redirects]]
 from = "https://www.rodened.com/blog"
-to = "https://www.apivis.com/#blogposts:splat"
+to = "https://www.apivis.com/#blogposts/:splat"
 status = 301
 force = true
 [[redirects]]
 from = "https://rodened.com/blog"
-to = "https://www.apivis.com/#blogposts:splat"
+to = "https://www.apivis.com/#blogposts/:splat"
 status = 301
 force = true
 [[redirects]]
 from = "https://www.rodened.com/pricing"
-to = "https://www.apivis.com/#blogposts:splat"
+to = "https://www.apivis.com/#blogposts/:splat"
 status = 301
 force = true
 [[redirects]]
 from = "https://rodened.com/pricing"
-to = "https://www.apivis.com/#blogposts:splat"
+to = "https://www.apivis.com/#blogposts/:splat"
 status = 301
 force = true
