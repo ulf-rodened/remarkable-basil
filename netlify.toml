@@ -5,32 +5,32 @@ command = "hugo --gc --minify"
   HUGO_VERSION = "0.47"
 
 [[redirects]]
-from = "https://www.rodened.com/index.html"
+from = "https://www.rodened.com/"
 to = "https://www.apivis.com/:splat"
 status = 301
 force = true
 [[redirects]]
-from = "https://rodened.com/index.html"
+from = "https://rodened.com/"
 to = "https://www.apivis.com/:splat"
 status = 301
 force = true
 [[redirects]]
 from = "https://www.rodened.com/blog"
-to = "https://www.apivis.com/#blogposts/:splat"
+to = "https://www.apivis.com/#blogposts/"
 status = 301
 force = true
 [[redirects]]
 from = "https://rodened.com/blog"
-to = "https://www.apivis.com/#blogposts/:splat"
+to = "https://www.apivis.com/#blogposts/"
 status = 301
 force = true
 [[redirects]]
 from = "https://www.rodened.com/pricing"
-to = "https://www.apivis.com/#blogposts/:splat"
+to = "https://www.apivis.com/pricing/"
 status = 301
 force = true
 [[redirects]]
 from = "https://rodened.com/pricing"
-to = "https://www.apivis.com/#blogposts/:splat"
+to = "https://www.apivis.com/pricing/"
 status = 301
 force = true
