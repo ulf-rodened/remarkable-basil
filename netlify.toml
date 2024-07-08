@@ -5,6 +5,10 @@ command = "hugo --gc --minify"
   HUGO_VERSION = "0.47"
 
 [[redirects]]
-from = "/*"
+from = "https://www.rodened.com/*"
+to = "https://www.apivis.com/:splat"
+status = 301
+[[redirects]]
+from = "https://rodened.com/*"
 to = "https://www.apivis.com/:splat"
 status = 301
